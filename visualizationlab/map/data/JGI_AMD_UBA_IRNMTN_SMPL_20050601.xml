@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>JGI_AMD_UBA_IRNMTN_SMPL_20050601</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>106</val></count>
+		<node name="Bacteria">
+		<count><val>67</val></count>
+			<node name="Nitrospirae">
+			<count><val>28</val></count>
+				<node name="Nitrospirales">
+				<count><val>28</val></count>
+					<node name="Nitrospiraceae">
+					<count><val>28</val></count>
+						<node name="Leptospirillum">
+						<count><val>28</val></count>
+							<node name="Unclassified">
+							<count><val>28</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>32</val></count>
+			</node>
+			<node name="Thermolithobacter">
+			<count><val>1</val></count>
+			</node>
+			<node name="Firmicutes">
+			<count><val>1</val></count>
+				<node name="Bacillales">
+				<count><val>1</val></count>
+					<node name="Alicyclobacillaceae">
+					<count><val>1</val></count>
+						<node name="Sulfobacillus">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Actinobacteria">
+			<count><val>4</val></count>
+				<node name="Microthrix">
+				<count><val>3</val></count>
+					<node name="Unclassified">
+					<count><val>3</val></count>
+					</node>
+				</node>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Betaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Burkholderiales">
+					<count><val>1</val></count>
+						<node name="Comamonadaceae">
+						<count><val>1</val></count>
+							<node name="Hydrogenophaga">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Archaea">
+		<count><val>39</val></count>
+			<node name="Euryarchaeota">
+			<count><val>39</val></count>
+				<node name="Methanopyri">
+				<count><val>19</val></count>
+					<node name="Methanopyrales">
+					<count><val>19</val></count>
+						<node name="Methanopyraceae">
+						<count><val>19</val></count>
+							<node name="Methanopyrus">
+							<count><val>19</val></count>
+								<node name="Unclassified">
+								<count><val>19</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Halobacteria">
+				<count><val>12</val></count>
+					<node name="Halobacteriales">
+					<count><val>12</val></count>
+						<node name="Halobacteriaceae">
+						<count><val>12</val></count>
+							<node name="Halobacterium">
+							<count><val>12</val></count>
+								<node name="Unclassified">
+								<count><val>12</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Methanomicrobia">
+				<count><val>6</val></count>
+					<node name="Methanosarcinales">
+					<count><val>6</val></count>
+						<node name="Methanosarcinaceae">
+						<count><val>6</val></count>
+							<node name="Methanosarcina">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Thermoplasmata">
+				<count><val>1</val></count>
+					<node name="Thermoplasmatales">
+					<count><val>1</val></count>
+						<node name="Picrophilaceae">
+						<count><val>1</val></count>
+							<node name="Picrophilus">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Methanococci">
+				<count><val>1</val></count>
+					<node name="Methanococcales">
+					<count><val>1</val></count>
+						<node name="Methanococcaceae">
+						<count><val>1</val></count>
+							<node name="Methanococcus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

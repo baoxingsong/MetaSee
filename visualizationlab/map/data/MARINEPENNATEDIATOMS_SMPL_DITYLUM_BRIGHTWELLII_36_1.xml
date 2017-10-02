@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>MARINEPENNATEDIATOMS_SMPL_DITYLUM_BRIGHTWELLII_36_1</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>306</val></count>
+		<node name="Eukaryota">
+		<count><val>305</val></count>
+			<node name="stramenopiles">
+			<count><val>305</val></count>
+				<node name="Bacillariophyta">
+				<count><val>305</val></count>
+					<node name="Coscinodiscophyceae">
+					<count><val>304</val></count>
+						<node name="Thalassiosirophycidae">
+						<count><val>304</val></count>
+							<node name="Thalassiosirales">
+							<count><val>304</val></count>
+								<node name="Thalassiosiraceae">
+								<count><val>304</val></count>
+									<node name="Thalassiosira">
+									<count><val>304</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Bacillariophyceae">
+					<count><val>1</val></count>
+						<node name="Bacillariophycidae">
+						<count><val>1</val></count>
+							<node name="Naviculales">
+							<count><val>1</val></count>
+								<node name="Phaeodactylaceae">
+								<count><val>1</val></count>
+									<node name="Phaeodactylum">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Bacteria">
+		<count><val>1</val></count>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Rickettsiales">
+					<count><val>1</val></count>
+						<node name="Rickettsiaceae">
+						<count><val>1</val></count>
+							<node name="Rickettsieae">
+							<count><val>1</val></count>
+								<node name="Rickettsia">
+								<count><val>1</val></count>
+									<node name="Unclassified">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

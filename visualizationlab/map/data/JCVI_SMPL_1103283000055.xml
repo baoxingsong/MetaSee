@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>JCVI_SMPL_1103283000055</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>2</val></count>
+		<node name="Bacteria">
+		<count><val>2</val></count>
+			<node name="Cyanobacteria">
+			<count><val>2</val></count>
+				<node name="Prochlorales">
+				<count><val>2</val></count>
+					<node name="Prochlorococcaceae">
+					<count><val>2</val></count>
+						<node name="Prochlorococcus">
+						<count><val>2</val></count>
+							<node name="Unclassified">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

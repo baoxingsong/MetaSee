@@ -1,0 +1,992 @@
+Sequence_id	Database_id	Percentage_identity	E-value	Classification
+1|ALVINELLA_READ_1878664686	10794	89.45	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobulbaceae; Desulfotalea; otu_2834
+2|ALVINELLA_READ_1878664462	94413	97.85	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+3|ALVINELLA_READ_1878642659	94413	89.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+4|ALVINELLA_READ_1878661388	94413	98.48	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+5|ALVINELLA_READ_1878592677	94413	94.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+6|ALVINELLA_READ_1878647219	11124	97.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+7|ALVINELLA_READ_1878661298	10829	90.71	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobulbaceae; Unclassified; otu_2826
+8|ALVINELLA_READ_1878645131	94413	94.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+9|ALVINELLA_READ_1878659411	94413	95.43	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+10|ALVINELLA_READ_1878658197	94413	97.6	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+11|ALVINELLA_READ_1878693603	94413	98.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+12|ALVINELLA_READ_1878647321	94413	95.16	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+13|ALVINELLA_READ_1878470636	94413	94.46	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+14|ALVINELLA_READ_1878679864	94413	94.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+15|ALVINELLA_READ_1878671412	94413	92.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+16|ALVINELLA_READ_1878677354	94413	99.04	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+17|ALVINELLA_READ_1878571387	94413	99.6	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+18|ALVINELLA_READ_1878682274	94413	96.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+19|ALVINELLA_READ_1878677076	94413	96.68	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+20|ALVINELLA_READ_1878673865	94413	96.29	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+21|ALVINELLA_READ_1878468040	94413	96.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+22|ALVINELLA_READ_1878482369	94413	98.69	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+23|ALVINELLA_READ_1878599114	11124	92.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+24|ALVINELLA_READ_1878656761	94413	98.09	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+25|ALVINELLA_READ_1878524684	11124	94.57	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+26|ALVINELLA_READ_1878447277	67794	94.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+27|ALVINELLA_READ_1878434709	94413	98.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+28|ALVINELLA_READ_1878697636	94413	97.27	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+29|ALVINELLA_READ_1878427428	94413	96.61	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+30|ALVINELLA_READ_1878651265	94413	95.61	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+31|ALVINELLA_READ_1878674303	94413	93.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+32|ALVINELLA_READ_1878441316	94413	97.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+33|ALVINELLA_READ_1878613442	106942	91.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+34|ALVINELLA_READ_1878677150	94413	97.16	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+35|ALVINELLA_READ_1878667807	94413	94.36	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+36|ALVINELLA_READ_1878610654	94413	97.77	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+37|ALVINELLA_READ_1878537572	94413	98.09	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+38|ALVINELLA_READ_1878610761	94413	98.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+39|ALVINELLA_READ_1878696913	94413	97.87	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+40|ALVINELLA_READ_1878704684	94413	91.73	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+41|ALVINELLA_READ_1878423016	94413	93.01	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+42|ALVINELLA_READ_1878633343	94413	98.46	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+43|ALVINELLA_READ_1878598121	142725	91.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+44|ALVINELLA_READ_1878523117	94413	97.23	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+45|ALVINELLA_READ_1878667508	94413	96.42	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+46|ALVINELLA_READ_1878704599	94413	93.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+47|ALVINELLA_READ_1878687677	11124	94.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+48|ALVINELLA_READ_1878673646	94413	98.08	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+49|ALVINELLA_READ_1878678388	94413	93.66	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+50|ALVINELLA_READ_1878673774	94413	94.77	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+51|ALVINELLA_READ_1878675079	94413	95.45	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+52|ALVINELLA_READ_1878673911	94413	99.42	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+53|ALVINELLA_READ_1878470183	94413	97.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+54|ALVINELLA_READ_1878637766	94413	98.18	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+55|ALVINELLA_READ_1878449149	94413	98.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+56|ALVINELLA_READ_1878613384	94413	98.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+57|ALVINELLA_READ_1878705647	94413	95.79	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+58|ALVINELLA_READ_1878671057	142725	87.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+59|ALVINELLA_READ_1878413708	94413	97.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+60|ALVINELLA_READ_1878681393	94413	95.13	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+61|ALVINELLA_READ_1878415272	94413	92.24	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+62|ALVINELLA_READ_1878522387	1914	92.87	0.0	Bacteria; Bacteroidetes; Bacteroidetes (class); Bacteroidales; Rikenellaceae; Ruminofilibacter; otu_726
+63|ALVINELLA_READ_1878460881	94413	90.99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+64|ALVINELLA_READ_1878536459	94413	95.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+65|ALVINELLA_READ_1878655664	94413	93.86	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+66|ALVINELLA_READ_1878413373	94413	97.24	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+67|ALVINELLA_READ_1878689207	94413	93.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+68|ALVINELLA_READ_1878595055	106632	91.65	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Arcobacter; Unclassified; otu_2946
+69|ALVINELLA_READ_1878668688	11124	91.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+70|ALVINELLA_READ_1878593145	94413	98.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+71|ALVINELLA_READ_1878705083	94413	97.57	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+72|ALVINELLA_READ_1878655206	104443	92.13	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+73|ALVINELLA_READ_1878702285	94413	99.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+74|ALVINELLA_READ_1878658592	94413	99.24	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+75|ALVINELLA_READ_1878600525	94413	97.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+76|ALVINELLA_READ_1878645212	94413	94.89	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+77|ALVINELLA_READ_1878536022	11124	93.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+78|ALVINELLA_READ_1878598194	94413	98.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+79|ALVINELLA_READ_1878454192	94413	97.94	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+80|ALVINELLA_READ_1878646551	94413	90.59	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+81|ALVINELLA_READ_1878458637	94413	90.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+82|ALVINELLA_READ_1878613584	11124	96.58	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+83|ALVINELLA_READ_1878682751	94413	95.28	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+84|ALVINELLA_READ_1878670493	94413	99.09	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+85|ALVINELLA_READ_1878646192	94413	98.96	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+86|ALVINELLA_READ_1878440066	94413	94.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+87|ALVINELLA_READ_1878647567	94413	95.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+88|ALVINELLA_READ_1878421221	94413	98.28	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+89|ALVINELLA_READ_1878654359	94413	97.73	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+90|ALVINELLA_READ_1878424224	94413	95.88	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+91|ALVINELLA_READ_1878580268	94413	97.65	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+92|ALVINELLA_READ_1878460452	94413	91.85	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+93|ALVINELLA_READ_1878677562	94413	92.1	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+94|ALVINELLA_READ_1878559249	94413	91.69	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+95|ALVINELLA_READ_1878671953	94413	99.03	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+96|ALVINELLA_READ_1878669755	113503	89.39	0.0	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+97|ALVINELLA_READ_1878698054	94413	96.88	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+98|ALVINELLA_READ_1878633212	94413	96.92	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+99|ALVINELLA_READ_1878416594	94413	92.11	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+100|ALVINELLA_READ_1878620919	94413	93.4	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+101|ALVINELLA_READ_1878587418	94413	93.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+102|ALVINELLA_READ_1878646210	94413	99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+103|ALVINELLA_READ_1878640556	94413	99.11	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+104|ALVINELLA_READ_1878702307	94413	98.16	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+105|ALVINELLA_READ_1878682015	94413	91.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+106|ALVINELLA_READ_1878576640	94413	91.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+107|ALVINELLA_READ_1878415529	11124	95.82	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+108|ALVINELLA_READ_1878622002	94413	97.6	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+109|ALVINELLA_READ_1878551447	94413	96.18	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+110|ALVINELLA_READ_1878588765	10837	90.42	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobulbaceae; Unclassified; otu_2826
+111|ALVINELLA_READ_1878567938	94413	99.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+112|ALVINELLA_READ_1878498819	94413	94.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+113|ALVINELLA_READ_1878612291	94413	95.43	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+114|ALVINELLA_READ_1878606720	94413	92.05	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+115|ALVINELLA_READ_1878599430	94413	91.24	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+116|ALVINELLA_READ_1878666294	94413	96.17	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+117|ALVINELLA_READ_1878608223	94413	91.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+118|ALVINELLA_READ_1878619930	94413	96.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+119|ALVINELLA_READ_1878690368	94413	99.04	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+120|ALVINELLA_READ_1878417634	94413	91.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+121|ALVINELLA_READ_1878459804	94413	98.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+122|ALVINELLA_READ_1878620308	94413	97.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+123|ALVINELLA_READ_1878413847	94413	91.95	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+124|ALVINELLA_READ_1878689232	94413	89.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+125|ALVINELLA_READ_1878694514	94413	91.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+126|ALVINELLA_READ_1878611388	94413	96.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+127|ALVINELLA_READ_1878420463	94413	96.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+128|ALVINELLA_READ_1878515465	94413	92.72	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+129|ALVINELLA_READ_1878561876	94413	92.82	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+130|ALVINELLA_READ_1878493223	94413	98.96	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+131|ALVINELLA_READ_1878490136	94413	96.87	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+132|ALVINELLA_READ_1878649660	94413	96.29	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+133|ALVINELLA_READ_1878640608	1914	91.68	0.0	Bacteria; Bacteroidetes; Bacteroidetes (class); Bacteroidales; Rikenellaceae; Ruminofilibacter; otu_726
+134|ALVINELLA_READ_1878543614	94413	95.86	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+135|ALVINELLA_READ_1878668522	94413	89.67	4e-161	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+136|ALVINELLA_READ_1878470633	94413	91.69	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+137|ALVINELLA_READ_1878702377	94413	99.83	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+138|ALVINELLA_READ_1878419900	94413	97.36	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+139|ALVINELLA_READ_1878669322	94413	92.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+140|ALVINELLA_READ_1878559306	94413	99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+141|ALVINELLA_READ_1878663789	169777	83.69	6e-101	Bacteria; Proteobacteria; Gammaproteobacteria; Vibrionales; Vibrionaceae; Vibrio; Unclassified; otu_3443
+142|ALVINELLA_READ_1878571038	94413	94.16	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+143|ALVINELLA_READ_1878683885	94413	92.68	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+144|ALVINELLA_READ_1878419892	94413	97.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+145|ALVINELLA_READ_1878500088	11124	90.34	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+146|ALVINELLA_READ_1878647227	94413	97.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+147|ALVINELLA_READ_1878644017	94413	98.18	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+148|ALVINELLA_READ_1878682870	94413	95.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+149|ALVINELLA_READ_1878434510	11124	89.27	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+150|ALVINELLA_READ_1878601359	19883	92.57	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+151|ALVINELLA_READ_1878698978	94413	99.48	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+152|ALVINELLA_READ_1878657728	94413	99.83	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+153|ALVINELLA_READ_1878550935	94413	94.36	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+154|ALVINELLA_READ_1878662738	94413	96.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+155|ALVINELLA_READ_1878553470	101619	83.93	2e-101	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+156|ALVINELLA_READ_1878590392	94413	93.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+157|ALVINELLA_READ_1878698099	94413	97.2	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+158|ALVINELLA_READ_1878674688	94413	98.34	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+159|ALVINELLA_READ_1878623817	102252	91.43	0.0	Bacteria; Bacteroidetes; Unclassified; otu_684
+160|ALVINELLA_READ_1878432554	94413	98.94	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+161|ALVINELLA_READ_1878599440	114082	86.26	1e-86	Bacteria; Bacteroidetes; Flavobacteria; Flavobacteriales; Flavobacteriaceae; Chryseobacterium; Unclassified; otu_803
+162|ALVINELLA_READ_1878653682	94413	95.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+163|ALVINELLA_READ_1878490197	94413	93.11	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+164|ALVINELLA_READ_1878660880	94413	97.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+165|ALVINELLA_READ_1878660910	94413	94.08	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+166|ALVINELLA_READ_1878477424	94413	91.54	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+167|ALVINELLA_READ_1878676008	94413	90.93	1e-167	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+168|ALVINELLA_READ_1878651210	94413	96.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+169|ALVINELLA_READ_1878542195	94413	97.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+170|ALVINELLA_READ_1878588528	94413	96.67	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+171|ALVINELLA_READ_1878652568	94413	92.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+172|ALVINELLA_READ_1878491367	94413	96.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+173|ALVINELLA_READ_1878524276	94413	96.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+174|ALVINELLA_READ_1878672416	94413	92.58	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+175|ALVINELLA_READ_1878413714	94413	94.05	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+176|ALVINELLA_READ_1878416953	94413	89.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+177|ALVINELLA_READ_1878416965	94413	98.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+178|ALVINELLA_READ_1878663391	94413	98.03	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+179|ALVINELLA_READ_1878533140	94413	97.86	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+180|ALVINELLA_READ_1878416941	94413	98.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+181|ALVINELLA_READ_1878681193	94413	95.43	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+182|ALVINELLA_READ_1878624855	94413	95.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+183|ALVINELLA_READ_1878664461	94413	93.47	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+184|ALVINELLA_READ_1878414779	94413	92.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+185|ALVINELLA_READ_1878699733	94413	99.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+186|ALVINELLA_READ_1878701772	94413	99.67	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+187|ALVINELLA_READ_1878614753	94413	97.27	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+188|ALVINELLA_READ_1878468204	11124	94.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+189|ALVINELLA_READ_1878602778	94413	99.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+190|ALVINELLA_READ_1878513241	94413	91.72	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+191|ALVINELLA_READ_1878547239	94413	97.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+192|ALVINELLA_READ_1878477971	94413	91.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+193|ALVINELLA_READ_1878660857	94413	96.65	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+194|ALVINELLA_READ_1878664285	94413	96.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+195|ALVINELLA_READ_1878675978	94413	95.17	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+196|ALVINELLA_READ_1878498397	94413	93.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+197|ALVINELLA_READ_1878698030	94413	96.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+198|ALVINELLA_READ_1878606785	94413	97.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+199|ALVINELLA_READ_1878416892	11124	99.41	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+200|ALVINELLA_READ_1878601699	94413	99.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+201|ALVINELLA_READ_1878441018	94413	98.67	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+202|ALVINELLA_READ_1878490612	94413	98.46	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+203|ALVINELLA_READ_1878547762	94413	96.42	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+204|ALVINELLA_READ_1878587226	94413	95.96	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+205|ALVINELLA_READ_1878469904	94413	92.36	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+206|ALVINELLA_READ_1878698703	94413	98.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+207|ALVINELLA_READ_1878418472	84230	91.98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+208|ALVINELLA_READ_1878527779	94413	97.99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+209|ALVINELLA_READ_1878670694	94413	99.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+210|ALVINELLA_READ_1878672329	94413	93.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+211|ALVINELLA_READ_1878551676	94413	91.79	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+212|ALVINELLA_READ_1878678906	94413	98.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+213|ALVINELLA_READ_1878591912	94413	92.01	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+214|ALVINELLA_READ_1878547472	94413	98.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+215|ALVINELLA_READ_1878656373	94413	98.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+216|ALVINELLA_READ_1878535660	94413	96.41	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+217|ALVINELLA_READ_1878647254	94413	96.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+218|ALVINELLA_READ_1878487866	106788	92.12	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+219|ALVINELLA_READ_1878698476	94413	95.51	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+220|ALVINELLA_READ_1878671321	94413	97.59	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+221|ALVINELLA_READ_1878685251	94413	96.92	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+222|ALVINELLA_READ_1878665923	94413	87.88	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+223|ALVINELLA_READ_1878627873	159523	88.25	3e-173	Bacteria; Firmicutes; Clostridia; Clostridiales; Anaerocellum group; Unclassified; otu_1542
+224|ALVINELLA_READ_1878666356	94413	90.81	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+225|ALVINELLA_READ_1878586952	102768	90.42	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Arcobacter; Unclassified; otu_2946
+226|ALVINELLA_READ_1878578373	94413	96.74	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+227|ALVINELLA_READ_1878581272	94413	96.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+228|ALVINELLA_READ_1878678813	79121	87.1	2e-153	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+229|ALVINELLA_READ_1878533375	94413	96.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+230|ALVINELLA_READ_1878531988	94413	92.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+231|ALVINELLA_READ_1878562897	94413	96.68	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+232|ALVINELLA_READ_1878686714	94413	93.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+233|ALVINELLA_READ_1878510405	94413	94.34	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+234|ALVINELLA_READ_1878596285	94413	96.13	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+235|ALVINELLA_READ_1878487698	94413	99.36	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+236|ALVINELLA_READ_1878691401	94413	94.2	1e-177	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+237|ALVINELLA_READ_1878509848	94413	97.77	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+238|ALVINELLA_READ_1878675610	94413	93.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+239|ALVINELLA_READ_1878533542	94413	98.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+240|ALVINELLA_READ_1878628260	11124	96.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+241|ALVINELLA_READ_1878698095	94413	99.23	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+242|ALVINELLA_READ_1878661095	94413	94.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+243|ALVINELLA_READ_1878704439	94413	94.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+244|ALVINELLA_READ_1878603347	94413	99.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+245|ALVINELLA_READ_1878594850	94413	94.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+246|ALVINELLA_READ_1878480998	94413	97.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+247|ALVINELLA_READ_1878573917	157367	96.06	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+248|ALVINELLA_READ_1878698820	94413	98.73	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+249|ALVINELLA_READ_1878653301	94413	96.11	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+250|ALVINELLA_READ_1878589148	94413	94.24	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+251|ALVINELLA_READ_1878516378	94413	95.27	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+252|ALVINELLA_READ_1878644943	94413	99.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+253|ALVINELLA_READ_1878561207	94413	96.9	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+254|ALVINELLA_READ_1878681687	94413	94.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+255|ALVINELLA_READ_1878466660	11124	94.95	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+256|ALVINELLA_READ_1878653934	94413	96.87	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+257|ALVINELLA_READ_1878600488	139451	90.58	1e-122	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+258|ALVINELLA_READ_1878425630	103892	92.01	1e-165	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Unclassified; otu_2944
+259|ALVINELLA_READ_1878556740	94413	96.86	4e-171	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+260|ALVINELLA_READ_1878491270	94413	99.08	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+261|ALVINELLA_READ_1878425680	94413	95.04	5e-165	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+262|ALVINELLA_READ_1878661733	94413	95.59	8e-170	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+263|ALVINELLA_READ_1878531741	94413	97.61	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+264|ALVINELLA_READ_1878625164	11124	99.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+265|ALVINELLA_READ_1878423536	94413	95.04	5e-165	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+266|ALVINELLA_READ_1878472114	94413	96.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+267|ALVINELLA_READ_1878424910	11124	94.66	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+268|ALVINELLA_READ_1878577076	94413	94.08	2e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+269|ALVINELLA_READ_1878672347	94413	92.57	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+270|ALVINELLA_READ_1878629470	94413	92.57	2e-164	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+271|ALVINELLA_READ_1878701720	94413	94.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+272|ALVINELLA_READ_1878647996	94413	89.61	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+273|ALVINELLA_READ_1878590289	94413	93.95	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+274|ALVINELLA_READ_1878603599	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+275|ALVINELLA_READ_1878421949	94413	97.67	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+276|ALVINELLA_READ_1878586378	94413	95.51	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+277|ALVINELLA_READ_1878426653	94413	97.67	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+278|ALVINELLA_READ_1878478183	94413	90.42	5e-172	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+279|ALVINELLA_READ_1878675992	94413	89.82	1e-163	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+280|ALVINELLA_READ_1878425345	94413	93.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+281|ALVINELLA_READ_1878474993	94413	93.06	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+282|ALVINELLA_READ_1878669883	94413	97.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+283|ALVINELLA_READ_1878422014	94413	97.45	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+284|ALVINELLA_READ_1878658387	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+285|ALVINELLA_READ_1878652883	94413	98.12	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+286|ALVINELLA_READ_1878694877	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+287|ALVINELLA_READ_1878689761	94413	97.2	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+288|ALVINELLA_READ_1878619073	94413	98.85	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+289|ALVINELLA_READ_1878444082	11124	93.72	3e-150	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+290|ALVINELLA_READ_1878697427	94413	96.99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+291|ALVINELLA_READ_1878703246	94413	94.92	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+292|ALVINELLA_READ_1878447131	94413	99.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+293|ALVINELLA_READ_1878524386	94413	97.2	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+294|ALVINELLA_READ_1878644678	94413	99.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+295|ALVINELLA_READ_1878436293	94413	95.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+296|ALVINELLA_READ_1878698318	94413	99.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+297|ALVINELLA_READ_1878648175	94413	99.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+298|ALVINELLA_READ_1878671837	94413	99.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+299|ALVINELLA_READ_1878689275	94413	99.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+300|ALVINELLA_READ_1878532695	94413	96.46	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+301|ALVINELLA_READ_1878602327	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+302|ALVINELLA_READ_1878548101	94413	97.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+303|ALVINELLA_READ_1878689764	94413	97.18	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+304|ALVINELLA_READ_1878671932	94413	99.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+305|ALVINELLA_READ_1878632418	94413	93.11	5e-171	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+306|ALVINELLA_READ_1878645539	94413	98.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+307|ALVINELLA_READ_1878541385	94413	97.51	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+308|ALVINELLA_READ_1878532113	11124	98.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+309|ALVINELLA_READ_1878704609	94413	97.16	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+310|ALVINELLA_READ_1878698257	94413	99.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+311|ALVINELLA_READ_1878508704	94413	90.89	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+312|ALVINELLA_READ_1878469921	94413	88.6	5e-144	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+313|ALVINELLA_READ_1878627647	94413	96.24	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+314|ALVINELLA_READ_1878664014	94413	99.28	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+315|ALVINELLA_READ_1878690175	94413	92.21	5e-149	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+316|ALVINELLA_READ_1878644416	94413	99.28	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+317|ALVINELLA_READ_1878656587	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+318|ALVINELLA_READ_1878645832	94413	90.82	4e-172	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+319|ALVINELLA_READ_1878670162	94413	88.48	1e-147	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+320|ALVINELLA_READ_1878558665	94413	97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+321|ALVINELLA_READ_1878429565	94413	99.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+322|ALVINELLA_READ_1878670725	94413	99.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+323|ALVINELLA_READ_1878590072	94413	97.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+324|ALVINELLA_READ_1878581713	94413	88.98	1e-145	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+325|ALVINELLA_READ_1878520637	94413	94.95	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+326|ALVINELLA_READ_1878694597	94413	97.92	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+327|ALVINELLA_READ_1878423685	94413	98.16	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+328|ALVINELLA_READ_1878687525	94413	99.04	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+329|ALVINELLA_READ_1878589643	94413	97.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+330|ALVINELLA_READ_1878669843	94413	96.9	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+331|ALVINELLA_READ_1878623092	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+332|ALVINELLA_READ_1878573365	94413	91.57	5e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+333|ALVINELLA_READ_1878429486	94413	99.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+334|ALVINELLA_READ_1878585297	94413	95.61	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+335|ALVINELLA_READ_1878671736	94413	99.49	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+336|ALVINELLA_READ_1878536656	94413	99.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+337|ALVINELLA_READ_1878654734	94413	96.34	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+338|ALVINELLA_READ_1878473535	94413	96.88	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+339|ALVINELLA_READ_1878465847	94413	98.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+340|ALVINELLA_READ_1878441738	94413	99.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+341|ALVINELLA_READ_1878479707	94413	97.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+342|ALVINELLA_READ_1878557257	94413	94.54	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+343|ALVINELLA_READ_1878692806	94413	98.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+344|ALVINELLA_READ_1878589429	104349	93.26	5e-111	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Unclassified; otu_2954
+345|ALVINELLA_READ_1878651758	94413	97.04	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+346|ALVINELLA_READ_1878589926	94413	94.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+347|ALVINELLA_READ_1878476777	94413	98.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+348|ALVINELLA_READ_1878590971	94413	96.76	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+349|ALVINELLA_READ_1878551943	11124	98.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+350|ALVINELLA_READ_1878693245	94413	96.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+351|ALVINELLA_READ_1878698710	94413	97.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+352|ALVINELLA_READ_1878510172	94413	99.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+353|ALVINELLA_READ_1878652145	94413	97.99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+354|ALVINELLA_READ_1878646029	94413	97.65	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+355|ALVINELLA_READ_1878471857	94413	97.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+356|ALVINELLA_READ_1878505677	94413	89.09	3e-154	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+357|ALVINELLA_READ_1878439340	94413	93.6	2e-155	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+358|ALVINELLA_READ_1878569928	94413	97.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+359|ALVINELLA_READ_1878593156	11124	90.87	2e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+360|ALVINELLA_READ_1878654167	94413	99.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+361|ALVINELLA_READ_1878469461	94413	97.8	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+362|ALVINELLA_READ_1878472265	94413	94.08	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+363|ALVINELLA_READ_1878552715	94413	99.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+364|ALVINELLA_READ_1878435878	94413	96.86	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+365|ALVINELLA_READ_1878646359	94413	98.71	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+366|ALVINELLA_READ_1878496794	94413	92.03	7e-158	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+367|ALVINELLA_READ_1878656754	11124	94.59	4e-153	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+368|ALVINELLA_READ_1878688553	94413	98.95	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+369|ALVINELLA_READ_1878522687	94413	97.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+370|ALVINELLA_READ_1878586815	94413	98.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+371|ALVINELLA_READ_1878492611	106942	95.47	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+372|ALVINELLA_READ_1878577254	94413	93.4	3e-128	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+373|ALVINELLA_READ_1878690855	94413	94.19	5e-177	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+374|ALVINELLA_READ_1878671993	142725	94.92	3e-130	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+376|ALVINELLA_READ_1878618432	94413	96.43	7e-176	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+377|ALVINELLA_READ_1878676167	94413	90.21	1e-138	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+378|ALVINELLA_READ_1878523159	94413	99.74	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+379|ALVINELLA_READ_1878669111	104443	89.4	1e-113	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+380|ALVINELLA_READ_1878540856	11124	97.73	1e-157	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+381|ALVINELLA_READ_1878575201	94413	89.06	6e-140	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+382|ALVINELLA_READ_1878426484	94413	97.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+383|ALVINELLA_READ_1878570293	94413	96.59	1e-171	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+384|ALVINELLA_READ_1878510988	94413	98.58	8e-149	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+386|ALVINELLA_READ_1878573786	156157	91.86	2e-58	Bacteria; Unclassified; otu_205
+387|ALVINELLA_READ_1878655712	94413	98.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+388|ALVINELLA_READ_1878687600	94413	97.01	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+389|ALVINELLA_READ_1878674172	94413	96.9	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+390|ALVINELLA_READ_1878435411	94413	94.1	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+391|ALVINELLA_READ_1878679344	94413	98.62	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+392|ALVINELLA_READ_1878677090	94413	97.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+393|ALVINELLA_READ_1878472713	94413	96.53	4e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+394|ALVINELLA_READ_1878585643	94413	97.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+395|ALVINELLA_READ_1878691931	94413	98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+397|ALVINELLA_READ_1878560619	104443	88.49	3e-87	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+398|ALVINELLA_READ_1878540066	94413	96.98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+400|ALVINELLA_READ_1878683283	94413	94.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+401|ALVINELLA_READ_1878647831	94413	96.94	8e-179	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+402|ALVINELLA_READ_1878691151	94413	97.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+403|ALVINELLA_READ_1878622887	94413	95.63	1e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+404|ALVINELLA_READ_1878576192	11124	92.63	9e-148	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+405|ALVINELLA_READ_1878584839	94413	97.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+406|ALVINELLA_READ_1878648182	94413	96.01	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+407|ALVINELLA_READ_1878521253	94413	93.19	9e-154	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+408|ALVINELLA_READ_1878693718	94413	94.41	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+409|ALVINELLA_READ_1878612127	11124	93.66	1e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+410|ALVINELLA_READ_1878689535	94413	94.44	1e-162	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+411|ALVINELLA_READ_1878528296	94413	91.76	3e-157	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+412|ALVINELLA_READ_1878624581	94413	93.94	5e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+413|ALVINELLA_READ_1878673565	94413	96.77	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+414|ALVINELLA_READ_1878586655	94413	91.55	1e-156	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+415|ALVINELLA_READ_1878637886	94413	94.46	3e-150	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+416|ALVINELLA_READ_1878692640	94413	96.52	6e-167	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+417|ALVINELLA_READ_1878652143	94413	97.38	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+418|ALVINELLA_READ_1878564435	94413	95.85	2e-179	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+419|ALVINELLA_READ_1878693795	94413	88.49	1e-119	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+420|ALVINELLA_READ_1878445030	94413	92.47	5e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+421|ALVINELLA_READ_1878692203	94413	99.05	1e-171	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+422|ALVINELLA_READ_1878688458	142725	87.99	5e-95	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+423|ALVINELLA_READ_1878575030	94413	97.13	2e-155	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+425|ALVINELLA_READ_1878628914	11124	96.64	3e-172	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+426|ALVINELLA_READ_1878699657	94413	99.43	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+427|ALVINELLA_READ_1878656926	106788	95.27	1e-143	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+428|ALVINELLA_READ_1878674008	66189	90.51	1e-103	Bacteria; Bacteroidetes; Bacteroidetes (class); Bacteroidales; Bacteroidaceae; Bacteroides; Unclassified; otu_693
+429|ALVINELLA_READ_1878516021	94413	97.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+430|ALVINELLA_READ_1878649726	94413	97.95	4e-177	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+431|ALVINELLA_READ_1878644829	94413	93.6	4e-153	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+432|ALVINELLA_READ_1878568434	94413	98.67	1e-159	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+433|ALVINELLA_READ_1878577821	94413	98.5	1e-177	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+434|ALVINELLA_READ_1878630967	94413	95.12	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+435|ALVINELLA_READ_1878510749	94413	97.44	6e-137	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+436|ALVINELLA_READ_1878560517	94413	92.98	7e-118	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+437|ALVINELLA_READ_1878521502	94413	96.22	3e-138	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+438|ALVINELLA_READ_1878657910	94413	99.1	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+439|ALVINELLA_READ_1878435918	94413	98.1	3e-163	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+440|ALVINELLA_READ_1878656967	94413	90.6	1e-131	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+441|ALVINELLA_READ_1878700542	94413	99.37	4e-177	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+442|ALVINELLA_READ_1878556656	94413	93.18	4e-150	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+443|ALVINELLA_READ_1878650596	94413	90.45	2e-120	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+444|ALVINELLA_READ_1878686898	94413	93.72	1e-169	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+445|ALVINELLA_READ_1878515659	94413	96.77	8e-136	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+446|ALVINELLA_READ_1878651727	94413	89.16	2e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+447|ALVINELLA_READ_1878564329	159240	90.74	1e-90	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+448|ALVINELLA_READ_1878598219	11124	89.74	2e-96	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+449|ALVINELLA_READ_1878625005	94413	92.59	1e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+450|ALVINELLA_READ_1878568570	102768	91.23	3e-99	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Arcobacter; Unclassified; otu_2946
+451|ALVINELLA_READ_1878661549	94413	99.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+452|ALVINELLA_READ_1878565848	49628	91.22	9e-111	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Arcobacter; Unclassified; otu_2946
+453|ALVINELLA_READ_1878637765	11124	94.04	2e-135	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+454|ALVINELLA_READ_1878424121	94413	97.07	1e-152	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+455|ALVINELLA_READ_1878557869	94413	97.22	2e-143	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+456|ALVINELLA_READ_1878444964	94413	95.4	2e-148	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+457|ALVINELLA_READ_1878482817	94413	85.87	9e-80	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+458|ALVINELLA_READ_1878511831	94413	98.62	3e-154	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+459|ALVINELLA_READ_1878663043	94413	100	6e-170	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+460|ALVINELLA_READ_1878437429	113471	95.22	1e-100	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+461|ALVINELLA_READ_1878552129	94413	94.32	1e-149	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+462|ALVINELLA_READ_1878528887	94413	100	5e-167	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+463|ALVINELLA_READ_1878521349	94413	94	8e-124	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+464|ALVINELLA_READ_1878495233	94413	99.24	3e-144	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+465|ALVINELLA_READ_1878511019	94413	99.24	3e-144	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+466|ALVINELLA_READ_1878513115	94413	97.27	1e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+467|ALVINELLA_READ_1878665648	94413	94.87	4e-137	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+468|ALVINELLA_READ_1878645317	94413	91.41	3e-135	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+469|ALVINELLA_READ_1878498793	94413	98.15	1e-140	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+470|ALVINELLA_READ_1878434491	94413	96.56	1e-139	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+471|ALVINELLA_READ_1878661446	94413	99.32	2e-160	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+472|ALVINELLA_READ_1878552635	94413	100	2e-164	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+473|ALVINELLA_READ_1878649195	94413	99.65	1e-158	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+474|ALVINELLA_READ_1878478646	94413	98.87	6e-142	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+475|ALVINELLA_READ_1878478882	94413	93.9	4e-122	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+476|ALVINELLA_READ_1878511404	94413	92.55	3e-122	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+477|ALVINELLA_READ_1878549207	94413	98.44	2e-133	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+478|ALVINELLA_READ_1878462049	94413	95.14	2e-127	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+479|ALVINELLA_READ_1878452829	94413	98.25	4e-149	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+480|ALVINELLA_READ_1878665234	94413	100	1e-155	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+481|ALVINELLA_READ_1878499977	11124	96.69	1e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+482|ALVINELLA_READ_1878482327	94413	95.68	2e-138	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+483|ALVINELLA_READ_1878544040	94413	97.84	8e-141	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+484|ALVINELLA_READ_1878422403	94413	99.24	2e-144	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+485|ALVINELLA_READ_1878421676	94413	99.24	2e-144	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+486|ALVINELLA_READ_1878475757	94413	93.86	3e-122	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+487|ALVINELLA_READ_1878457201	94413	96.59	1e-140	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+488|ALVINELLA_READ_1878659000	94413	99.22	9e-141	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+489|ALVINELLA_READ_1878626559	94413	98.11	3e-135	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+490|ALVINELLA_READ_1878514339	94413	93.42	2e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+491|ALVINELLA_READ_1878654397	94413	99.28	6e-151	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+492|ALVINELLA_READ_1878521174	94413	92.36	6e-103	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+493|ALVINELLA_READ_1878463856	94413	100	1e-148	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+494|ALVINELLA_READ_1878478509	94413	96.81	2e-152	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+495|ALVINELLA_READ_1878494173	106942	89.2	4e-97	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+496|ALVINELLA_READ_1878705524	94413	90	1e-112	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+497|ALVINELLA_READ_1878678104	94413	97.21	3e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+498|ALVINELLA_READ_1878550247	94413	96.52	4e-137	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+500|ALVINELLA_READ_1878446615	106942	95.55	5e-111	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+501|ALVINELLA_READ_1878695910	94413	92.56	4e-125	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+502|ALVINELLA_READ_1878557503	11124	92.76	8e-84	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+504|ALVINELLA_READ_1878666140	94413	100	1e-133	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+505|ALVINELLA_READ_1878645763	11124	96.41	4e-118	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+506|ALVINELLA_READ_1878699176	94413	98.37	4e-127	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+507|ALVINELLA_READ_1878674845	94413	98.78	4e-130	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+508|ALVINELLA_READ_1878614004	94413	92.02	3e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+509|ALVINELLA_READ_1878480740	94413	93.05	8e-101	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+510|ALVINELLA_READ_1878690685	94413	95.37	4e-115	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+511|ALVINELLA_READ_1878511612	10794	90.61	1e-67	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobulbaceae; Desulfotalea; otu_2834
+512|ALVINELLA_READ_1878445001	94413	93.88	3e-100	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+513|ALVINELLA_READ_1878674750	94413	97.9	7e-120	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+514|ALVINELLA_READ_1878415655	94413	84.66	1e-67	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+515|ALVINELLA_READ_1878698448	94413	99.55	1e-120	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+516|ALVINELLA_READ_1878633873	94413	97.84	5e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+517|ALVINELLA_READ_1878546018	94413	91.03	4e-103	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+518|ALVINELLA_READ_1878648640	94413	95.29	9e-113	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+519|ALVINELLA_READ_1878555825	94413	97.05	4e-115	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+520|ALVINELLA_READ_1878468174	94413	99.54	4e-118	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+521|ALVINELLA_READ_1878698130	94413	92.75	2e-77	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+522|ALVINELLA_READ_1878518749	94413	89.5	3e-48	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+523|ALVINELLA_READ_1878642713	94413	95.32	8e-104	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+524|ALVINELLA_READ_1878631633	94413	96.47	4e-149	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+525|ALVINELLA_READ_1878693692	94413	97.26	4e-106	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+526|ALVINELLA_READ_1878623333	94413	93.78	1e-95	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+527|ALVINELLA_READ_1878668182	103892	93.69	8e-82	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Unclassified; otu_2944
+528|ALVINELLA_READ_1878481585	94413	90.32	3e-76	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+529|ALVINELLA_READ_1878550651	94413	95.77	9e-130	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+530|ALVINELLA_READ_1878418477	94413	90.79	9e-76	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+531|ALVINELLA_READ_1878610188	94413	88.24	2e-77	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+532|ALVINELLA_READ_1878700642	100123	90.82	4e-65	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+533|ALVINELLA_READ_1878689823	2636	86.82	1e-59	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter; Unclassified; otu_2541
+534|ALVINELLA_READ_1878414959	11124	98.48	4e-102	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+535|ALVINELLA_READ_1878426343	94413	100	6e-107	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+536|ALVINELLA_READ_1878653528	94413	100	7e-107	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+537|ALVINELLA_READ_1878582943	94413	93.47	3e-78	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+538|ALVINELLA_READ_1878690497	11124	94.14	1e-90	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+539|ALVINELLA_READ_1878682402	94413	98.46	1e-99	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+540|ALVINELLA_READ_1878493187	94413	99.48	6e-104	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+541|ALVINELLA_READ_1878676971	94413	99.48	3e-103	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+542|ALVINELLA_READ_1878695091	94413	98.45	2e-98	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+543|ALVINELLA_READ_1878655231	94413	99.48	2e-104	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+544|ALVINELLA_READ_1878524716	94413	96.53	3e-122	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+545|ALVINELLA_READ_1878666869	94413	100	2e-104	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+546|ALVINELLA_READ_1878663901	94413	97.95	2e-97	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+547|ALVINELLA_READ_1878495651	94413	98.48	5e-139	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+548|ALVINELLA_READ_1878559741	94413	96.92	3e-109	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+550|ALVINELLA_READ_1878694810	94413	96.92	1e-92	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+551|ALVINELLA_READ_1878657734	11124	98.33	5e-92	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+552|ALVINELLA_READ_1878623209	104443	86.22	1e-49	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+553|ALVINELLA_READ_1878650545	94413	92.74	7e-65	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+554|ALVINELLA_READ_1878690995	142725	93.04	3e-39	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+555|ALVINELLA_READ_1878604032	94413	95.28	3e-113	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+556|ALVINELLA_READ_1878546341	94413	96.59	5e-81	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+557|ALVINELLA_READ_1878415186	11124	97.33	8e-91	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+558|ALVINELLA_READ_1878699940	94413	98.93	5e-98	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+559|ALVINELLA_READ_1878637422	94413	96.61	7e-82	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+560|ALVINELLA_READ_1878591600	94413	98.4	3e-96	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+561|ALVINELLA_READ_1878512725	94413	94.32	2e-70	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+562|ALVINELLA_READ_1878692277	94413	100	7e-94	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+563|ALVINELLA_READ_1878664921	94413	92.17	2e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+564|ALVINELLA_READ_1878548139	106942	94.74	1e-71	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+565|ALVINELLA_READ_1878612025	94413	98.88	8e-94	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+566|ALVINELLA_READ_1878662091	94413	91.05	4e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+567|ALVINELLA_READ_1878683673	11124	87.9	3e-70	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+568|ALVINELLA_READ_1878686392	94413	99.42	7e-91	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+569|ALVINELLA_READ_1878674537	94413	97.28	2e-88	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+570|ALVINELLA_READ_1878522853	94413	96.83	5e-89	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+571|ALVINELLA_READ_1878585649	94413	96.83	5e-89	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+572|ALVINELLA_READ_1878670406	94413	99.4	2e-88	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+573|ALVINELLA_READ_1878695895	94413	93.58	7e-73	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+574|ALVINELLA_READ_1878569119	94413	97.71	2e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+575|ALVINELLA_READ_1878577531	11124	97.13	4e-83	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+576|ALVINELLA_READ_1878671374	94413	98.8	4e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+577|ALVINELLA_READ_1878457817	94413	98.8	4e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+578|ALVINELLA_READ_1878655590	94413	92.09	2e-61	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+579|ALVINELLA_READ_1878603522	94413	98.77	1e-83	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+580|ALVINELLA_READ_1878577547	94413	97.06	4e-80	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+581|ALVINELLA_READ_1878476969	94413	99.38	6e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+582|ALVINELLA_READ_1878549466	94413	96.76	1e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+583|ALVINELLA_READ_1878673382	11124	98.03	2e-75	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+584|ALVINELLA_READ_1878699876	57551	90.98	2e-41	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Thermodesulforhabdus; otu_2941
+585|ALVINELLA_READ_1878624329	94413	98.05	2e-75	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+586|ALVINELLA_READ_1878490478	94413	100	7e-39	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+587|ALVINELLA_READ_1878694319	94413	97.42	1e-73	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+588|ALVINELLA_READ_1878541204	94413	99.36	1e-82	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+589|ALVINELLA_READ_1878699758	57551	88.81	3e-34	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Thermodesulforhabdus; otu_2941
+590|ALVINELLA_READ_1878573198	94413	94.05	5e-67	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+591|ALVINELLA_READ_1878653438	94413	99.33	2e-78	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+592|ALVINELLA_READ_1878587648	94413	92.97	9e-69	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+593|ALVINELLA_READ_1878417309	94413	92.9	2e-66	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+594|ALVINELLA_READ_1878414514	94413	88.57	9e-45	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+595|ALVINELLA_READ_1878429556	94413	94.85	7e-37	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+597|ALVINELLA_READ_1878625108	94413	93.63	3e-59	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+599|ALVINELLA_READ_1878493342	94413	100	3e-71	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+600|ALVINELLA_READ_1878662330	94413	99.25	7e-69	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+601|ALVINELLA_READ_1878507797	94413	84.4	8e-40	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+602|ALVINELLA_READ_1878661323	94413	98.56	2e-69	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+603|ALVINELLA_READ_1878586252	94413	98.51	2e-66	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+604|ALVINELLA_READ_1878673554	94413	100	3e-71	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+607|ALVINELLA_READ_1878614036	94413	96.24	2e-57	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+608|ALVINELLA_READ_1878682275	94413	100	4e-70	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+609|ALVINELLA_READ_1878533767	94413	98.47	1e-64	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+610|ALVINELLA_READ_1878654586	3810	92.59	2e-47	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+611|ALVINELLA_READ_1878701240	94413	99.21	9e-65	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+612|ALVINELLA_READ_1878621683	94413	93.8	8e-50	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+613|ALVINELLA_READ_1878557294	11124	96.97	4e-61	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+615|ALVINELLA_READ_1878686066	94413	96.32	2e-59	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+616|ALVINELLA_READ_1878646166	94413	98.48	2e-65	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+617|ALVINELLA_READ_1878421891	94413	96.3	1e-45	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+618|ALVINELLA_READ_1878544821	94413	99.2	2e-63	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+621|ALVINELLA_READ_1878651055	94413	100	2e-60	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+622|ALVINELLA_READ_1878564151	94413	100	4e-64	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+625|ALVINELLA_READ_1878463778	94413	99.2	4e-64	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+626|ALVINELLA_READ_1878510286	94413	95.04	1e-48	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+627|ALVINELLA_READ_1878678840	94413	93.8	2e-47	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+629|ALVINELLA_READ_1878650988	94413	96.9	9e-59	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+630|ALVINELLA_READ_1878651511	94413	96.88	1e-57	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+631|ALVINELLA_READ_1878528758	94413	94.17	1e-38	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+632|ALVINELLA_READ_1878662136	94413	95.33	3e-43	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+636|ALVINELLA_READ_1878469858	94413	97.98	1e-45	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+637|ALVINELLA_READ_1878624299	94413	96.52	7e-50	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+638|ALVINELLA_READ_1878517315	94413	100	3e-58	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+641|ALVINELLA_READ_1878446018	94413	100	2e-56	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+642|ALVINELLA_READ_1878524448	94413	98.17	1e-51	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+643|ALVINELLA_READ_1878419737	94413	93.75	2e-41	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+644|ALVINELLA_READ_1878564768	94413	98.23	5e-54	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+646|ALVINELLA_READ_1878501228	94413	98.59	4e-32	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+647|ALVINELLA_READ_1878499112	94413	100	2e-50	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+648|ALVINELLA_READ_1878693269	94413	100	1e-37	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+649|ALVINELLA_READ_1878689836	137181	98.72	2e-36	Bacteria; Unclassified; otu_205
+650|ALVINELLA_READ_1878666701	11124	92.79	3e-37	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+652|ALVINELLA_READ_1878689038	11124	94.07	2e-44	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+653|ALVINELLA_READ_1878520197	94413	98.82	6e-40	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+654|ALVINELLA_READ_1878559512	137181	98.7	1e-35	Bacteria; Unclassified; otu_205
+656|ALVINELLA_READ_1878683430	94413	100	7e-43	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+657|ALVINELLA_READ_1878658259	137181	98.7	1e-35	Bacteria; Unclassified; otu_205
+658|ALVINELLA_READ_1878508558	94413	100	2e-31	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+659|ALVINELLA_READ_1878610594	94413	100	3e-39	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+660|ALVINELLA_READ_1878678342	137181	98.72	2e-36	Bacteria; Unclassified; otu_205
+661|ALVINELLA_READ_1878572112	94413	100	2e-37	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+663|ALVINELLA_READ_1878686887	137181	96.15	6e-31	Bacteria; Unclassified; otu_205
+665|ALVINELLA_READ_1878695012	94413	97.59	3e-36	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+666|ALVINELLA_READ_1878499040	94413	97.5	2e-34	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+671|ALVINELLA_READ_1878670309	94413	100	5e-31	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+674|ALVINELLA_READ_1878685003	94413	98.61	3e-32	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+1|rev|ALVINELLA_READ_1878662076	94413	99.27	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+2|rev|ALVINELLA_READ_1878663392	94413	97.71	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+3|rev|ALVINELLA_READ_1878470632	94413	96.27	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+4|rev|ALVINELLA_READ_1878655987	94413	97.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+5|rev|ALVINELLA_READ_1878662092	94413	96.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+6|rev|ALVINELLA_READ_1878648338	94413	92.9	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+7|rev|ALVINELLA_READ_1878470184	94413	97.95	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+8|rev|ALVINELLA_READ_1878577215	94413	92.93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+9|rev|ALVINELLA_READ_1878429132	104443	90.65	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+10|rev|ALVINELLA_READ_1878593155	11124	93.79	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+11|rev|ALVINELLA_READ_1878651070	94413	95.04	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+12|rev|ALVINELLA_READ_1878507798	94413	96.8	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+13|rev|ALVINELLA_READ_1878415654	94413	96.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+14|rev|ALVINELLA_READ_1878458229	94413	96.9	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+15|rev|ALVINELLA_READ_1878651728	94413	95.92	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+16|rev|ALVINELLA_READ_1878653935	94413	98.58	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+17|rev|ALVINELLA_READ_1878653302	94413	99.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+18|rev|ALVINELLA_READ_1878426060	19883	93.16	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+19|rev|ALVINELLA_READ_1878663071	57551	87.07	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Thermodesulforhabdus; otu_2941
+20|rev|ALVINELLA_READ_1878644054	94413	95.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+21|rev|ALVINELLA_READ_1878659687	94413	95.83	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+22|rev|ALVINELLA_READ_1878610734	94413	94.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+23|rev|ALVINELLA_READ_1878637832	94413	97.81	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+24|rev|ALVINELLA_READ_1878689208	94413	93.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+25|rev|ALVINELLA_READ_1878651697	94413	94.99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+26|rev|ALVINELLA_READ_1878420814	106788	90.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+27|rev|ALVINELLA_READ_1878470790	94413	99.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+28|rev|ALVINELLA_READ_1878423015	94413	96.62	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+29|rev|ALVINELLA_READ_1878646367	94413	97.43	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+30|rev|ALVINELLA_READ_1878673809	104443	91.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+31|rev|ALVINELLA_READ_1878574944	94413	98.01	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+32|rev|ALVINELLA_READ_1878655901	94413	98.94	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+33|rev|ALVINELLA_READ_1878528297	94413	91.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+34|rev|ALVINELLA_READ_1878681276	94413	96.17	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+35|rev|ALVINELLA_READ_1878440065	94413	92.92	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+36|rev|ALVINELLA_READ_1878615960	94413	94.8	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+37|rev|ALVINELLA_READ_1878675235	94413	95.6	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+38|rev|ALVINELLA_READ_1878648926	94413	95.6	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+39|rev|ALVINELLA_READ_1878654574	94413	96.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+40|rev|ALVINELLA_READ_1878431023	11124	95.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+41|rev|ALVINELLA_READ_1878678812	79121	91.84	0.0	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+42|rev|ALVINELLA_READ_1878551165	94413	93.74	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+43|rev|ALVINELLA_READ_1878678580	94413	94.29	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+44|rev|ALVINELLA_READ_1878687621	19883	90.29	1e-173	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+45|rev|ALVINELLA_READ_1878413855	94413	98.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+46|rev|ALVINELLA_READ_1878664922	94413	96.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+47|rev|ALVINELLA_READ_1878614005	94413	97.79	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+48|rev|ALVINELLA_READ_1878524717	94413	96.85	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+49|rev|ALVINELLA_READ_1878427517	94413	98.2	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+50|rev|ALVINELLA_READ_1878493993	94413	97.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+51|rev|ALVINELLA_READ_1878689949	215462	88.42	0.0	Bacteria; Bacteroidetes; Bacteroidetes (class); Bacteroidales; Rikenellaceae; Alistipes; otu_720
+52|rev|ALVINELLA_READ_1878587347	49628	90.79	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Arcobacter; Unclassified; otu_2946
+53|rev|ALVINELLA_READ_1878643262	104443	94.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+54|rev|ALVINELLA_READ_1878696232	94413	95.83	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+55|rev|ALVINELLA_READ_1878675991	94413	95.33	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+56|rev|ALVINELLA_READ_1878641806	94413	98.31	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+57|rev|ALVINELLA_READ_1878509849	94413	98.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+58|rev|ALVINELLA_READ_1878649874	106942	94.12	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+59|rev|ALVINELLA_READ_1878463113	94413	93.32	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+60|rev|ALVINELLA_READ_1878590066	94413	97.06	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+61|rev|ALVINELLA_READ_1878620554	94413	97.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+62|rev|ALVINELLA_READ_1878522638	94413	94.71	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+63|rev|ALVINELLA_READ_1878475078	94413	97.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+64|rev|ALVINELLA_READ_1878649275	94413	95.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+65|rev|ALVINELLA_READ_1878515504	94413	93.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+66|rev|ALVINELLA_READ_1878645596	94413	94.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+67|rev|ALVINELLA_READ_1878446256	94413	97.12	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+68|rev|ALVINELLA_READ_1878537571	94413	98.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+69|rev|ALVINELLA_READ_1878695370	94413	92.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+70|rev|ALVINELLA_READ_1878614529	94413	99.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+71|rev|ALVINELLA_READ_1878706319	94413	90.42	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+72|rev|ALVINELLA_READ_1878661813	94413	96.06	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+73|rev|ALVINELLA_READ_1878611686	94413	98.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+74|rev|ALVINELLA_READ_1878542627	170743	90.92	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingosinicella; otu_2532
+75|rev|ALVINELLA_READ_1878659412	94413	95.69	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+76|rev|ALVINELLA_READ_1878673564	94413	95.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+77|rev|ALVINELLA_READ_1878703998	94413	92.09	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+78|rev|ALVINELLA_READ_1878646488	94413	93.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+79|rev|ALVINELLA_READ_1878687430	94413	96.41	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+80|rev|ALVINELLA_READ_1878653764	94413	99.67	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+81|rev|ALVINELLA_READ_1878589642	94413	97.45	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+82|rev|ALVINELLA_READ_1878547151	94413	98.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+83|rev|ALVINELLA_READ_1878587929	19883	93.26	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+84|rev|ALVINELLA_READ_1878647862	94413	94.21	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+85|rev|ALVINELLA_READ_1878416954	94413	97.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+86|rev|ALVINELLA_READ_1878541378	100106	86.55	1e-141	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Cytophaga; Unclassified; otu_964
+87|rev|ALVINELLA_READ_1878645117	94413	95.45	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+88|rev|ALVINELLA_READ_1878548138	157367	92.11	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+89|rev|ALVINELLA_READ_1878643535	94413	98.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+90|rev|ALVINELLA_READ_1878656150	94413	94.69	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+91|rev|ALVINELLA_READ_1878455573	19883	92.02	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+92|rev|ALVINELLA_READ_1878693796	94413	89.2	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+93|rev|ALVINELLA_READ_1878448405	94413	98.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+94|rev|ALVINELLA_READ_1878417633	94413	97.47	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+95|rev|ALVINELLA_READ_1878428341	203683	90.95	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales; Legionellaceae; Legionella; Unclassified; otu_3240
+96|rev|ALVINELLA_READ_1878593144	94413	96.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+97|rev|ALVINELLA_READ_1878441522	19883	93.03	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+98|rev|ALVINELLA_READ_1878652595	94413	95.54	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+99|rev|ALVINELLA_READ_1878666966	94413	94.34	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+100|rev|ALVINELLA_READ_1878434710	94413	98.98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+101|rev|ALVINELLA_READ_1878448843	94413	97.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+102|rev|ALVINELLA_READ_1878586951	49628	93	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Arcobacter; Unclassified; otu_2946
+103|rev|ALVINELLA_READ_1878626091	94413	95.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+104|rev|ALVINELLA_READ_1878595797	94413	98.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+105|rev|ALVINELLA_READ_1878469972	94413	94.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+106|rev|ALVINELLA_READ_1878649358	94413	93.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+107|rev|ALVINELLA_READ_1878678103	94413	94.96	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+108|rev|ALVINELLA_READ_1878652745	94413	95.12	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+109|rev|ALVINELLA_READ_1878641062	94413	97.74	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+110|rev|ALVINELLA_READ_1878649400	94413	99.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+111|rev|ALVINELLA_READ_1878647322	94413	92.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+112|rev|ALVINELLA_READ_1878704297	94413	97.73	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+113|rev|ALVINELLA_READ_1878613730	94413	94.89	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+114|rev|ALVINELLA_READ_1878677264	94413	93.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+115|rev|ALVINELLA_READ_1878602786	94413	92.72	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+116|rev|ALVINELLA_READ_1878526656	94413	98.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+117|rev|ALVINELLA_READ_1878646880	94413	99.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+118|rev|ALVINELLA_READ_1878700822	94413	95.38	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+119|rev|ALVINELLA_READ_1878555931	94413	94.67	8e-147	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+120|rev|ALVINELLA_READ_1878416893	11124	99.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+121|rev|ALVINELLA_READ_1878559740	94413	97.77	3e-159	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+122|rev|ALVINELLA_READ_1878698031	94413	97.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+123|rev|ALVINELLA_READ_1878675018	94413	88.71	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+124|rev|ALVINELLA_READ_1878573284	94413	92.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+125|rev|ALVINELLA_READ_1878661914	94413	93.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+126|rev|ALVINELLA_READ_1878414780	94413	97.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+127|rev|ALVINELLA_READ_1878466425	94413	94.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+128|rev|ALVINELLA_READ_1878681477	94413	92.7	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+129|rev|ALVINELLA_READ_1878414559	94413	93.88	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+130|rev|ALVINELLA_READ_1878636895	10573	85.84	9e-109	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Phaeospirillum; Unclassified; otu_2440
+131|rev|ALVINELLA_READ_1878562401	94413	98.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+132|rev|ALVINELLA_READ_1878530478	94413	99.81	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+133|rev|ALVINELLA_READ_1878659406	94413	94.03	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+134|rev|ALVINELLA_READ_1878690356	94413	93.56	7e-163	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+135|rev|ALVINELLA_READ_1878472115	94413	94.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+136|rev|ALVINELLA_READ_1878563141	94413	93.58	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+137|rev|ALVINELLA_READ_1878693604	94413	97.98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+138|rev|ALVINELLA_READ_1878415271	94413	94.94	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+139|rev|ALVINELLA_READ_1878520198	94413	93.53	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+140|rev|ALVINELLA_READ_1878577253	94413	89.31	3e-155	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+141|rev|ALVINELLA_READ_1878536332	94413	99.09	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+142|rev|ALVINELLA_READ_1878654637	94413	93.1	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+143|rev|ALVINELLA_READ_1878662143	94413	98.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+144|rev|ALVINELLA_READ_1878431138	94413	95.91	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+145|rev|ALVINELLA_READ_1878528759	94413	99.23	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+146|rev|ALVINELLA_READ_1878553233	94413	98.19	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+147|rev|ALVINELLA_READ_1878439796	94413	99.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+148|rev|ALVINELLA_READ_1878500089	11124	94.77	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+149|rev|ALVINELLA_READ_1878651704	94413	99.05	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+150|rev|ALVINELLA_READ_1878604033	94413	94.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+151|rev|ALVINELLA_READ_1878496793	94413	96.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+152|rev|ALVINELLA_READ_1878500535	94413	98.85	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+153|rev|ALVINELLA_READ_1878446739	114082	84.85	4e-86	Bacteria; Bacteroidetes; Flavobacteria; Flavobacteriales; Flavobacteriaceae; Chryseobacterium; Unclassified; otu_803
+154|rev|ALVINELLA_READ_1878613385	94413	98.44	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+155|rev|ALVINELLA_READ_1878587649	94413	97.98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+156|rev|ALVINELLA_READ_1878566201	94413	99	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+157|rev|ALVINELLA_READ_1878500363	94413	97.84	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+158|rev|ALVINELLA_READ_1878605204	94413	95.04	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+159|rev|ALVINELLA_READ_1878636032	94413	99.8	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+160|rev|ALVINELLA_READ_1878631911	94413	97.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+161|rev|ALVINELLA_READ_1878458248	94413	98.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+162|rev|ALVINELLA_READ_1878559708	94413	97.74	1e-133	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+163|rev|ALVINELLA_READ_1878478510	94413	93.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+164|rev|ALVINELLA_READ_1878657424	94413	97.79	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+165|rev|ALVINELLA_READ_1878576315	94413	98.29	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+166|rev|ALVINELLA_READ_1878575202	94413	95.6	1e-123	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+167|rev|ALVINELLA_READ_1878701707	94413	98.55	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+168|rev|ALVINELLA_READ_1878629471	94413	94.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+169|rev|ALVINELLA_READ_1878585644	94413	99.15	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+170|rev|ALVINELLA_READ_1878426485	94413	94.56	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+171|rev|ALVINELLA_READ_1878462374	94413	99.02	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+172|rev|ALVINELLA_READ_1878494339	94413	91.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+173|rev|ALVINELLA_READ_1878704685	94413	93.83	5e-169	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+174|rev|ALVINELLA_READ_1878677941	94413	92.81	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+175|rev|ALVINELLA_READ_1878611387	94413	95.3	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+176|rev|ALVINELLA_READ_1878655591	94413	88.87	2e-175	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+177|rev|ALVINELLA_READ_1878669210	94413	90.75	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+178|rev|ALVINELLA_READ_1878645266	94413	95.14	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+179|rev|ALVINELLA_READ_1878673864	94413	94.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+180|rev|ALVINELLA_READ_1878662148	94413	99.11	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+181|rev|ALVINELLA_READ_1878592124	84230	89.19	6e-159	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+182|rev|ALVINELLA_READ_1878677929	94413	94.5	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+183|rev|ALVINELLA_READ_1878677956	94413	98.22	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+184|rev|ALVINELLA_READ_1878558748	94413	97.39	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+185|rev|ALVINELLA_READ_1878479664	94413	91.26	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+186|rev|ALVINELLA_READ_1878572400	94413	89.98	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+187|rev|ALVINELLA_READ_1878666747	94413	98.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+188|rev|ALVINELLA_READ_1878655205	94413	91.69	2e-128	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+189|rev|ALVINELLA_READ_1878490239	94413	99.28	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+190|rev|ALVINELLA_READ_1878646085	94413	92.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+191|rev|ALVINELLA_READ_1878551290	94413	97.13	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+192|rev|ALVINELLA_READ_1878539047	94413	99.57	6e-126	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+193|rev|ALVINELLA_READ_1878600526	94413	98.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+194|rev|ALVINELLA_READ_1878592633	94413	94.15	2e-175	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+195|rev|ALVINELLA_READ_1878649765	94413	99.29	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+196|rev|ALVINELLA_READ_1878704917	94413	93.52	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+197|rev|ALVINELLA_READ_1878632130	94413	93.82	3e-173	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+198|rev|ALVINELLA_READ_1878417186	94413	97.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+199|rev|ALVINELLA_READ_1878667806	94413	94.81	8e-180	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+200|rev|ALVINELLA_READ_1878570095	94413	91.72	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+201|rev|ALVINELLA_READ_1878600504	94413	88.04	4e-179	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+202|rev|ALVINELLA_READ_1878425679	94413	94.77	1e-162	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+203|rev|ALVINELLA_READ_1878687676	11124	95.07	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+204|rev|ALVINELLA_READ_1878646552	94413	96.63	2e-174	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+205|rev|ALVINELLA_READ_1878675557	94413	97.37	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+206|rev|ALVINELLA_READ_1878622978	94413	97.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+207|rev|ALVINELLA_READ_1878677750	94413	89.17	1e-159	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+208|rev|ALVINELLA_READ_1878422900	94413	91.42	9e-176	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+209|rev|ALVINELLA_READ_1878647226	94413	89.68	8e-168	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+210|rev|ALVINELLA_READ_1878683004	94413	97.73	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+211|rev|ALVINELLA_READ_1878482816	94413	93.64	3e-169	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+212|rev|ALVINELLA_READ_1878472672	94413	98.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+213|rev|ALVINELLA_READ_1878435103	94413	97.97	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+214|rev|ALVINELLA_READ_1878682817	94413	93.78	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+215|rev|ALVINELLA_READ_1878646759	94413	97.64	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+216|rev|ALVINELLA_READ_1878423537	94413	94.51	3e-151	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+217|rev|ALVINELLA_READ_1878647686	94413	90.62	4e-139	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+218|rev|ALVINELLA_READ_1878592676	94413	100	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+219|rev|ALVINELLA_READ_1878696101	94413	91.26	6e-172	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+220|rev|ALVINELLA_READ_1878679245	94413	92.38	3e-163	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+221|rev|ALVINELLA_READ_1878683085	94413	91.58	9e-173	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+222|rev|ALVINELLA_READ_1878548822	94413	89.07	2e-152	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+223|rev|ALVINELLA_READ_1878531989	94413	96.17	7e-176	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+224|rev|ALVINELLA_READ_1878583209	94413	97.9	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+225|rev|ALVINELLA_READ_1878482240	10876	89.34	8e-130	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+226|rev|ALVINELLA_READ_1878497049	94413	97.46	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+227|rev|ALVINELLA_READ_1878693270	94413	95.58	7e-111	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+228|rev|ALVINELLA_READ_1878418753	94413	94.35	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+229|rev|ALVINELLA_READ_1878560620	106942	95.32	3e-125	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+230|rev|ALVINELLA_READ_1878413707	94413	91.3	2e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+231|rev|ALVINELLA_READ_1878630966	94413	94.43	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+232|rev|ALVINELLA_READ_1878580564	94413	94.63	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+233|rev|ALVINELLA_READ_1878695657	94413	93.26	2e-177	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+234|rev|ALVINELLA_READ_1878425631	103892	88.94	7e-121	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Unclassified; otu_2944
+235|rev|ALVINELLA_READ_1878460269	104443	87.9	3e-95	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+236|rev|ALVINELLA_READ_1878680878	94413	96.47	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+237|rev|ALVINELLA_READ_1878685071	94413	92.38	8e-125	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+238|rev|ALVINELLA_READ_1878414458	94413	93.81	3e-135	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+239|rev|ALVINELLA_READ_1878421890	94413	94.07	3e-157	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+240|rev|ALVINELLA_READ_1878690646	94413	90.28	5e-153	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+241|rev|ALVINELLA_READ_1878473638	94413	98.51	2e-140	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+242|rev|ALVINELLA_READ_1878423916	101619	92.9	3e-138	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+243|rev|ALVINELLA_READ_1878669754	3810	93.2	9e-99	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+dup2rev|ALVINELLA_READ_1878612292	94413	96.5	5e-149	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+246|rev|ALVINELLA_READ_1878590138	94413	88.72	2e-155	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+247|rev|ALVINELLA_READ_1878516444	94413	91.15	6e-145	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+248|rev|ALVINELLA_READ_1878588279	94413	93.12	4e-125	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+249|rev|ALVINELLA_READ_1878444083	11124	90.14	7e-137	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+250|rev|ALVINELLA_READ_1878557183	94413	93.99	1e-174	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+251|rev|ALVINELLA_READ_1878483731	94413	95.74	4e-140	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+252|rev|ALVINELLA_READ_1878470586	94413	92.08	2e-139	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+253|rev|ALVINELLA_READ_1878613441	94413	92.23	3e-141	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+dup2rev|ALVINELLA_READ_1878555107	94413	97.97	3e-151	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+256|rev|ALVINELLA_READ_1878474321	94413	91.48	7e-133	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+257|rev|ALVINELLA_READ_1878625482	94413	99.72	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+258|rev|ALVINELLA_READ_1878692849	94413	91.98	2e-125	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+259|rev|ALVINELLA_READ_1878500742	94413	93.62	7e-142	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+260|rev|ALVINELLA_READ_1878434492	94413	90.22	1e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+261|rev|ALVINELLA_READ_1878698679	142725	88.22	1e-94	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+262|rev|ALVINELLA_READ_1878675860	94413	91.9	2e-152	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+263|rev|ALVINELLA_READ_1878667146	19883	90.1	1e-98	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+dup2rev|ALVINELLA_READ_1878518750	94413	97.03	1e-132	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+266|rev|ALVINELLA_READ_1878423684	94413	97.63	7e-127	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+267|rev|ALVINELLA_READ_1878697635	94413	100	1e-126	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+268|rev|ALVINELLA_READ_1878646191	94413	95.36	5e-135	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+269|rev|ALVINELLA_READ_1878622886	94413	97.38	3e-153	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+270|rev|ALVINELLA_READ_1878608222	94413	95.22	8e-132	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+271|rev|ALVINELLA_READ_1878563737	94413	93.66	2e-133	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+272|rev|ALVINELLA_READ_1878700974	94413	98.25	0.0	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+273|rev|ALVINELLA_READ_1878600109	94413	95.17	3e-127	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+274|rev|ALVINELLA_READ_1878597370	79121	83.12	2e-59	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta; Unclassified; otu_3517
+275|rev|ALVINELLA_READ_1878559248	94413	93.17	1e-109	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+276|rev|ALVINELLA_READ_1878508492	94413	95.73	9e-127	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+277|rev|ALVINELLA_READ_1878625831	94413	93.01	1e-146	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+278|rev|ALVINELLA_READ_1878561584	142725	84.66	1e-60	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+279|rev|ALVINELLA_READ_1878603346	94413	96.34	1e-128	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+280|rev|ALVINELLA_READ_1878424223	94413	90.03	4e-113	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+281|rev|ALVINELLA_READ_1878695107	94413	90.8	8e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+282|rev|ALVINELLA_READ_1878487867	94413	93.28	6e-108	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+283|rev|ALVINELLA_READ_1878518639	94413	95	2e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+284|rev|ALVINELLA_READ_1878549852	94413	95.42	6e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+285|rev|ALVINELLA_READ_1878645443	142725	86.3	6e-65	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+286|rev|ALVINELLA_READ_1878664230	94413	92.29	1e-128	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+287|rev|ALVINELLA_READ_1878586610	94413	90.37	7e-108	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+288|rev|ALVINELLA_READ_1878610653	94413	100	4e-130	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+289|rev|ALVINELLA_READ_1878545858	94413	97.93	7e-123	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+290|rev|ALVINELLA_READ_1878518728	94413	96.88	2e-139	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+291|rev|ALVINELLA_READ_1878474523	94413	97.03	2e-96	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+292|rev|ALVINELLA_READ_1878642516	94413	88.64	3e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+293|rev|ALVINELLA_READ_1878619929	94413	98.68	6e-120	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+294|rev|ALVINELLA_READ_1878597956	94413	97.78	1e-161	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+295|rev|ALVINELLA_READ_1878694515	94413	98.71	2e-122	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+296|rev|ALVINELLA_READ_1878623337	94413	96.68	1e-114	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+297|rev|ALVINELLA_READ_1878525897	94413	93.31	2e-111	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+298|rev|ALVINELLA_READ_1878550262	94413	94.5	5e-125	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+300|rev|ALVINELLA_READ_1878417194	94413	90.14	3e-113	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+301|rev|ALVINELLA_READ_1878483458	94413	93.56	2e-78	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+302|rev|ALVINELLA_READ_1878475404	94413	95.02	4e-94	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+303|rev|ALVINELLA_READ_1878560516	94413	93.12	8e-71	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+304|rev|ALVINELLA_READ_1878673647	94413	92.81	4e-60	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+305|rev|ALVINELLA_READ_1878683284	94413	94.48	8e-74	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+307|rev|ALVINELLA_READ_1878649141	94413	94.47	4e-81	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+308|rev|ALVINELLA_READ_1878656753	11124	90	2e-62	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+309|rev|ALVINELLA_READ_1878698673	94413	91.83	1e-93	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+310|rev|ALVINELLA_READ_1878650555	94413	96.09	4e-81	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+312|rev|ALVINELLA_READ_1878571037	94413	100	1e-95	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+313|rev|ALVINELLA_READ_1878491271	94413	95.19	1e-89	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+314|rev|ALVINELLA_READ_1878591841	94413	88.35	3e-63	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+315|rev|ALVINELLA_READ_1878646028	94413	92.39	1e-71	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+316|rev|ALVINELLA_READ_1878648899	94413	97.16	9e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+317|rev|ALVINELLA_READ_1878464881	94413	96.65	4e-84	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+318|rev|ALVINELLA_READ_1878658073	94413	98.8	2e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+319|rev|ALVINELLA_READ_1878690088	19883	94.48	6e-76	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+320|rev|ALVINELLA_READ_1878610030	94413	99.04	4e-111	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+321|rev|ALVINELLA_READ_1878611026	94413	96.65	3e-84	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+322|rev|ALVINELLA_READ_1878677355	94413	91.11	2e-58	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+323|rev|ALVINELLA_READ_1878657999	94413	97.21	4e-86	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+324|rev|ALVINELLA_READ_1878671058	11124	86.26	1e-35	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+325|rev|ALVINELLA_READ_1878642649	104349	93.53	3e-65	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Unclassified; otu_2954
+326|rev|ALVINELLA_READ_1878580630	94413	96.83	2e-88	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+327|rev|ALVINELLA_READ_1878443647	94413	95.6	4e-80	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+328|rev|ALVINELLA_READ_1878452296	94413	93.9	8e-85	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+329|rev|ALVINELLA_READ_1878541205	94413	100	6e-82	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+330|rev|ALVINELLA_READ_1878413848	94413	94.19	3e-67	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+331|rev|ALVINELLA_READ_1878502006	94413	89.7	4e-48	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+332|rev|ALVINELLA_READ_1878588764	1443	88.12	9e-41	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+333|rev|ALVINELLA_READ_1878463423	94413	96.2	3e-71	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+335|rev|ALVINELLA_READ_1878645833	94413	86.71	4e-38	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+338|rev|ALVINELLA_READ_1878416099	94413	92.7	2e-63	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+339|rev|ALVINELLA_READ_1878596571	94413	95.92	1e-64	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+341|rev|ALVINELLA_READ_1878468039	94413	100	5e-45	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+344|rev|ALVINELLA_READ_1878490135	94413	97.81	2e-66	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+345|rev|ALVINELLA_READ_1878515314	94413	95.6	1e-35	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+346|rev|ALVINELLA_READ_1878542196	94413	97.14	1e-64	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+347|rev|ALVINELLA_READ_1878511437	94413	92.9	3e-56	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+350|rev|ALVINELLA_READ_1878480999	94413	93.79	5e-61	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+353|rev|ALVINELLA_READ_1878614541	94413	95.27	1e-61	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+354|rev|ALVINELLA_READ_1878522734	94413	97.5	7e-56	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+356|rev|ALVINELLA_READ_1878666708	94413	97.48	3e-55	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+357|rev|ALVINELLA_READ_1878452657	94413	100	2e-66	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+358|rev|ALVINELLA_READ_1878481525	106942	90.48	5e-36	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+360|rev|ALVINELLA_READ_1878522653	94413	96.52	2e-50	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+362|rev|ALVINELLA_READ_1878423442	19883	98.98	5e-48	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+364|rev|ALVINELLA_READ_1878426079	19883	98.98	5e-48	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+365|rev|ALVINELLA_READ_1878424120	94413	96.43	2e-33	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+366|rev|ALVINELLA_READ_1878633344	94413	91.27	2e-39	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+369|rev|ALVINELLA_READ_1878423944	94413	88.2	6e-39	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+370|rev|ALVINELLA_READ_1878460074	11124	90.41	5e-42	Bacteria; Proteobacteria; Epsilonproteobacteria; Unclassified; otu_2943
+371|rev|ALVINELLA_READ_1878668956	94413	88.08	3e-34	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+372|rev|ALVINELLA_READ_1878510750	94413	97.87	2e-42	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+384|rev|ALVINELLA_READ_1878419901	94413	100	2e-37	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972

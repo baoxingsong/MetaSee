@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CAM_SMPL_001115</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>596</val></count>
+		<node name="Bacteria">
+		<count><val>591</val></count>
+			<node name="Proteobacteria">
+			<count><val>420</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>291</val></count>
+					<node name="Rhizobiales">
+					<count><val>186</val></count>
+						<node name="Brucellaceae">
+						<count><val>90</val></count>
+							<node name="Unclassified">
+							<count><val>90</val></count>
+							</node>
+						</node>
+						<node name="Rhizobiaceae">
+						<count><val>48</val></count>
+							<node name="group">
+							<count><val>44</val></count>
+								<node name="Rhizobium">
+								<count><val>44</val></count>
+									<node name="Unclassified">
+									<count><val>44</val></count>
+									</node>
+								</node>
+							</node>
+							<node name="Liberibacter">
+							<count><val>4</val></count>
+							</node>
+						</node>
+						<node name="Phyllobacteriaceae">
+						<count><val>35</val></count>
+							<node name="Mesorhizobium">
+							<count><val>35</val></count>
+								<node name="Unclassified">
+								<count><val>35</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Methylobacteriaceae">
+						<count><val>3</val></count>
+							<node name="Roseomonas">
+							<count><val>3</val></count>
+							</node>
+						</node>
+						<node name="Xanthobacteraceae">
+						<count><val>1</val></count>
+							<node name="Azorhizobium">
+							<count><val>1</val></count>
+							</node>
+						</node>
+						<node name="Beijerinckiaceae">
+						<count><val>9</val></count>
+							<node name="Chelatococcus">
+							<count><val>9</val></count>
+								<node name="Unclassified">
+								<count><val>9</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodospirillales">
+					<count><val>15</val></count>
+						<node name="Rhodospirillaceae">
+						<count><val>10</val></count>
+							<node name="Magnetospirillum">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+							<node name="Phaeospirillum">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+							<node name="Azospirillum">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Acetobacteraceae">
+						<count><val>5</val></count>
+							<node name="Stella">
+							<count><val>5</val></count>
+								<node name="Unclassified">
+								<count><val>5</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Sphingomonadales">
+					<count><val>76</val></count>
+						<node name="Sphingomonadaceae">
+						<count><val>76</val></count>
+							<node name="Sphingomonas">
+							<count><val>66</val></count>
+								<node name="Unclassified">
+								<count><val>66</val></count>
+								</node>
+							</node>
+							<node name="Unclassified">
+							<count><val>10</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodobacterales">
+					<count><val>6</val></count>
+						<node name="Rhodobacteraceae">
+						<count><val>6</val></count>
+							<node name="Rhodobacter">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+							<node name="Roseisalinus">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Nisaea">
+					<count><val>8</val></count>
+					</node>
+				</node>
+				<node name="Deltaproteobacteria">
+				<count><val>106</val></count>
+					<node name="Desulfuromonadales">
+					<count><val>77</val></count>
+						<node name="Pelobacteraceae">
+						<count><val>5</val></count>
+							<node name="Pelobacter">
+							<count><val>5</val></count>
+								<node name="Unclassified">
+								<count><val>5</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Geobacteraceae">
+						<count><val>72</val></count>
+							<node name="Geobacter">
+							<count><val>72</val></count>
+								<node name="Unclassified">
+								<count><val>72</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Unclassified">
+					<count><val>23</val></count>
+					</node>
+					<node name="Desulfovibrionales">
+					<count><val>2</val></count>
+						<node name="Desulfovibrionaceae">
+						<count><val>2</val></count>
+							<node name="Desulfovibrio">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Myxococcales">
+					<count><val>4</val></count>
+						<node name="Cystobacterineae">
+						<count><val>3</val></count>
+							<node name="Myxococcaceae">
+							<count><val>3</val></count>
+								<node name="Myxococcus">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Sorangineae">
+						<count><val>1</val></count>
+							<node name="Polyangiaceae">
+							<count><val>1</val></count>
+								<node name="Polyangium">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Gammaproteobacteria">
+				<count><val>22</val></count>
+					<node name="Unclassified">
+					<count><val>3</val></count>
+					</node>
+					<node name="Legionellales">
+					<count><val>2</val></count>
+						<node name="Legionellaceae">
+						<count><val>2</val></count>
+							<node name="Legionella">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="symbionts">
+					<count><val>9</val></count>
+						<node name="Unclassified">
+						<count><val>9</val></count>
+						</node>
+					</node>
+					<node name="Pseudomonadales">
+					<count><val>3</val></count>
+						<node name="Pseudomonadaceae">
+						<count><val>3</val></count>
+							<node name="Pseudomonas">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Chromatiales">
+					<count><val>4</val></count>
+						<node name="Ectothiorhodospiraceae">
+						<count><val>4</val></count>
+							<node name="Thioalkalivibrio">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+							<node name="Thiohalospira">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Thiotrichales">
+					<count><val>1</val></count>
+						<node name="Piscirickettsiaceae">
+						<count><val>1</val></count>
+							<node name="Piscirickettsia">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Betaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Rhodocyclales">
+					<count><val>1</val></count>
+						<node name="Rhodocyclaceae">
+						<count><val>1</val></count>
+							<node name="Sterolibacterium">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Acidobacteria">
+			<count><val>3</val></count>
+				<node name="Acidobacteriales">
+				<count><val>3</val></count>
+					<node name="Acidobacteriaceae">
+					<count><val>3</val></count>
+						<node name="Unclassified">
+						<count><val>3</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Planctomycetes">
+			<count><val>6</val></count>
+				<node name="Planctomycetacia">
+				<count><val>6</val></count>
+					<node name="Planctomycetales">
+					<count><val>6</val></count>
+						<node name="Planctomycetaceae">
+						<count><val>5</val></count>
+							<node name="Pirellula">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+							<node name="Planctomyces">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>10</val></count>
+			</node>
+			<node name="Verrucomicrobia">
+			<count><val>2</val></count>
+				<node name="Verrucomicrobia">
+				<count><val>1</val></count>
+					<node name="Unclassified">
+					<count><val>1</val></count>
+					</node>
+				</node>
+				<node name="Verrucomicrobiae">
+				<count><val>1</val></count>
+					<node name="Verrucomicrobiales">
+					<count><val>1</val></count>
+						<node name="Verrucomicrobiaceae">
+						<count><val>1</val></count>
+							<node name="Verrucomicrobiaceae">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Nitrospirae">
+			<count><val>24</val></count>
+				<node name="Nitrospirales">
+				<count><val>24</val></count>
+					<node name="Nitrospiraceae">
+					<count><val>24</val></count>
+						<node name="Thermodesulfovibrio">
+						<count><val>24</val></count>
+							<node name="Unclassified">
+							<count><val>24</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Actinobacteria">
+			<count><val>45</val></count>
+				<node name="Actinobacteridae">
+				<count><val>40</val></count>
+					<node name="Actinomycetales">
+					<count><val>40</val></count>
+						<node name="Pseudonocardineae">
+						<count><val>21</val></count>
+							<node name="Pseudonocardiaceae">
+							<count><val>21</val></count>
+								<node name="Saccharopolyspora">
+								<count><val>21</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Streptomycineae">
+						<count><val>18</val></count>
+							<node name="Streptomycetaceae">
+							<count><val>18</val></count>
+								<node name="Streptomyces">
+								<count><val>18</val></count>
+									<node name="Unclassified">
+									<count><val>18</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node name="Propionibacterineae">
+						<count><val>1</val></count>
+							<node name="Nocardioidaceae">
+							<count><val>1</val></count>
+								<node name="Aeromicrobium">
+								<count><val>1</val></count>
+									<node name="Unclassified">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Microthrix">
+				<count><val>4</val></count>
+					<node name="Unclassified">
+					<count><val>4</val></count>
+					</node>
+				</node>
+				<node name="Rubrobacteridae">
+				<count><val>1</val></count>
+					<node name="Rubrobacterales">
+					<count><val>1</val></count>
+						<node name="Rubrobacterineae">
+						<count><val>1</val></count>
+							<node name="Rubrobacterineae">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Chloroflexi">
+			<count><val>27</val></count>
+				<node name="Chloroflexales">
+				<count><val>26</val></count>
+					<node name="Chloroflexaceae">
+					<count><val>26</val></count>
+						<node name="Roseiflexus">
+						<count><val>26</val></count>
+							<node name="Unclassified">
+							<count><val>26</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+			<node name="Thermobaculum">
+			<count><val>1</val></count>
+			</node>
+			<node name="Firmicutes">
+			<count><val>29</val></count>
+				<node name="Clostridia">
+				<count><val>29</val></count>
+					<node name="Clostridiales">
+					<count><val>28</val></count>
+						<node name="Syntrophomonadaceae">
+						<count><val>17</val></count>
+							<node name="Syntrophomonas">
+							<count><val>12</val></count>
+								<node name="Unclassified">
+								<count><val>12</val></count>
+								</node>
+							</node>
+							<node name="Thermaerobacter">
+							<count><val>5</val></count>
+							</node>
+						</node>
+						<node name="Clostridiaceae">
+						<count><val>6</val></count>
+							<node name="Clostridium">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Peptococcaceae">
+						<count><val>4</val></count>
+							<node name="Desulfotomaculum">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+							<node name="Pelotomaculum">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Sedis">
+						<count><val>1</val></count>
+							<node name="Thermaerobacter">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Unclassified">
+					<count><val>1</val></count>
+					</node>
+				</node>
+			</node>
+			<node name="Bacteroidetes">
+			<count><val>17</val></count>
+				<node name="Bacteroidales">
+				<count><val>2</val></count>
+					<node name="Bacteroidaceae">
+					<count><val>1</val></count>
+						<node name="Anaerophaga">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Rikenellaceae">
+					<count><val>1</val></count>
+						<node name="Ruminofilibacter">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+				<node name="Flavobacteria">
+				<count><val>3</val></count>
+					<node name="Flavobacteriales">
+					<count><val>3</val></count>
+						<node name="Flavobacteriaceae">
+						<count><val>3</val></count>
+							<node name="Gilvibacter">
+							<count><val>1</val></count>
+							</node>
+							<node name="Yeosuana">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Sphingobacteria">
+				<count><val>11</val></count>
+					<node name="Sphingobacteriales">
+					<count><val>11</val></count>
+						<node name="Flexibacteraceae">
+						<count><val>10</val></count>
+							<node name="Roseivirga">
+							<count><val>1</val></count>
+							</node>
+							<node name="Hongiella">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Cytophaga">
+							<count><val>8</val></count>
+								<node name="Unclassified">
+								<count><val>8</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Saprospiraceae">
+						<count><val>1</val></count>
+							<node name="Saprospira">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+			<node name="Fervidomicrobium">
+			<count><val>2</val></count>
+			</node>
+			<node name="Cyanobacteria">
+			<count><val>3</val></count>
+				<node name="Chroococcales">
+				<count><val>2</val></count>
+					<node name="Thermosynechococcus">
+					<count><val>2</val></count>
+					</node>
+				</node>
+				<node name="Prochlorales">
+				<count><val>1</val></count>
+					<node name="Prochlorococcaceae">
+					<count><val>1</val></count>
+						<node name="Prochlorococcus">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Thermus">
+			<count><val>1</val></count>
+				<node name="Deinococci">
+				<count><val>1</val></count>
+					<node name="Deinococcales">
+					<count><val>1</val></count>
+						<node name="Deinococcaceae">
+						<count><val>1</val></count>
+							<node name="Deinococcus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Spirochaetes">
+			<count><val>1</val></count>
+				<node name="Spirochaetales">
+				<count><val>1</val></count>
+					<node name="Spirochaetaceae">
+					<count><val>1</val></count>
+						<node name="Spirochaeta">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Eukaryota">
+		<count><val>5</val></count>
+			<node name="Rhodophyta">
+			<count><val>3</val></count>
+				<node name="Bangiophyceae">
+				<count><val>3</val></count>
+					<node name="Bangiales">
+					<count><val>3</val></count>
+						<node name="Bangiaceae">
+						<count><val>3</val></count>
+							<node name="Porphyra">
+							<count><val>3</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="stramenopiles">
+			<count><val>2</val></count>
+				<node name="Bacillariophyta">
+				<count><val>2</val></count>
+					<node name="Fragilariophyceae">
+					<count><val>2</val></count>
+						<node name="Fragilariophycidae">
+						<count><val>2</val></count>
+							<node name="Rhaponeidales">
+							<count><val>2</val></count>
+								<node name="Rhaphoneidaceae">
+								<count><val>2</val></count>
+									<node name="Delphineis">
+									<count><val>2</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

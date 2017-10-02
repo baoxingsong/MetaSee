@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CAM_SMPL_WHALEFALLMAT</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>40</val></count>
+		<node name="Bacteria">
+		<count><val>40</val></count>
+			<node name="Proteobacteria">
+			<count><val>31</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>28</val></count>
+					<node name="Rhodobacterales">
+					<count><val>16</val></count>
+						<node name="Hyphomonadaceae">
+						<count><val>8</val></count>
+							<node name="Maricaulis">
+							<count><val>5</val></count>
+							</node>
+							<node name="Hyphomonas">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Rhodobacteraceae">
+						<count><val>8</val></count>
+							<node name="Roseobacter">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Rhodobacter">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+							<node name="Paracoccus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodospirillales">
+					<count><val>5</val></count>
+						<node name="Rhodospirillaceae">
+						<count><val>5</val></count>
+							<node name="Thalassospira">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+							<node name="Azospirillum">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Sphingomonadales">
+					<count><val>1</val></count>
+						<node name="Sphingomonadaceae">
+						<count><val>1</val></count>
+							<node name="Sphingomonas">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhizobiales">
+					<count><val>3</val></count>
+						<node name="Phyllobacteriaceae">
+						<count><val>2</val></count>
+							<node name="Mesorhizobium">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Beijerinckiaceae">
+						<count><val>1</val></count>
+							<node name="Beijerinckia">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Unclassified">
+					<count><val>2</val></count>
+					</node>
+					<node name="Nisaea">
+					<count><val>1</val></count>
+					</node>
+				</node>
+				<node name="Epsilonproteobacteria">
+				<count><val>1</val></count>
+					<node name="Campylobacterales">
+					<count><val>1</val></count>
+						<node name="Campylobacteraceae">
+						<count><val>1</val></count>
+							<node name="Arcobacter">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Deltaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Desulfobacterales">
+					<count><val>1</val></count>
+						<node name="Desulfobulbaceae">
+						<count><val>1</val></count>
+							<node name="Desulfotalea">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Betaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Burkholderiales">
+					<count><val>1</val></count>
+						<node name="Comamonadaceae">
+						<count><val>1</val></count>
+							<node name="Variovorax">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Bacteroidetes">
+			<count><val>5</val></count>
+				<node name="Sphingobacteria">
+				<count><val>2</val></count>
+					<node name="Sphingobacteriales">
+					<count><val>2</val></count>
+						<node name="Flammeovirgaceae">
+						<count><val>2</val></count>
+							<node name="Persicobacter">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Flavobacteria">
+				<count><val>1</val></count>
+					<node name="Flavobacteriales">
+					<count><val>1</val></count>
+						<node name="Flavobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Polaribacter">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Unclassified">
+				<count><val>2</val></count>
+				</node>
+			</node>
+			<node name="Firmicutes">
+			<count><val>1</val></count>
+				<node name="Clostridia">
+				<count><val>1</val></count>
+					<node name="Clostridiales">
+					<count><val>1</val></count>
+						<node name="Peptococcaceae">
+						<count><val>1</val></count>
+							<node name="Desulfotomaculum">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>2</val></count>
+			</node>
+			<node name="Planctomycetes">
+			<count><val>1</val></count>
+				<node name="Planctomycetacia">
+				<count><val>1</val></count>
+					<node name="Planctomycetales">
+					<count><val>1</val></count>
+						<node name="Planctomycetaceae">
+						<count><val>1</val></count>
+							<node name="Planctomyces">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

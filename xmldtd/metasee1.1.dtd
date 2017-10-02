@@ -1,0 +1,8 @@
+<!ELEMENT metasee (datasets,node)>
+<!ELEMENT datasets (dataset*)>
+<!ELEMENT dataset (#PCDATA)>
+<!ELEMENT node (count+,node*)>
+<!ELEMENT count (val*)>
+<!ELEMENT val (#PCDATA)>
+<!ATTLIST node name CDATA #REQUIRED>
+<!--NOTICE! You should not include more "val" in "count" than "dataset" in "datasets"!-->

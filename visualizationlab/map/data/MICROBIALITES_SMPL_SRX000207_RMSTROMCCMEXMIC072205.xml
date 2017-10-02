@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>MICROBIALITES_SMPL_SRX000207_RMSTROMCCMEXMIC072205</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>8</val></count>
+		<node name="Bacteria">
+		<count><val>8</val></count>
+			<node name="Unclassified">
+			<count><val>1</val></count>
+			</node>
+			<node name="Cyanobacteria">
+			<count><val>6</val></count>
+				<node name="Chroococcales">
+				<count><val>5</val></count>
+					<node name="Gloeothece">
+					<count><val>4</val></count>
+					</node>
+					<node name="Synechococcus">
+					<count><val>1</val></count>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Deltaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Desulfovibrionales">
+					<count><val>1</val></count>
+						<node name="Desulfovibrionaceae">
+						<count><val>1</val></count>
+							<node name="Desulfovibrio">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

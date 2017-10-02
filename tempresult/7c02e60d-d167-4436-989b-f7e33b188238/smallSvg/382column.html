@@ -1,0 +1,138 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bar Char</title>
+<link href="../skin/demo.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../lib/jquery.min.js"></script>
+<script type="text/javascript">
+ var chart;
+$(document).ready(function() {
+chart = new Highcharts.Chart({
+ chart: { 
+renderTo: 'container',
+defaultSeriesType: 'column',
+margin: [ 50, 50, 100, 80]
+},
+title: {
+text: 'Count distribution of Unclassified'
+},
+xAxis: {
+categories: [
+'Decayed Saliva Sample 1','Decayed Saliva Sample 2','Healthy Saliva Sample 1','Healthy Saliva Sample 2'],
+ labels: {
+ rotation: -45,
+ align: 'right', 
+ style: {
+ font: 'normal 13px Verdana, sans-serif'
+}
+}
+},
+yAxis: {
+min: 0,
+title: {
+text: ''
+}
+},
+legend: {
+enabled: false
+},
+tooltip: {
+ formatter: function() {
+ return '<b>'+ this.x +'</b><br/>'+ Highcharts.numberFormat(this.y, 1); +
+ '';
+ } 
+ }, 
+ series: [{ 
+ name: 'Population',
+ data: [
+4,0,0,0],
+ dataLabels: {
+ enabled: true,
+ rotation: -90,
+ color: '#FFFFFF',
+ align: 'right',
+x: -3,
+ y: 10,
+ formatter: function() {
+ return this.y; 
+ }, 
+ style: { 
+ font: 'normal 13px Verdana, sans-serif' 
+ } 
+ } 
+ }] 
+ }); 
+ }); 
+ </script> 
+ <script type="text/javascript">
+ var chart;
+$(document).ready(function() {
+chart = new Highcharts.Chart({
+ chart: { 
+renderTo: 'container2',
+defaultSeriesType: 'column',
+margin: [ 50, 50, 100, 80]
+},
+title: {
+text: 'Distribution distribution of Unclassified'
+},
+xAxis: {
+categories: [
+'Decayed Saliva Sample 1','Decayed Saliva Sample 2','Healthy Saliva Sample 1','Healthy Saliva Sample 2'],
+ labels: {
+ rotation: -45,
+ align: 'right', 
+ style: {
+ font: 'normal 13px Verdana, sans-serif'
+}
+}
+},
+yAxis: {
+min: 0,
+title: {
+text: ''
+}
+},
+legend: {
+enabled: false
+},
+tooltip: {
+ formatter: function() {
+ return '<b>'+ this.x +'</b><br/>'+ this.y*100+"%" +
+ '';
+ } 
+ }, 
+ series: [{ 
+ name: 'Population',
+ data: [
+2.3382241187817852E-4,0.0,0.0,0.0],
+ dataLabels: {
+ enabled: true,
+ rotation: -90,
+ color: '#FFFFFF',
+ align: 'right',
+x: -3,
+ y: 10,
+ formatter: function() {
+ return this.y*100+"%"; 
+ }, 
+ style: { 
+ font: 'normal 13px Verdana, sans-serif' 
+ } 
+ } 
+ }] 
+ }); 
+ }); 
+ </script> 
+ </head>
+ <body> 
+ <script type="text/javascript" src="../lib/highcharts.js"></script>
+ <script type="text/javascript" src="../lib/exporting.js"></script> 
+<div id="container" style="width: 800px; height: 400px; margin: 0 auto"></div><p>&nbsp;</p><hr><p>&nbsp;</p><div id="container2" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<div class="buttons">
+<a id="next-example" title="Column Chart" href="382pie.html">Pie Chart</a>
+</div>
+<br />
+<div align="center">Taxa view:&nbsp;&nbsp;<a href="1column.html">root</a> -- <a href="2column.html">Bacteria</a> -- <a href="3column.html">Proteobacteria</a> -- <a href="317column.html">Alphaproteobacteria</a> -- <a href="371column.html">Rhodospirillales</a> -- <a href="380column.html">Acetobacteraceae</a> -- <a href="381column.html">Stella</a> -- <a href="382column.html">Unclassified</a><p>&nbsp;</p><p>&nbsp;</p>Go to Taxonomy Browser:&nbsp;&nbsp;<a href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Bacteria">Bacteria</a><p>&nbsp;</p><p>&nbsp;</p></body>
+</html>

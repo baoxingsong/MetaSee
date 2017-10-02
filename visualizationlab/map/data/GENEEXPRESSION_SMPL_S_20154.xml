@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>GENEEXPRESSION_SMPL_S_20154</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>20</val></count>
+		<node name="Bacteria">
+		<count><val>20</val></count>
+			<node name="Unclassified">
+			<count><val>2</val></count>
+			</node>
+			<node name="Cyanobacteria">
+			<count><val>9</val></count>
+				<node name="Prochlorales">
+				<count><val>9</val></count>
+					<node name="Prochlorococcaceae">
+					<count><val>9</val></count>
+						<node name="Prochlorococcus">
+						<count><val>9</val></count>
+							<node name="Unclassified">
+							<count><val>9</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>7</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>7</val></count>
+					<node name="Sphingomonadales">
+					<count><val>3</val></count>
+						<node name="Sphingomonadaceae">
+						<count><val>3</val></count>
+							<node name="Sphingomonas">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhizobiales">
+					<count><val>4</val></count>
+						<node name="Brucellaceae">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+						<node name="Xanthobacteraceae">
+						<count><val>2</val></count>
+							<node name="Azorhizobium">
+							<count><val>2</val></count>
+							</node>
+						</node>
+						<node name="Phyllobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Mesorhizobium">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Planctomycetes">
+			<count><val>2</val></count>
+				<node name="Planctomycetacia">
+				<count><val>2</val></count>
+					<node name="Planctomycetales">
+					<count><val>2</val></count>
+						<node name="Planctomycetaceae">
+						<count><val>2</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+							<node name="Rhodopirellula">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

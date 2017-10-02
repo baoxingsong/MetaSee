@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CAM_SMPL_001071</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>52</val></count>
+		<node name="Archaea">
+		<count><val>43</val></count>
+			<node name="Euryarchaeota">
+			<count><val>43</val></count>
+				<node name="Archaeoglobi">
+				<count><val>33</val></count>
+					<node name="Archaeoglobales">
+					<count><val>33</val></count>
+						<node name="Archaeoglobaceae">
+						<count><val>33</val></count>
+							<node name="Archaeoglobus">
+							<count><val>33</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Methanopyri">
+				<count><val>10</val></count>
+					<node name="Methanopyrales">
+					<count><val>10</val></count>
+						<node name="Methanopyraceae">
+						<count><val>10</val></count>
+							<node name="Methanopyrus">
+							<count><val>10</val></count>
+								<node name="Unclassified">
+								<count><val>10</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Bacteria">
+		<count><val>8</val></count>
+			<node name="Bacteroidetes">
+			<count><val>7</val></count>
+				<node name="Bacteroidales">
+				<count><val>6</val></count>
+					<node name="Unclassified">
+					<count><val>6</val></count>
+					</node>
+				</node>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Rhizobiales">
+					<count><val>1</val></count>
+						<node name="Phyllobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Hoeflea">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Eukaryota">
+		<count><val>1</val></count>
+			<node name="stramenopiles">
+			<count><val>1</val></count>
+				<node name="Bacillariophyta">
+				<count><val>1</val></count>
+					<node name="Coscinodiscophyceae">
+					<count><val>1</val></count>
+						<node name="Chaetocerotophycidae">
+						<count><val>1</val></count>
+							<node name="Chaetocerotales">
+							<count><val>1</val></count>
+								<node name="Chaetocerotaceae">
+								<count><val>1</val></count>
+									<node name="Chaetoceros">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

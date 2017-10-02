@@ -1,0 +1,492 @@
+Sequence_id	Database_id	Percentage_identity	E-value	Classification
+1|CAM_READ_0322075373	97256	97.23	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+2|CAM_READ_0321758277	105395	98.17	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+3|CAM_READ_0321589531	161159	96.22	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+4|CAM_READ_0321637367	97256	94.83	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+5|CAM_READ_0321809709	85388	98.29	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+6|CAM_READ_0322088783	23427	97.14	0.0	Bacteria; Unclassified; otu_205
+7|CAM_READ_0321708197	7056	96.76	0.0	Bacteria; Unclassified; otu_205
+8|CAM_READ_0321657487	161159	93.38	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+9|CAM_READ_0321741211	51154	98.8	0.0	Bacteria; Chloroflexi; Unclassified; otu_1145
+10|CAM_READ_0321927691	124930	90.53	8e-164	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+11|CAM_READ_0321543501	230312	97.25	0.0	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+12|CAM_READ_0321854319	124930	94.94	0.0	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+13|CAM_READ_0321995607	23427	97.02	0.0	Bacteria; Unclassified; otu_205
+14|CAM_READ_0321796225	23427	98.41	0.0	Bacteria; Unclassified; otu_205
+15|CAM_READ_0321606663	85388	99.53	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+16|CAM_READ_0322261573	161159	97.69	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+17|CAM_READ_0321934297	39516	93.55	1e-180	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+18|CAM_READ_0322004173	1732	92.77	4e-159	Bacteria; Acidobacteria; Unclassified; otu_206
+19|CAM_READ_0322002411	23427	96.35	0.0	Bacteria; Unclassified; otu_205
+20|CAM_READ_0321768221	95864	96.79	0.0	Bacteria; Unclassified; otu_205
+21|CAM_READ_0321615315	23427	92.98	6e-158	Bacteria; Unclassified; otu_205
+22|CAM_READ_0321966825	228870	93.85	0.0	Bacteria; Bacteroidetes; Unclassified; otu_684
+23|CAM_READ_0322046519	105919	98.06	0.0	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+24|CAM_READ_0322014767	97256	97.62	1e-171	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+25|CAM_READ_0321695803	230312	98.25	0.0	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+26|CAM_READ_0321948263	97256	94.78	4e-171	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+27|CAM_READ_0321514363	23427	93.15	2e-157	Bacteria; Unclassified; otu_205
+28|CAM_READ_0321484305	95864	94.84	0.0	Bacteria; Unclassified; otu_205
+29|CAM_READ_0321897447	23427	96.87	0.0	Bacteria; Unclassified; otu_205
+30|CAM_READ_0321739945	98733	92.38	1e-162	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+31|CAM_READ_0321671769	23427	99.35	6e-170	Bacteria; Unclassified; otu_205
+32|CAM_READ_0321969663	85388	98.98	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+33|CAM_READ_0322054727	85388	99.07	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+34|CAM_READ_0321648375	23427	99.67	3e-172	Bacteria; Unclassified; otu_205
+35|CAM_READ_0321679103	23427	96.21	2e-163	Bacteria; Unclassified; otu_205
+36|CAM_READ_0322180515	98733	98.32	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+37|CAM_READ_0322194197	85388	97.85	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+38|CAM_READ_0322115461	39088	95.39	9e-160	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Sphingobacteriaceae; Pedobacter; Unclassified; otu_1023
+39|CAM_READ_0322144485	97256	95.91	1e-149	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+40|CAM_READ_0321758679	85388	99.44	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+41|CAM_READ_0321931863	105919	98.4	2e-164	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+42|CAM_READ_0321884925	85388	98.06	6e-161	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+43|CAM_READ_0322231371	85388	99.73	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+44|CAM_READ_0322489677	78916	98.14	9e-169	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Acidovorax; Unclassified; otu_2593
+45|CAM_READ_0321788499	124930	96.85	3e-172	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+46|CAM_READ_0321753831	23427	89.65	5e-118	Bacteria; Unclassified; otu_205
+47|CAM_READ_0322178523	97256	95.17	3e-150	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+48|CAM_READ_0322095021	97256	95.65	6e-161	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+49|CAM_READ_0321485589	85388	99.02	5e-167	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+50|CAM_READ_0322041187	23427	96.54	2e-167	Bacteria; Unclassified; otu_205
+51|CAM_READ_0321762761	23427	91.37	4e-131	Bacteria; Unclassified; otu_205
+52|CAM_READ_0322024305	85388	99.01	3e-165	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+53|CAM_READ_0322099845	85388	99.12	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+54|CAM_READ_0321889229	23427	97.83	6e-167	Bacteria; Unclassified; otu_205
+55|CAM_READ_0322275613	97256	96.18	2e-148	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+56|CAM_READ_0322280517	85388	98.25	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+57|CAM_READ_0321752905	85388	99.7	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+58|CAM_READ_0322165277	170434	96.79	1e-136	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella; Unclassified; otu_2548
+59|CAM_READ_0321697217	191730	93.26	3e-138	Bacteria; Actinobacteria; Unclassified; otu_225
+60|CAM_READ_0321856853	98733	99.57	7e-126	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+61|CAM_READ_0321984625	97256	94.1	4e-137	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+62|CAM_READ_0322126265	85388	99.33	5e-164	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+63|CAM_READ_0321905711	85388	97.94	1e-149	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+64|CAM_READ_0321958471	98733	92.15	6e-130	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+65|CAM_READ_0321616737	98733	100	3e-122	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+66|CAM_READ_0322321745	23427	95.47	4e-109	Bacteria; Unclassified; otu_205
+67|CAM_READ_0321670937	95864	94.1	1e-149	Bacteria; Unclassified; otu_205
+68|CAM_READ_0321851899	97256	95.22	2e-132	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+69|CAM_READ_0322768089	174445	96.44	4e-149	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+70|CAM_READ_0322057555	151229	88.98	6e-74	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+71|CAM_READ_0321728773	102985	94.89	3e-147	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+72|CAM_READ_0321754705	105395	99.35	9e-169	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+73|CAM_READ_0322008591	159606	95.11	2e-117	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Rhodocista; Unclassified; otu_2442
+74|CAM_READ_0321984507	98733	92.62	4e-115	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+75|CAM_READ_0322203419	85388	96.56	8e-126	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+76|CAM_READ_0322188871	98733	99.63	6e-151	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+77|CAM_READ_0321728409	85388	98.95	7e-154	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+78|CAM_READ_0321462993	97256	97.23	3e-125	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+79|CAM_READ_0322837279	124930	95.2	1e-121	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+80|CAM_READ_0322136157	214698	89.87	4e-100	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+81|CAM_READ_0321875431	98733	100	8e-144	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+82|CAM_READ_0322528349	7056	97.74	2e-135	Bacteria; Unclassified; otu_205
+83|CAM_READ_0322518609	97256	97.22	1e-124	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+84|CAM_READ_0322249573	85388	98.04	7e-132	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+85|CAM_READ_0322280343	85388	99.2	5e-136	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+86|CAM_READ_0322150335	43992	91.43	1e-84	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+87|CAM_READ_0322245715	124930	98.33	4e-124	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+88|CAM_READ_0321836187	161159	94.23	5e-108	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+89|CAM_READ_0322193363	97256	95.58	6e-114	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+90|CAM_READ_0321804649	85388	97.66	1e-130	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+91|CAM_READ_0321732839	23427	100	1e-99	Bacteria; Unclassified; otu_205
+92|CAM_READ_0322747329	220214	95	2e-104	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; unclassified Rubrobacterineae; otu_647
+93|CAM_READ_0322546927	143525	99.51	1e-111	Bacteria; Proteobacteria; Unclassified; otu_2091
+94|CAM_READ_0323182193	227601	96.74	4e-102	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+95|CAM_READ_0322855459	85388	98.97	1e-102	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+96|CAM_READ_0322024057	154287	93.95	2e-132	Bacteria; Bacteroidetes; Niastella; otu_904
+97|CAM_READ_0321661357	97256	95.95	4e-102	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+98|CAM_READ_0322340873	98733	92.31	1e-96	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+99|CAM_READ_0322803045	85388	99.17	4e-130	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+100|CAM_READ_0322744533	85388	98.25	3e-118	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+101|CAM_READ_0322700223	102985	96.55	4e-96	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+102|CAM_READ_0321853911	97256	96.63	2e-98	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+103|CAM_READ_0323278067	23427	96.88	8e-91	Bacteria; Unclassified; otu_205
+104|CAM_READ_0322051985	89748	90.03	1e-93	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter; Unclassified; otu_2541
+105|CAM_READ_0323301971	102985	99.44	5e-95	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+106|CAM_READ_0322395245	85388	100	2e-113	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+107|CAM_READ_0322296301	124930	100	3e-102	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+108|CAM_READ_0322280847	95864	94.65	8e-79	Bacteria; Unclassified; otu_205
+109|CAM_READ_0321722225	85388	96.93	7e-76	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+110|CAM_READ_0321477785	85388	96.39	1e-74	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+111|CAM_READ_0322183461	95864	94.12	8e-76	Bacteria; Unclassified; otu_205
+112|CAM_READ_0322775331	3468	94.42	7e-98	Eukaryota; Haptophyceae; Prymnesiales; Chrysochromulina; otu_3739
+113|CAM_READ_0321705089	105919	96.04	3e-103	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+114|CAM_READ_0321596839	85388	97.97	2e-125	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+115|CAM_READ_0321944813	23427	90.31	1e-81	Bacteria; Unclassified; otu_205
+116|CAM_READ_0321709793	155077	98.92	2e-97	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+117|CAM_READ_0322762501	98733	100	6e-104	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+118|CAM_READ_0322692587	177236	96.77	7e-88	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas; Unclassified; otu_3481
+119|CAM_READ_0322921183	23427	100	6e-88	Bacteria; Unclassified; otu_205
+120|CAM_READ_0323000699	227601	98.17	1e-82	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+121|CAM_READ_0323010129	7056	96.98	5e-95	Bacteria; Unclassified; otu_205
+122|CAM_READ_0321491647	95864	94.89	4e-118	Bacteria; Unclassified; otu_205
+123|CAM_READ_0323175459	161159	97.54	9e-100	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+124|CAM_READ_0321533767	124930	92.24	2e-79	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+125|CAM_READ_0322656067	122561	95.73	9e-72	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+126|CAM_READ_0322239883	95864	100	1e-126	Bacteria; Unclassified; otu_205
+127|CAM_READ_0322487579	227601	95.87	2e-98	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+128|CAM_READ_0321957691	137492	93.82	4e-71	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+129|CAM_READ_0322910519	23427	96.79	1e-89	Bacteria; Unclassified; otu_205
+130|CAM_READ_0322801057	102985	98.69	8e-78	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+131|CAM_READ_0321672295	97256	96.35	2e-88	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+132|CAM_READ_0321487549	137492	93.89	9e-72	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+133|CAM_READ_0321715161	23427	93.75	2e-98	Bacteria; Unclassified; otu_205
+134|CAM_READ_0322814397	85388	97.01	6e-98	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+135|CAM_READ_0322430245	98733	98.37	3e-93	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+136|CAM_READ_0323142783	144055	92.75	7e-79	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+137|CAM_READ_0322666703	92037	92.64	1e-86	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+138|CAM_READ_0321492105	105919	97.58	5e-102	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+139|CAM_READ_0321979625	95864	99.58	1e-130	Bacteria; Unclassified; otu_205
+140|CAM_READ_0322989367	137492	94.71	3e-71	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+141|CAM_READ_0323274753	137492	92.49	2e-63	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+142|CAM_READ_0322641391	161159	97.01	6e-79	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+143|CAM_READ_0322779333	85388	98.55	2e-107	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+144|CAM_READ_0323419949	150538	96.07	7e-82	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Sulfurimonas; Unclassified; otu_2961
+145|CAM_READ_0322551583	85388	100	3e-83	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+146|CAM_READ_0322688375	230312	98.57	7e-110	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+147|CAM_READ_0322197251	85388	98.51	7e-104	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+148|CAM_READ_0322472917	23427	98.91	3e-96	Bacteria; Unclassified; otu_205
+149|CAM_READ_0322963105	98733	97.84	1e-92	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+150|CAM_READ_0323025087	23427	98.12	1e-79	Bacteria; Unclassified; otu_205
+151|CAM_READ_0323336863	85388	99.52	7e-113	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+152|CAM_READ_0322759539	124930	94.12	4e-77	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+153|CAM_READ_0323409953	7056	97.52	9e-78	Bacteria; Unclassified; otu_205
+154|CAM_READ_0322866961	23427	95.3	7e-104	Bacteria; Unclassified; otu_205
+155|CAM_READ_0321708859	23427	94.08	5e-67	Bacteria; Unclassified; otu_205
+156|CAM_READ_0322342263	97256	98.22	2e-85	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+157|CAM_READ_0323301769	150579	93.85	3e-78	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta; Marchantiopsida; Marchantiidae; Marchantiales; Marchantiineae; Marchantiaceae; Marchantia; otu_4018
+158|CAM_READ_0323381577	85388	96.95	3e-93	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+159|CAM_READ_0321587313	124930	96.97	2e-78	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+160|CAM_READ_0321928065	113101	93.6	1e-46	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+161|CAM_READ_0321888565	85388	97.86	1e-92	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+162|CAM_READ_0322498693	85388	99.12	7e-57	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+163|CAM_READ_0321707353	161159	91.57	1e-55	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+164|CAM_READ_0323231479	161159	94.92	4e-74	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+165|CAM_READ_0322779933	95864	92.14	5e-83	Bacteria; Unclassified; otu_205
+166|CAM_READ_0322703523	98733	97.66	1e-60	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+167|CAM_READ_0322205263	43992	97.22	1e-67	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+168|CAM_READ_0322872105	85388	98.86	2e-91	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+169|CAM_READ_0322758115	95864	97.31	3e-109	Bacteria; Unclassified; otu_205
+170|CAM_READ_0323400005	85388	99.37	4e-83	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+171|CAM_READ_0322981003	23427	99.17	3e-61	Bacteria; Unclassified; otu_205
+172|CAM_READ_0321896389	85388	99.37	5e-83	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+173|CAM_READ_0322404975	230312	99.3	3e-74	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+174|CAM_READ_0322358633	23427	93.17	7e-60	Bacteria; Unclassified; otu_205
+175|CAM_READ_0323111431	122561	95.45	9e-56	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+176|CAM_READ_0322523349	98733	97.93	4e-70	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+177|CAM_READ_0323105293	85388	98.05	5e-76	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+178|CAM_READ_0322601805	23427	96.12	2e-56	Bacteria; Unclassified; otu_205
+179|CAM_READ_0322074219	138944	93.37	6e-70	Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Unclassified; otu_2756
+180|CAM_READ_0323439849	206038	97.32	4e-51	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Pseudonocardineae; Pseudonocardiaceae; Jiangella; otu_542
+181|CAM_READ_0322983653	124930	97.5	3e-77	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+182|CAM_READ_0321498161	98733	93.17	7e-60	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+183|CAM_READ_0322969273	110787	88.34	6e-42	Bacteria; Verrucomicrobia; unclassified Verrucomicrobia; Unclassified; otu_3605
+184|CAM_READ_0323076509	95864	97.52	3e-77	Bacteria; Unclassified; otu_205
+185|CAM_READ_0322282235	98733	100	2e-62	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+186|CAM_READ_0321954909	95864	93.81	9e-91	Bacteria; Unclassified; otu_205
+187|CAM_READ_0322055389	23427	91.5	1e-49	Bacteria; Unclassified; otu_205
+188|CAM_READ_0322089975	161159	93.15	2e-53	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+189|CAM_READ_0321592763	161159	97.48	8e-56	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+190|CAM_READ_0323102137	97256	93.38	2e-57	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+191|CAM_READ_0321484275	97256	91.3	2e-53	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+192|CAM_READ_0323216749	23427	95.93	8e-53	Bacteria; Unclassified; otu_205
+193|CAM_READ_0323218555	97256	99.11	7e-56	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+194|CAM_READ_0323373719	97256	93.71	1e-55	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+195|CAM_READ_0321582317	85388	100	3e-65	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+196|CAM_READ_0321699615	97256	100	4e-57	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+197|CAM_READ_0322371363	85388	100	1e-61	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+198|CAM_READ_0322545703	137492	94.44	7e-50	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+199|CAM_READ_0323086931	85388	97.28	7e-69	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+200|CAM_READ_0321499541	97256	98.91	7e-44	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+201|CAM_READ_0323052701	161159	92.06	4e-42	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+202|CAM_READ_0322521571	23427	94.57	6e-76	Bacteria; Unclassified; otu_205
+203|CAM_READ_0323297605	50403	98.98	3e-48	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Unclassified; otu_2588
+204|CAM_READ_0322395611	85388	98.54	3e-68	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+206|CAM_READ_0323389443	105919	98.01	2e-75	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+207|CAM_READ_0323285335	23427	98.25	3e-55	Bacteria; Unclassified; otu_205
+208|CAM_READ_0323070597	98733	97.81	6e-66	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+209|CAM_READ_0322787345	85388	98.85	2e-41	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+210|CAM_READ_0322578603	85388	100	3e-55	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+211|CAM_READ_0323244335	161159	98.31	1e-57	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+212|CAM_READ_0322497287	161159	97.22	4e-48	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+213|CAM_READ_0323079551	23427	97.87	3e-68	Bacteria; Unclassified; otu_205
+214|CAM_READ_0323421113	87861	89.06	8e-54	Bacteria; Unclassified; otu_205
+215|CAM_READ_0322904125	97256	95.97	2e-53	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+216|CAM_READ_0322669829	44017	98.73	1e-36	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Desulfatimicrobium; otu_2936
+217|CAM_READ_0322330101	85388	98.81	1e-39	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+218|CAM_READ_0323351795	210246	100	3e-45	Bacteria; Proteobacteria; Betaproteobacteria; Nitrosomonadales; Nitrosomonadaceae; Nitrosospira; Unclassified; otu_2749
+219|CAM_READ_0323481371	85388	96.58	4e-51	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+220|CAM_READ_0322401733	85388	97.69	3e-84	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+221|CAM_READ_0322969161	105395	100	2e-62	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+222|CAM_READ_0323282275	98733	98.2	2e-53	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+223|CAM_READ_0323495379	23427	98.13	1e-51	Bacteria; Unclassified; otu_205
+224|CAM_READ_0323492683	85388	99.01	2e-49	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+225|CAM_READ_0322015725	161159	98.98	4e-48	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+226|CAM_READ_0323354241	207791	100	5e-37	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Arthrobacter; Unclassified; otu_436
+227|CAM_READ_0323368633	161159	98.99	3e-48	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+228|CAM_READ_0322684029	61204	97.73	1e-39	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+229|CAM_READ_0322223057	167951	97.83	4e-42	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+230|CAM_READ_0323043027	61204	97.73	9e-40	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+231|CAM_READ_0321504763	102985	98.13	2e-50	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+232|CAM_READ_0323107183	88207	93.89	2e-50	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylobacillus; Unclassified; otu_2699
+233|CAM_READ_0322255779	61204	98.86	3e-42	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+234|CAM_READ_0322147973	98733	100	4e-73	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+235|CAM_READ_0323412769	85388	97.65	4e-38	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+236|CAM_READ_0323384797	85388	99.08	4e-54	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+237|CAM_READ_0321594377	17553	99.02	2e-50	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+238|CAM_READ_0323471441	50403	98.67	1e-34	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Unclassified; otu_2588
+239|CAM_READ_0321863885	16166	100	1e-31	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+240|CAM_READ_0323466801	23427	98.81	2e-39	Bacteria; Unclassified; otu_205
+241|CAM_READ_0323296597	142449	96.97	3e-45	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+242|CAM_READ_0323089747	161159	87.22	1e-30	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+244|CAM_READ_0323369729	161159	92.45	1e-35	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+245|CAM_READ_0323423975	23427	98.72	9e-36	Bacteria; Unclassified; otu_205
+246|CAM_READ_0323503281	5903	96.34	7e-34	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Unclassified; otu_2158
+248|CAM_READ_0323285365	85388	100	3e-32	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+250|CAM_READ_0323198401	191730	98.63	2e-33	Bacteria; Actinobacteria; Unclassified; otu_225
+253|CAM_READ_0323368313	85388	99.11	7e-56	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+254|CAM_READ_0322101895	98733	98.1	2e-49	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+256|CAM_READ_0323505325	85388	97.17	6e-47	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+257|CAM_READ_0323339325	105919	100	1e-54	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+261|CAM_READ_0322630637	230312	95.41	2e-43	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+262|CAM_READ_0323405463	135520	100	3e-32	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+264|CAM_READ_0322945927	105919	89.34	2e-31	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+265|CAM_READ_0323492181	230312	97.65	4e-38	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+266|CAM_READ_0323522213	161159	98.65	5e-34	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+267|CAM_READ_0323069827	98733	90.55	6e-38	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+273|CAM_READ_0322896359	230312	96.47	4e-35	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+1|rev|CAM_READ_0321957091	23427	97.03	0.0	Bacteria; Unclassified; otu_205
+2|rev|CAM_READ_0321591279	6702	95.6	0.0	Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Dechloromonas; Unclassified; otu_2765
+3|rev|CAM_READ_0321668579	98733	98.79	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+4|rev|CAM_READ_0321785481	144055	95.29	0.0	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+5|rev|CAM_READ_0321692203	23427	98.49	0.0	Bacteria; Unclassified; otu_205
+6|rev|CAM_READ_0321707675	159606	95.46	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Rhodocista; Unclassified; otu_2442
+7|rev|CAM_READ_0321621381	85388	99.59	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+8|rev|CAM_READ_0321955151	23427	97.24	0.0	Bacteria; Unclassified; otu_205
+9|rev|CAM_READ_0321862453	85388	98.96	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+10|rev|CAM_READ_0321927687	85388	99.57	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+11|rev|CAM_READ_0321677621	7056	98.69	0.0	Bacteria; Unclassified; otu_205
+12|rev|CAM_READ_0321669951	23427	97.15	0.0	Bacteria; Unclassified; otu_205
+13|rev|CAM_READ_0321569615	23427	96.11	0.0	Bacteria; Unclassified; otu_205
+14|rev|CAM_READ_0321837959	155077	99.55	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+15|rev|CAM_READ_0322209635	97256	93.99	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+16|rev|CAM_READ_0321590503	85388	99.54	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+17|rev|CAM_READ_0321978953	85388	98.88	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+18|rev|CAM_READ_0321557071	23427	91.16	1e-159	Bacteria; Unclassified; otu_205
+19|rev|CAM_READ_0321670097	23427	93.32	5e-177	Bacteria; Unclassified; otu_205
+20|rev|CAM_READ_0322437397	98733	99.34	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+21|rev|CAM_READ_0321662287	98733	99.34	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+22|rev|CAM_READ_0322095313	85388	99.04	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+23|rev|CAM_READ_0321954813	156677	94.04	7e-164	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylocystaceae; Methylosinus; Unclassified; otu_2207
+24|rev|CAM_READ_0321812619	124930	92.54	1e-168	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+25|rev|CAM_READ_0321777111	105395	96.71	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+26|rev|CAM_READ_0321917319	85388	97.4	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+27|rev|CAM_READ_0322361291	97256	96.72	6e-164	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+28|rev|CAM_READ_0321912691	97256	94.91	2e-176	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+29|rev|CAM_READ_0321731305	23427	93.62	4e-162	Bacteria; Unclassified; otu_205
+30|rev|CAM_READ_0321889867	155077	99.19	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+31|rev|CAM_READ_0321809893	98733	99.28	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+32|rev|CAM_READ_0321758063	85388	99.16	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+33|rev|CAM_READ_0322245425	85388	98.55	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+34|rev|CAM_READ_0321926691	155077	99.09	0.0	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+35|rev|CAM_READ_0322176383	216118	96.76	0.0	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax; Unclassified; otu_2630
+36|rev|CAM_READ_0321969963	85388	98.9	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+37|rev|CAM_READ_0321879265	85388	99.74	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+38|rev|CAM_READ_0322031687	105919	97.68	4e-177	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+39|rev|CAM_READ_0321975533	150538	94.77	2e-151	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Sulfurimonas; Unclassified; otu_2961
+40|rev|CAM_READ_0321985447	23427	97.48	3e-162	Bacteria; Unclassified; otu_205
+41|rev|CAM_READ_0322140847	85388	99.15	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+42|rev|CAM_READ_0322152781	105395	95.81	4e-168	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+43|rev|CAM_READ_0322042837	85388	99.71	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+44|rev|CAM_READ_0322305565	2592	89.68	7e-130	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Arcicella; Unclassified; otu_957
+45|rev|CAM_READ_0322370601	161159	94.39	2e-161	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+46|rev|CAM_READ_0321841727	20648	96.2	9e-163	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Unclassified; otu_2588
+47|rev|CAM_READ_0321982627	28705	98.3	0.0	Bacteria; Planctomycetes; Planctomycetacia; Planctomycetales; Planctomycetaceae; Planctomyces; Unclassified; otu_2085
+48|rev|CAM_READ_0322540289	100137	96.42	3e-162	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Beijerinckiaceae; Beijerinckia; otu_2132
+49|rev|CAM_READ_0322444221	161159	97.18	8e-160	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+50|rev|CAM_READ_0321811675	23427	97.58	4e-168	Bacteria; Unclassified; otu_205
+51|rev|CAM_READ_0321890277	85388	97.46	1e-137	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+52|rev|CAM_READ_0321513849	85388	99.07	4e-177	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+53|rev|CAM_READ_0321504195	95864	95.64	4e-171	Bacteria; Unclassified; otu_205
+54|rev|CAM_READ_0322171395	85388	97.68	1e-130	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+55|rev|CAM_READ_0321838949	98733	97.68	3e-153	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+56|rev|CAM_READ_0322603169	161159	96.14	3e-147	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+57|rev|CAM_READ_0321974581	85388	98.25	2e-148	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+58|rev|CAM_READ_0322085963	85388	98.91	2e-147	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+59|rev|CAM_READ_0321880751	78916	98.02	2e-129	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Acidovorax; Unclassified; otu_2593
+60|rev|CAM_READ_0322471263	85388	98.12	3e-137	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+61|rev|CAM_READ_0322905745	102985	98.85	3e-140	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+62|rev|CAM_READ_0322757157	23427	98.2	1e-114	Bacteria; Unclassified; otu_205
+63|rev|CAM_READ_0321564483	98733	98.5	8e-141	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+64|rev|CAM_READ_0322661299	161159	99.02	1e-108	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+65|rev|CAM_READ_0322791275	23427	97.14	6e-120	Bacteria; Unclassified; otu_205
+66|rev|CAM_READ_0323287795	105930	98.36	4e-127	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Collimonas; Unclassified; otu_2645
+67|rev|CAM_READ_0322191849	161159	93.57	6e-114	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+68|rev|CAM_READ_0321960029	97256	94.49	3e-109	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+69|rev|CAM_READ_0321615539	85388	97.9	1e-120	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+70|rev|CAM_READ_0322890265	85388	97.42	4e-115	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+71|rev|CAM_READ_0323017281	97256	97.84	3e-118	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+72|rev|CAM_READ_0321504003	85388	98.33	4e-124	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+73|rev|CAM_READ_0322683661	85388	97.88	4e-146	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+74|rev|CAM_READ_0323036505	44017	95.88	3e-112	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Desulfatimicrobium; otu_2936
+75|rev|CAM_READ_0321667257	137492	93.02	1e-83	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+76|rev|CAM_READ_0322178557	154287	95.22	3e-122	Bacteria; Bacteroidetes; Niastella; otu_904
+77|rev|CAM_READ_0322124847	95864	94.5	1e-133	Bacteria; Unclassified; otu_205
+78|rev|CAM_READ_0321593029	23427	96.67	3e-115	Bacteria; Unclassified; otu_205
+79|rev|CAM_READ_0322315701	23427	97.63	4e-105	Bacteria; Unclassified; otu_205
+80|rev|CAM_READ_0323017123	23427	97.44	2e-116	Bacteria; Unclassified; otu_205
+81|rev|CAM_READ_0322785185	97256	95.36	2e-107	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+82|rev|CAM_READ_0322958281	20648	96.83	3e-106	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Unclassified; otu_2588
+83|rev|CAM_READ_0322876773	98733	95.8	5e-133	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+84|rev|CAM_READ_0321973589	161159	97.5	6e-120	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+85|rev|CAM_READ_0322977179	97256	94.96	5e-105	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+86|rev|CAM_READ_0322868279	105919	98.19	8e-113	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+87|rev|CAM_READ_0321912995	23427	86.28	2e-64	Bacteria; Unclassified; otu_205
+88|rev|CAM_READ_0321615229	85388	98.95	6e-101	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+89|rev|CAM_READ_0322927387	23427	97.42	8e-116	Bacteria; Unclassified; otu_205
+90|rev|CAM_READ_0321853171	216118	98.26	9e-119	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax; Unclassified; otu_2630
+91|rev|CAM_READ_0322982085	95864	98.13	5e-139	Bacteria; Unclassified; otu_205
+92|rev|CAM_READ_0322808525	161159	96.02	7e-104	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+93|rev|CAM_READ_0322595977	102985	98.5	1e-139	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+94|rev|CAM_READ_0322339273	97256	98.27	1e-86	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+95|rev|CAM_READ_0322675831	85388	98.47	2e-138	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+96|rev|CAM_READ_0323384991	108713	85.29	9e-48	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+97|rev|CAM_READ_0323231989	105395	96.98	1e-95	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+98|rev|CAM_READ_0322212575	155077	99.33	3e-78	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+99|rev|CAM_READ_0321524215	88207	95	1e-96	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylobacillus; Unclassified; otu_2699
+100|rev|CAM_READ_0322574883	85388	99.41	7e-91	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+101|rev|CAM_READ_0321843889	154287	93.17	3e-97	Bacteria; Bacteroidetes; Niastella; otu_904
+102|rev|CAM_READ_0322159419	97256	94.39	9e-91	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+103|rev|CAM_READ_0322982755	20648	96.71	4e-102	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Unclassified; otu_2588
+104|rev|CAM_READ_0322991787	85388	100	6e-132	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+105|rev|CAM_READ_0322852327	105919	91.79	1e-68	Bacteria; Actinobacteria; Rubrobacteridae; Rubrobacterales; Rubrobacterineae; Thermoleophilaceae; Thermoleophilum; otu_646
+106|rev|CAM_READ_0322729187	154287	96.19	6e-98	Bacteria; Bacteroidetes; Niastella; otu_904
+107|rev|CAM_READ_0323059521	97256	96.89	5e-92	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+108|rev|CAM_READ_0323115577	23427	99.44	3e-96	Bacteria; Unclassified; otu_205
+109|rev|CAM_READ_0322674985	144055	98.28	2e-88	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+110|rev|CAM_READ_0323022795	23427	98.81	6e-88	Bacteria; Unclassified; otu_205
+111|rev|CAM_READ_0322780315	98733	97.51	4e-99	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+112|rev|CAM_READ_0323297795	97256	96.09	1e-80	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+113|rev|CAM_READ_0323107255	85388	100	4e-89	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+114|rev|CAM_READ_0321617519	104024	99.52	1e-114	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Unclassified; otu_237
+115|rev|CAM_READ_0322748391	230312	97.73	2e-110	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+116|rev|CAM_READ_0322054793	230312	97.96	7e-126	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+117|rev|CAM_READ_0322893811	98733	98.86	7e-91	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+118|rev|CAM_READ_0323158393	176825	98.74	7e-82	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Arthrobacter; Unclassified; otu_436
+119|rev|CAM_READ_0322772047	85388	96.86	3e-90	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+120|rev|CAM_READ_0321995533	137492	92.82	2e-73	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+121|rev|CAM_READ_0322955613	23427	98.3	2e-88	Bacteria; Unclassified; otu_205
+122|rev|CAM_READ_0323005219	97256	96.67	3e-84	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+123|rev|CAM_READ_0322040999	161159	91.02	7e-89	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+124|rev|CAM_READ_0322960181	85388	99.47	4e-102	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+125|rev|CAM_READ_0322628605	230312	98.91	3e-96	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+126|rev|CAM_READ_0322952867	161159	94.82	7e-82	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+127|rev|CAM_READ_0322817039	85388	99.5	3e-109	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+128|rev|CAM_READ_0323474129	132286	94.29	9e-72	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Janthinobacterium; Unclassified; otu_2654
+129|rev|CAM_READ_0322224175	85388	97.66	7e-107	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+130|rev|CAM_READ_0322741755	98733	98.38	2e-94	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+131|rev|CAM_READ_0322856233	154287	96.45	5e-92	Bacteria; Bacteroidetes; Niastella; otu_904
+132|rev|CAM_READ_0322299479	23427	96.72	7e-85	Bacteria; Unclassified; otu_205
+133|rev|CAM_READ_0322851091	23427	97.08	6e-82	Bacteria; Unclassified; otu_205
+134|rev|CAM_READ_0323019607	161159	95.6	1e-80	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+135|rev|CAM_READ_0323423583	85388	97.74	3e-87	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+136|rev|CAM_READ_0322567927	85388	99.5	3e-109	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+137|rev|CAM_READ_0322139707	216118	98.4	1e-95	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax; Unclassified; otu_2630
+138|rev|CAM_READ_0322715853	85388	97.84	5e-92	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+139|rev|CAM_READ_0323166963	230312	98.96	4e-102	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+140|rev|CAM_READ_0322140075	227601	93.42	3e-97	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+141|rev|CAM_READ_0323507635	23427	96.15	8e-69	Bacteria; Unclassified; otu_205
+142|rev|CAM_READ_0322151965	212243	91.06	2e-79	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Unclassified; otu_2570
+143|rev|CAM_READ_0322640567	97256	98.76	4e-83	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+144|rev|CAM_READ_0323112475	137102	95.8	2e-62	Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Unclassified; otu_2102
+145|rev|CAM_READ_0323162749	7088	99.35	2e-81	Bacteria; Unclassified; otu_205
+146|rev|CAM_READ_0321979475	227601	93	3e-94	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+147|rev|CAM_READ_0321610631	98733	97.21	1e-86	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+148|rev|CAM_READ_0321959015	102985	98.3	5e-89	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Polynucleobacter; Unclassified; otu_2586
+149|rev|CAM_READ_0322676481	230312	97.57	1e-102	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+150|rev|CAM_READ_0322945219	85388	95.21	7e-82	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+151|rev|CAM_READ_0322974339	98733	99.38	6e-85	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+152|rev|CAM_READ_0322856541	85388	99.28	7e-72	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+153|rev|CAM_READ_0323018811	97256	97.81	6e-66	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+154|rev|CAM_READ_0323135897	98733	98.92	3e-99	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+155|rev|CAM_READ_0322983061	92037	100	1e-76	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+156|rev|CAM_READ_0322679141	161159	91.72	6e-54	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+157|rev|CAM_READ_0323195685	161159	99.24	2e-68	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+158|rev|CAM_READ_0322795577	23427	98.6	2e-72	Bacteria; Unclassified; otu_205
+159|rev|CAM_READ_0322790367	161159	91.19	2e-51	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+160|rev|CAM_READ_0322684343	216196	96.7	2e-85	Bacteria; Acidobacteria; Solibacteres; Solibacterales; Solibacteraceae; Solibacter; otu_224
+161|rev|CAM_READ_0323188469	51154	99.3	6e-63	Bacteria; Chloroflexi; Unclassified; otu_1145
+162|rev|CAM_READ_0322523147	97256	100	2e-81	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+163|rev|CAM_READ_0323063619	23427	95.86	9e-75	Bacteria; Unclassified; otu_205
+164|rev|CAM_READ_0323056925	23427	96.21	1e-57	Bacteria; Unclassified; otu_205
+165|rev|CAM_READ_0322582501	1732	89.38	4e-46	Bacteria; Acidobacteria; Unclassified; otu_206
+166|rev|CAM_READ_0321552053	85388	100	8e-72	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+167|rev|CAM_READ_0323156519	23427	92.67	6e-54	Bacteria; Unclassified; otu_205
+168|rev|CAM_READ_0322590269	228870	96.41	1e-76	Bacteria; Bacteroidetes; Unclassified; otu_684
+169|rev|CAM_READ_0323254009	23427	100	5e-79	Bacteria; Unclassified; otu_205
+170|rev|CAM_READ_0323317425	110103	98.48	6e-66	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+171|rev|CAM_READ_0321688627	213181	96.38	1e-61	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+172|rev|CAM_READ_0323114697	98733	99.32	5e-76	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+173|rev|CAM_READ_0323041691	85388	96.45	6e-63	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+174|rev|CAM_READ_0322456893	167951	96.33	2e-47	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+175|rev|CAM_READ_0323154555	98733	100	3e-64	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+176|rev|CAM_READ_0323388029	98733	99.21	9e-65	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+177|rev|CAM_READ_0323122273	92037	96.35	4e-61	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+178|rev|CAM_READ_0321735769	85388	99.2	3e-64	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+179|rev|CAM_READ_0323177313	23427	97.66	1e-60	Bacteria; Unclassified; otu_205
+180|rev|CAM_READ_0323002815	98733	99.34	1e-79	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+181|rev|CAM_READ_0322966335	105395	92.09	2e-63	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+182|rev|CAM_READ_0323119607	230312	98.37	5e-60	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+183|rev|CAM_READ_0323205417	97256	99.25	2e-69	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+184|rev|CAM_READ_0322781731	230312	96.97	2e-78	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+185|rev|CAM_READ_0322953667	85388	100	6e-63	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+186|rev|CAM_READ_0323418109	98733	100	3e-61	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+187|rev|CAM_READ_0323313101	23427	89.73	1e-42	Bacteria; Unclassified; otu_205
+188|rev|CAM_READ_0322275333	23427	98.31	1e-57	Bacteria; Unclassified; otu_205
+189|rev|CAM_READ_0322993969	124930	97.14	2e-47	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+190|rev|CAM_READ_0323210969	23427	90	5e-42	Bacteria; Unclassified; otu_205
+191|rev|CAM_READ_0322150259	155077	99.11	2e-56	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+192|rev|CAM_READ_0323493467	132286	97	2e-43	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Janthinobacterium; Unclassified; otu_2654
+193|rev|CAM_READ_0322940545	85388	97.62	8e-59	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+194|rev|CAM_READ_0323418215	23427	93.23	1e-48	Bacteria; Unclassified; otu_205
+195|rev|CAM_READ_0323489355	161159	97.37	3e-52	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+196|rev|CAM_READ_0322564645	85388	99.28	7e-72	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+197|rev|CAM_READ_0323065697	142449	97.62	2e-59	Bacteria; Proteobacteria; Betaproteobacteria; Unclassified; otu_2537
+198|rev|CAM_READ_0322953717	114417	85.23	8e-32	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+199|rev|CAM_READ_0323472371	23427	98.17	1e-51	Bacteria; Unclassified; otu_205
+200|rev|CAM_READ_0323323499	124930	99.03	4e-51	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+201|rev|CAM_READ_0323039921	137492	90	4e-33	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+202|rev|CAM_READ_0322660505	97256	100	1e-54	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+203|rev|CAM_READ_0323169291	228870	95.61	4e-48	Bacteria; Bacteroidetes; Unclassified; otu_684
+205|rev|CAM_READ_0322248545	155077	97.98	8e-46	Bacteria; Actinobacteria; Candidatus Microthrix; Unclassified; otu_615
+206|rev|CAM_READ_0323391657	138944	98.28	7e-56	Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Unclassified; otu_2756
+207|rev|CAM_READ_0323178917	89748	98.13	4e-51	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter; Unclassified; otu_2541
+208|rev|CAM_READ_0322794161	20648	94.23	1e-39	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia; Unclassified; otu_2588
+209|rev|CAM_READ_0322443331	154294	98.7	1e-35	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Erythrobacteraceae; Erythrobacter; Unclassified; otu_2506
+210|rev|CAM_READ_0321704127	122561	96.59	7e-37	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+211|rev|CAM_READ_0322799799	6876	97.96	9e-46	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Bordetella; Unclassified; otu_2548
+213|rev|CAM_READ_0323007107	61204	97.73	9e-40	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+214|rev|CAM_READ_0321675671	234617	97.83	4e-42	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+215|rev|CAM_READ_0323175361	85388	100	9e-52	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+216|rev|CAM_READ_0322433227	161159	100	7e-46	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+217|rev|CAM_READ_0323375769	61204	97.75	9e-40	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+218|rev|CAM_READ_0322409889	143525	100	2e-49	Bacteria; Proteobacteria; Unclassified; otu_2091
+219|rev|CAM_READ_0321563921	95864	93.27	4e-36	Bacteria; Unclassified; otu_205
+220|rev|CAM_READ_0323447685	137492	97.53	1e-35	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+221|rev|CAM_READ_0323380413	227206	92.38	5e-35	Bacteria; Acidobacteria; Acidobacteriales; Acidobacteriaceae; Unclassified; otu_207
+223|rev|CAM_READ_0323229593	137492	97.44	6e-34	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+224|rev|CAM_READ_0323143849	137492	96.2	1e-31	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+225|rev|CAM_READ_0322647007	138944	98.15	4e-51	Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Unclassified; otu_2756
+226|rev|CAM_READ_0323397501	161159	98.78	4e-38	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptacidiphilus; otu_561
+227|rev|CAM_READ_0322959271	202129	96.34	1e-32	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+229|rev|CAM_READ_0322364843	95864	92.98	6e-41	Bacteria; Unclassified; otu_205
+230|rev|CAM_READ_0322677695	137492	97.37	8e-33	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+232|rev|CAM_READ_0321712723	137492	97.37	8e-33	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+233|rev|CAM_READ_0323415373	95864	100	3e-35	Bacteria; Unclassified; otu_205
+234|rev|CAM_READ_0323390067	97256	96.2	5e-31	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Frigoribacterium; Unclassified; otu_403
+235|rev|CAM_READ_0322481051	95864	98.68	1e-34	Bacteria; Unclassified; otu_205
+237|rev|CAM_READ_0323466261	23427	92.71	6e-31	Bacteria; Unclassified; otu_205
+243|rev|CAM_READ_0321725803	85388	96.77	8e-40	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+245|rev|CAM_READ_0323149523	85388	100	9e-39	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+247|rev|CAM_READ_0323132585	85388	100	3e-35	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163

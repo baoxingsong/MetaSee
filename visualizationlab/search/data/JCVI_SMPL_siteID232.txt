@@ -1,0 +1,794 @@
+Sequence_id	Database_id	Percentage_identity	E-value	Classification
+1|NCBI_READ_1113298177797	108713	94.61	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+2|NCBI_READ_1113298066783	11627	91.12	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+3|NCBI_READ_1112309172257	108713	94.42	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+4|NCBI_READ_1113316533463	119998	95.78	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; otu_2240
+5|NCBI_READ_1113264280561	108713	94.82	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+6|NCBI_READ_1113288631219	61204	98.04	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+7|NCBI_READ_1112309118715	108713	92.89	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+8|NCBI_READ_1113315953907	11627	91.95	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+9|NCBI_READ_1113215471072	61204	98.23	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+10|NCBI_READ_1113315728885	50807	96.25	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+11|NCBI_READ_1113216245458	102384	92.46	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Flexibacter; Unclassified; otu_975
+12|NCBI_READ_1113297963380	136933	86.31	0.0	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+13|NCBI_READ_1113288803049	43992	89.16	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+14|NCBI_READ_1113297996298	61204	99.34	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+15|NCBI_READ_1113216269443	193893	98.83	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+16|NCBI_READ_1112308893521	11627	92.63	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+17|NCBI_READ_1113289131957	108713	93.17	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+18|NCBI_READ_1113316200767	61204	99.3	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+19|NCBI_READ_1113316050087	108713	91.27	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+20|NCBI_READ_1112308302877	105395	95.52	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+21|NCBI_READ_1113263999195	152689	91.06	0.0	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+22|NCBI_READ_1113315997085	108713	90.66	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+23|NCBI_READ_1113298052590	61204	96.44	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+24|NCBI_READ_1112308402832	193893	99.07	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+25|NCBI_READ_1112308861374	11627	92.53	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+26|NCBI_READ_1113289438182	105395	95.51	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+27|NCBI_READ_1113316340684	61204	98.38	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+28|NCBI_READ_1112309089134	108110	94.28	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Roseobacter; Unclassified; otu_2361
+29|NCBI_READ_1113289253675	108713	94.63	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+30|NCBI_READ_1113288706200	96014	96.94	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Unclassified; otu_2975
+31|NCBI_READ_1113289142961	49893	93.49	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Unclassified; otu_268
+32|AntarcticaAquatic_READ_00827267	136481	96.13	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+33|NCBI_READ_1113316039376	16854	88.44	1e-99	Bacteria; Proteobacteria; Epsilonproteobacteria; Nautiliales; Nautiliaceae; Caminibacter; otu_2967
+34|NCBI_READ_1112307260975	193893	98.44	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+35|AntarcticaAquatic_READ_03297324	25807	96	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Cryocola; otu_399
+36|AntarcticaAquatic_READ_02658109	108713	93.9	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+37|AntarcticaAquatic_READ_03288742	71850	89.86	1e-166	Bacteria; Fusobacteria; Fusobacterales; Fusobacteriaceae; Leptotrichia; Unclassified; otu_2006
+38|AntarcticaAquatic_READ_00317475	108713	97.01	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+39|NCBI_READ_1113315983689	61204	99.14	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+40|AntarcticaAquatic_READ_03019012	105395	96.61	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+41|NCBI_READ_1113289426515	102384	94.49	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Flexibacter; Unclassified; otu_975
+42|AntarcticaAquatic_READ_03452909	108713	93.18	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+43|AntarcticaAquatic_READ_00798776	13720	97.45	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+44|AntarcticaAquatic_READ_03044722	108713	93.37	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+45|AntarcticaAquatic_READ_02909281	11627	92.34	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+46|NCBI_READ_1112328271369	137447	90.82	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Microbacterium; Unclassified; otu_417
+47|AntarcticaAquatic_READ_02970868	11627	93.69	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+48|AntarcticaAquatic_READ_03236073	102419	91.03	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Marichromatium; Unclassified; otu_3073
+49|AntarcticaAquatic_READ_03240591	200704	92.17	5e-147	Bacteria; Unclassified; otu_205
+50|AntarcticaAquatic_READ_03120297	61204	99.43	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+51|AntarcticaAquatic_READ_02976040	11627	91.78	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+52|AntarcticaAquatic_READ_03367400	200704	91.64	7e-143	Bacteria; Unclassified; otu_205
+53|AntarcticaAquatic_READ_03002253	146972	91.42	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+54|AntarcticaAquatic_READ_02762014	119998	96.5	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; otu_2240
+55|AntarcticaAquatic_READ_02809150	61204	99.44	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+56|AntarcticaAquatic_READ_00016561	15695	93.83	0.0	Bacteria; Firmicutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma; Unclassified; otu_1956
+57|AntarcticaAquatic_READ_00710428	1665	87.08	6e-131	Bacteria; Lentisphaerae; Unclassified; otu_2042
+58|AntarcticaAquatic_READ_00398213	13720	98.22	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+59|AntarcticaAquatic_READ_03452841	136933	90.95	4e-178	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+60|AntarcticaAquatic_READ_00819736	40185	88.38	2e-140	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+61|AntarcticaAquatic_READ_03507667	221738	90.22	3e-173	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+62|AntarcticaAquatic_READ_02791026	61204	99.61	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+63|AntarcticaAquatic_READ_02699759	61204	99.43	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+64|AntarcticaAquatic_READ_03567871	1540	94.14	0.0	Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales; Verrucomicrobia subdivision 3; Unclassified; otu_3616
+65|AntarcticaAquatic_READ_02812183	193893	98.95	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+66|AntarcticaAquatic_READ_00775901	1665	89.04	3e-157	Bacteria; Lentisphaerae; Unclassified; otu_2042
+67|AntarcticaAquatic_READ_02897457	61204	99.45	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+68|AntarcticaAquatic_READ_02626363	193893	98.36	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+69|AntarcticaAquatic_READ_02754829	61204	99.59	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+70|AntarcticaAquatic_READ_01361168	217227	86.53	9e-130	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+71|AntarcticaAquatic_READ_00159372	151164	90.84	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Nitrobacter; Unclassified; otu_2151
+72|AntarcticaAquatic_READ_02828408	61204	99.63	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+73|AntarcticaAquatic_READ_00090462	148869	90.84	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+74|AntarcticaAquatic_READ_03508943	11924	99.32	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+75|AntarcticaAquatic_READ_02776612	58609	96.61	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+76|AntarcticaAquatic_READ_02640619	146972	91.19	4e-175	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+77|AntarcticaAquatic_READ_03247467	161289	87.76	2e-130	Bacteria; Proteobacteria; Gammaproteobacteria; Acidithiobacillales; Acidithiobacillaceae; Acidithiobacillus; Unclassified; otu_2976
+78|AntarcticaAquatic_READ_03515245	169430	96.54	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+79|AntarcticaAquatic_READ_03684895	10892	89.36	2e-127	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+80|AntarcticaAquatic_READ_03103849	50807	96.49	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+81|AntarcticaAquatic_READ_03349899	167995	98.34	0.0	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+82|AntarcticaAquatic_READ_00781168	6321	86.41	4e-132	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+83|AntarcticaAquatic_READ_02842921	61204	99.23	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+84|AntarcticaAquatic_READ_03481047	63107	92.88	0.0	Bacteria; Firmicutes; Clostridia; Natranaerobiales; Natranaerobiaceae; Natranaerobius; otu_1828
+85|AntarcticaAquatic_READ_03595850	70602	86.99	1e-128	Bacteria; Deferribacteres; Deferribacterales; Deferribacteraceae; Deferribacter; Unclassified; otu_1310
+86|AntarcticaAquatic_READ_00739849	91224	95.68	0.0	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+87|AntarcticaAquatic_READ_02689012	50807	93.37	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+88|AntarcticaAquatic_READ_02894910	102384	95.46	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Flexibacter; Unclassified; otu_975
+89|AntarcticaAquatic_READ_00771877	102419	88.68	4e-147	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Marichromatium; Unclassified; otu_3073
+90|AntarcticaAquatic_READ_00681711	91224	91.84	0.0	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+91|AntarcticaAquatic_READ_00801525	205078	94.8	0.0	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax; Unclassified; otu_2630
+92|AntarcticaAquatic_READ_00306753	92037	97.91	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+93|AntarcticaAquatic_READ_03028340	169430	95.49	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+94|AntarcticaAquatic_READ_03118933	193893	99.42	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+95|AntarcticaAquatic_READ_03097237	43992	90.72	2e-152	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+96|AntarcticaAquatic_READ_00009417	178759	85.24	2e-102	Bacteria; Firmicutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma; Unclassified; otu_1956
+97|AntarcticaAquatic_READ_02685390	102384	95.68	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Flexibacter; Unclassified; otu_975
+98|AntarcticaAquatic_READ_00678770	151438	84.02	1e-94	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Unclassified; otu_2957
+99|AntarcticaAquatic_READ_00797435	220016	90.97	3e-99	Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Lachnospira; otu_1673
+100|AntarcticaAquatic_READ_02682241	50807	97.26	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+101|AntarcticaAquatic_READ_03435086	150593	88.73	2e-78	Bacteria; Firmicutes; Clostridia; Clostridiales; Anaerocellum group; Unclassified; otu_1542
+102|AntarcticaAquatic_READ_02933979	58609	93.14	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+103|AntarcticaAquatic_READ_03300005	154687	95.72	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+104|AntarcticaAquatic_READ_03214414	135161	94.27	0.0	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+105|AntarcticaAquatic_READ_02952323	119998	96.44	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; otu_2240
+106|AntarcticaAquatic_READ_00353063	92037	97.66	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+107|AntarcticaAquatic_READ_02959914	49893	94.33	3e-169	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Unclassified; otu_268
+108|AntarcticaAquatic_READ_00238838	33753	90.79	7e-130	Bacteria; Firmicutes; Mollicutes; Anaeroplasmatales; Erysipelotrichaceae; Erysipelothrix; Unclassified; otu_1983
+109|AntarcticaAquatic_READ_00589517	105780	89.37	1e-169	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+110|AntarcticaAquatic_READ_03345779	115032	89.7	8e-158	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Algoriphagus; Unclassified; otu_953
+111|AntarcticaAquatic_READ_03289494	159518	92.72	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Cytophaga; Unclassified; otu_964
+112|AntarcticaAquatic_READ_03686018	13720	98.9	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+113|AntarcticaAquatic_READ_00422172	61204	99.57	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+114|AntarcticaAquatic_READ_00744806	108713	96.68	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+115|AntarcticaAquatic_READ_02850934	152689	89.95	2e-143	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+116|AntarcticaAquatic_READ_03751526	11627	91.65	2e-154	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+117|NCBI_READ_1113298083544	61204	98.89	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+118|AntarcticaAquatic_READ_00934092	148869	89.25	2e-145	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+119|AntarcticaAquatic_READ_00433365	110696	92.43	0.0	Bacteria; Firmicutes; Bacillales; Bacillaceae; Exiguobacterium; Unclassified; otu_1375
+120|AntarcticaAquatic_READ_03388656	63104	88.91	2e-133	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+121|AntarcticaAquatic_READ_01217090	179710	89.75	1e-89	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+122|AntarcticaAquatic_READ_00277359	200775	89.01	7e-143	Bacteria; Firmicutes; Bacillales; Macrococcus; otu_1433
+123|NCBI_READ_1112308370651	108713	96.47	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+124|AntarcticaAquatic_READ_00246142	162538	91.74	9e-176	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Unclassified; otu_2350
+125|AntarcticaAquatic_READ_00663294	144674	81.59	9e-62	Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales; Francisellaceae; Francisella; Unclassified; otu_3401
+126|AntarcticaAquatic_READ_00729519	6321	84.87	7e-103	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+127|AntarcticaAquatic_READ_02662523	1681	89.33	9e-167	Bacteria; Unclassified; otu_205
+128|AntarcticaAquatic_READ_00062855	201556	84.09	1e-101	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+129|AntarcticaAquatic_READ_01411283	42311	87.55	4e-138	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Unclassified; otu_3203
+130|AntarcticaAquatic_READ_03400906	13720	96.84	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+131|AntarcticaAquatic_READ_03583495	90568	90.33	1e-153	Bacteria; Cyanobacteria; Acaryochloris; Unclassified; otu_1179
+132|AntarcticaAquatic_READ_00218130	154380	87.74	2e-127	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+133|AntarcticaAquatic_READ_02725080	108713	97.33	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+134|AntarcticaAquatic_READ_02922818	61204	99.29	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+135|AntarcticaAquatic_READ_01105580	40185	89.6	4e-110	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+136|AntarcticaAquatic_READ_00122816	182108	91.73	1e-153	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Unclassified; otu_1368
+137|AntarcticaAquatic_READ_00665875	151438	83.65	1e-82	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Unclassified; otu_2957
+138|AntarcticaAquatic_READ_03063403	144674	93.64	3e-163	Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales; Francisellaceae; Francisella; Unclassified; otu_3401
+139|AntarcticaAquatic_READ_00696510	173357	87.24	2e-54	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+140|AntarcticaAquatic_READ_03018086	50807	99.74	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+141|AntarcticaAquatic_READ_00089449	105625	87.93	9e-87	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Zymophilus; otu_1541
+142|AntarcticaAquatic_READ_01363678	201556	82.76	8e-78	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+143|AntarcticaAquatic_READ_01368258	227183	84.92	1e-100	Bacteria; Firmicutes; Unclassified; otu_1350
+144|AntarcticaAquatic_READ_00542059	151164	90.05	4e-144	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Nitrobacter; Unclassified; otu_2151
+145|AntarcticaAquatic_READ_03036792	50807	98.96	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+146|AntarcticaAquatic_READ_02672658	58609	91.06	2e-155	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+147|AntarcticaAquatic_READ_01140082	227183	87.95	3e-83	Bacteria; Firmicutes; Unclassified; otu_1350
+148|NCBI_READ_1113316266857	61204	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+149|AntarcticaAquatic_READ_00663135	201939	83.16	1e-76	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Micrococcus; Unclassified; otu_444
+150|AntarcticaAquatic_READ_00212171	13720	91.67	8e-164	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+151|AntarcticaAquatic_READ_01208152	113979	97.16	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+152|AntarcticaAquatic_READ_00708614	99217	85.63	3e-71	Bacteria; Firmicutes; Bacillales; Bacillaceae; Geobacillus; Unclassified; otu_1378
+153|AntarcticaAquatic_READ_00639264	173357	88.38	5e-153	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+154|AntarcticaAquatic_READ_00469565	69764	92.69	1e-100	Bacteria; Firmicutes; Lactobacillales; Lactobacillaceae; Lactobacillus; Unclassified; otu_1932
+155|AntarcticaAquatic_READ_00303783	102886	90.11	8e-121	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+156|AntarcticaAquatic_READ_01374015	193893	99.14	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+157|AntarcticaAquatic_READ_00491229	10538	94.27	2e-167	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfonatronumaceae; Desulfonatronum; otu_2852
+158|AntarcticaAquatic_READ_02723036	61204	98.75	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+159|AntarcticaAquatic_READ_03211290	113979	97.34	4e-171	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+160|AntarcticaAquatic_READ_02639716	136522	91.48	4e-131	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Arthrobacter; Unclassified; otu_436
+161|AntarcticaAquatic_READ_03395431	62693	96.52	0.0	Bacteria; Unclassified; otu_205
+162|AntarcticaAquatic_READ_00937606	229483	89.27	7e-99	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+163|AntarcticaAquatic_READ_00220592	235128	86.32	2e-75	Bacteria; Proteobacteria; Epsilonproteobacteria; Sulfurovum; Unclassified; otu_2972
+164|AntarcticaAquatic_READ_01245065	105625	85.64	2e-124	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Zymophilus; otu_1541
+165|AntarcticaAquatic_READ_00696186	136414	85.86	3e-111	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+166|AntarcticaAquatic_READ_02742028	25807	95.93	7e-176	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Cryocola; otu_399
+167|AntarcticaAquatic_READ_00529460	201556	83.56	1e-88	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+168|AntarcticaAquatic_READ_00419737	141399	87.5	1e-60	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+169|AntarcticaAquatic_READ_00892337	109782	83.01	8e-56	Bacteria; Firmicutes; Bacillales; Bacillaceae; Exiguobacterium; Unclassified; otu_1375
+170|AntarcticaAquatic_READ_00550164	154361	87.5	6e-140	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae; Desulfuromonas; Unclassified; otu_2867
+171|AntarcticaAquatic_READ_00317318	155335	88.59	1e-94	Bacteria; Cyanobacteria; Unclassified; otu_1178
+172|AntarcticaAquatic_READ_00797304	144617	83.76	9e-77	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+173|NCBI_READ_1113315998446	43992	86.96	1e-100	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+174|AntarcticaAquatic_READ_00247582	193893	97.01	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+175|AntarcticaAquatic_READ_00117417	227183	85.26	1e-94	Bacteria; Firmicutes; Unclassified; otu_1350
+176|AntarcticaAquatic_READ_00404544	13720	98.23	3e-178	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+177|AntarcticaAquatic_READ_03054755	193893	96.52	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+178|AntarcticaAquatic_READ_00420414	100599	90.62	5e-128	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfofaba; otu_2814
+179|AntarcticaAquatic_READ_00845333	200775	89.12	2e-152	Bacteria; Firmicutes; Bacillales; Macrococcus; otu_1433
+180|AntarcticaAquatic_READ_02803413	61204	99.43	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+181|AntarcticaAquatic_READ_00134615	45149	90.07	5e-42	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio; Unclassified; otu_2856
+182|AntarcticaAquatic_READ_03651634	227183	83.05	2e-75	Bacteria; Firmicutes; Unclassified; otu_1350
+183|AntarcticaAquatic_READ_02889331	108713	90.28	9e-120	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+184|AntarcticaAquatic_READ_00457809	111795	95.28	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+185|AntarcticaAquatic_READ_00728405	168994	84.3	7e-84	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Cystobacteraceae; Stigmatella; otu_2894
+186|AntarcticaAquatic_READ_00601075	168994	86.11	4e-110	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Cystobacteraceae; Stigmatella; otu_2894
+187|NCBI_READ_1113298044159	108713	92.45	3e-144	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+188|AntarcticaAquatic_READ_00192200	109901	88.15	6e-72	Bacteria; Deferribacteres; Synergistes; Unclassified; otu_1320
+189|AntarcticaAquatic_READ_00836932	201556	87	1e-45	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+190|AntarcticaAquatic_READ_03105024	16854	92.08	9e-139	Bacteria; Proteobacteria; Epsilonproteobacteria; Nautiliales; Nautiliaceae; Caminibacter; otu_2967
+191|AntarcticaAquatic_READ_00189582	200961	89.5	3e-151	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Phyllobacterium; Unclassified; otu_2231
+192|AntarcticaAquatic_READ_03191066	13720	97.4	1e-174	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+193|AntarcticaAquatic_READ_00165496	201556	84.82	2e-65	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+194|AntarcticaAquatic_READ_00255000	110696	92.56	0.0	Bacteria; Firmicutes; Bacillales; Bacillaceae; Exiguobacterium; Unclassified; otu_1375
+195|AntarcticaAquatic_READ_00237325	111520	97.7	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Agromyces; Unclassified; otu_386
+196|AntarcticaAquatic_READ_00012884	61204	99.13	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+197|AntarcticaAquatic_READ_02828957	50807	94.12	9e-160	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+198|AntarcticaAquatic_READ_03651915	200704	90.83	7e-158	Bacteria; Unclassified; otu_205
+199|AntarcticaAquatic_READ_00003351	201556	87.79	8e-93	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+200|AntarcticaAquatic_READ_03253998	112306	88.56	3e-55	Bacteria; Thermobaculum; otu_3572
+201|AntarcticaAquatic_READ_00132100	201556	82.43	2e-65	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+202|AntarcticaAquatic_READ_03008995	61204	97.9	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+203|AntarcticaAquatic_READ_03310038	13720	94.75	2e-151	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+204|AntarcticaAquatic_READ_03491595	155335	92.75	2e-78	Bacteria; Cyanobacteria; Unclassified; otu_1178
+205|AntarcticaAquatic_READ_00294525	155335	91.83	1e-73	Bacteria; Cyanobacteria; Unclassified; otu_1178
+206|AntarcticaAquatic_READ_00455478	138924	90.14	5e-137	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Unclassified; otu_2948
+207|AntarcticaAquatic_READ_00794045	105480	88.21	5e-57	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+208|AntarcticaAquatic_READ_00263130	213358	94.95	2e-38	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+209|AntarcticaAquatic_READ_00663172	136414	94.68	6e-35	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+210|AntarcticaAquatic_READ_00419889	227183	84.16	2e-74	Bacteria; Firmicutes; Unclassified; otu_1350
+211|AntarcticaAquatic_READ_00300778	218851	91.88	3e-135	Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Sterolibacterium; Unclassified; otu_2778
+212|AntarcticaAquatic_READ_00232841	113979	93.11	1e-156	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+213|AntarcticaAquatic_READ_01186041	69764	85.89	7e-109	Bacteria; Firmicutes; Lactobacillales; Lactobacillaceae; Lactobacillus; Unclassified; otu_1932
+214|AntarcticaAquatic_READ_03229930	203137	88.4	2e-47	Bacteria; Firmicutes; Bacillales; Paenibacillaceae; Paenibacillus; Unclassified; otu_1444
+216|AntarcticaAquatic_READ_00921177	100328	86.22	1e-42	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; Acetobacter; Unclassified; otu_2387
+217|AntarcticaAquatic_READ_01263841	203057	86.5	3e-55	Bacteria; Chloroflexi; Herpetosiphonales; Herpetosiphonaceae; Herpetosiphon; otu_1172
+218|AntarcticaAquatic_READ_03188219	200704	91.38	2e-148	Bacteria; Unclassified; otu_205
+219|AntarcticaAquatic_READ_03507284	128221	92.82	1e-137	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+220|AntarcticaAquatic_READ_00588548	222960	86.75	5e-103	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Afipia; Unclassified; otu_2140
+221|AntarcticaAquatic_READ_00417836	138924	94.41	2e-145	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Unclassified; otu_2948
+222|NCBI_READ_1113316102331	137054	97.11	5e-155	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Bradyrhizobium; Unclassified; otu_2148
+223|AntarcticaAquatic_READ_01016322	69031	85.39	5e-54	other sequences; artificial sequences; vectors; otu_4243
+224|AntarcticaAquatic_READ_00928772	150151	94.9	2e-65	Bacteria; Unclassified; otu_205
+225|AntarcticaAquatic_READ_00045904	114724	87.89	3e-58	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+226|AntarcticaAquatic_READ_00728602	123055	87.56	4e-48	Bacteria; Unclassified; otu_205
+227|AntarcticaAquatic_READ_03323340	200413	92.64	1e-115	Bacteria; Planctomycetes; Planctomycetacia; Planctomycetales; Planctomycetaceae; Unclassified; otu_2074
+228|AntarcticaAquatic_READ_00198104	114724	84.85	6e-72	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+229|AntarcticaAquatic_READ_00898297	69764	87.45	7e-124	Bacteria; Firmicutes; Lactobacillales; Lactobacillaceae; Lactobacillus; Unclassified; otu_1932
+230|AntarcticaAquatic_READ_01064653	179710	83.7	3e-70	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+231|AntarcticaAquatic_READ_00010566	1665	92.01	3e-116	Bacteria; Lentisphaerae; Unclassified; otu_2042
+232|AntarcticaAquatic_READ_01424672	111795	94.47	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+233|AntarcticaAquatic_READ_00200661	136895	85.13	5e-69	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Unclassified; otu_2840
+234|AntarcticaAquatic_READ_03118225	108713	94.98	2e-123	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+235|AntarcticaAquatic_READ_00279734	16854	88.81	3e-132	Bacteria; Proteobacteria; Epsilonproteobacteria; Nautiliales; Nautiliaceae; Caminibacter; otu_2967
+236|AntarcticaAquatic_READ_00045027	193893	99.01	3e-165	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+238|AntarcticaAquatic_READ_01236278	15734	89.51	3e-82	Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae; Eubacterium; Unclassified; otu_1640
+239|AntarcticaAquatic_READ_03594605	150632	85.02	2e-53	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+240|AntarcticaAquatic_READ_00076737	136414	90.26	7e-127	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+241|AntarcticaAquatic_READ_01064613	100328	87.06	1e-48	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; Acetobacter; Unclassified; otu_2387
+242|AntarcticaAquatic_READ_00840315	213358	87.57	6e-44	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+243|AntarcticaAquatic_READ_00821856	111520	88.94	4e-57	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Agromyces; Unclassified; otu_386
+244|AntarcticaAquatic_READ_00869103	179710	86.94	3e-52	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+245|AntarcticaAquatic_READ_03377129	91224	93.51	2e-92	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+246|AntarcticaAquatic_READ_00945247	136414	88.13	5e-106	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+247|AntarcticaAquatic_READ_00168402	201556	84.55	8e-71	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+248|AntarcticaAquatic_READ_00926721	32172	89.76	4e-106	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Beijerinckiaceae; Chelatococcus; Unclassified; otu_2133
+249|AntarcticaAquatic_READ_00018772	35440	97.53	1e-142	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+250|AntarcticaAquatic_READ_03315427	200704	96.77	2e-102	Bacteria; Unclassified; otu_205
+251|AntarcticaAquatic_READ_00182823	201556	81.1	4e-36	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+252|AntarcticaAquatic_READ_00652091	199824	88.55	1e-137	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Salinibacterium; Unclassified; otu_431
+253|AntarcticaAquatic_READ_01371476	155335	92.79	4e-79	Bacteria; Cyanobacteria; Unclassified; otu_1178
+dup2AntarcticaAquatic_READ_03312202	70379	93.62	1e-32	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+256|AntarcticaAquatic_READ_01282515	150632	82.64	2e-37	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+257|AntarcticaAquatic_READ_01243339	219881	89.34	4e-57	Bacteria; Acidobacteria; Unclassified; otu_206
+258|AntarcticaAquatic_READ_00945875	150632	85.76	1e-72	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+259|AntarcticaAquatic_READ_01235106	100328	89.29	6e-58	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; Acetobacter; Unclassified; otu_2387
+261|AntarcticaAquatic_READ_00505700	110455	88.32	6e-75	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Sporomusa; Unclassified; otu_1533
+262|AntarcticaAquatic_READ_03423552	114724	88.14	1e-63	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+263|AntarcticaAquatic_READ_00783033	135161	96.3	6e-142	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+264|AntarcticaAquatic_READ_02758927	10978	90.8	1e-121	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+265|AntarcticaAquatic_READ_02792647	102384	94.83	1e-118	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Flexibacter; Unclassified; otu_975
+266|AntarcticaAquatic_READ_03448552	135161	93.25	2e-126	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+267|AntarcticaAquatic_READ_01083075	200020	87.27	2e-68	Bacteria; Verrucomicrobia; Spartobacteria; Candidatus Xiphinematobacter; otu_3602
+268|AntarcticaAquatic_READ_00185181	100328	87.06	1e-48	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; Acetobacter; Unclassified; otu_2387
+269|AntarcticaAquatic_READ_00854509	159237	86.69	1e-81	Bacteria; Cyanobacteria; Chroococcales; Cyanothece; Unclassified; otu_1192
+270|AntarcticaAquatic_READ_00522611	201138	89.54	3e-42	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+271|AntarcticaAquatic_READ_03086171	54620	91.16	7e-86	Bacteria; Unclassified; otu_205
+272|AntarcticaAquatic_READ_03440373	173672	96.44	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium; Unclassified; otu_79
+273|AntarcticaAquatic_READ_00654447	108713	96.62	2e-113	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+274|AntarcticaAquatic_READ_03140469	159312	87.93	4e-97	Bacteria; Cyanobacteria; Oscillatoriales; Trichodesmium; otu_1277
+275|AntarcticaAquatic_READ_00490462	13720	99.54	9e-119	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+276|AntarcticaAquatic_READ_00490565	10538	90.22	7e-89	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfonatronumaceae; Desulfonatronum; otu_2852
+277|AntarcticaAquatic_READ_00745432	108713	96.64	5e-114	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+278|AntarcticaAquatic_READ_03101383	58609	96.33	3e-116	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+279|AntarcticaAquatic_READ_00440054	150632	85.89	5e-53	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+280|AntarcticaAquatic_READ_00075270	150632	85.89	5e-53	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+281|NCBI_READ_1113297867441	234617	92.1	4e-134	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+282|AntarcticaAquatic_READ_00823179	79360	87.43	2e-80	Bacteria; Unclassified; otu_205
+283|AntarcticaAquatic_READ_00768755	67842	94.23	2e-86	Bacteria; Chlamydiae; Chlamydiales; Waddliaceae; Waddlia; Unclassified; otu_1129
+284|AntarcticaAquatic_READ_00792134	151164	87.69	2e-86	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Nitrobacter; Unclassified; otu_2151
+285|AntarcticaAquatic_READ_00750527	108713	96.22	1e-111	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+286|AntarcticaAquatic_READ_00015074	105025	91.96	5e-81	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+287|AntarcticaAquatic_READ_03270570	154361	86.2	8e-68	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae; Desulfuromonas; Unclassified; otu_2867
+288|AntarcticaAquatic_READ_01421642	138924	91.56	5e-115	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Unclassified; otu_2948
+289|AntarcticaAquatic_READ_00520234	15703	88.94	5e-65	Bacteria; Firmicutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma; Unclassified; otu_1956
+290|AntarcticaAquatic_READ_00441040	193893	99.42	3e-91	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+291|AntarcticaAquatic_READ_03088456	110455	87.91	2e-53	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Sporomusa; Unclassified; otu_1533
+292|AntarcticaAquatic_READ_03726260	173672	95.63	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium; Unclassified; otu_79
+293|AntarcticaAquatic_READ_00441442	209414	90.73	2e-46	Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermosipho; Unclassified; otu_3591
+294|AntarcticaAquatic_READ_00716000	201556	86.89	1e-66	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+295|AntarcticaAquatic_READ_01248605	33994	85.12	4e-47	Bacteria; Firmicutes; Clostridia; Clostridiales; Peptococcaceae; Unclassified; otu_1692
+296|AntarcticaAquatic_READ_00840413	58394	92.37	2e-40	Bacteria; Firmicutes; Mollicutes; Mycoplasmataceae; Mycoplasma; Unclassified; otu_1997
+297|AntarcticaAquatic_READ_02601908	61204	98.83	3e-137	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+298|AntarcticaAquatic_READ_00895470	58394	92.37	2e-40	Bacteria; Firmicutes; Mollicutes; Mycoplasmataceae; Mycoplasma; Unclassified; otu_1997
+299|AntarcticaAquatic_READ_00682103	58394	92.37	2e-40	Bacteria; Firmicutes; Mollicutes; Mycoplasmataceae; Mycoplasma; Unclassified; otu_1997
+301|AntarcticaAquatic_READ_03447552	211317	84.41	3e-74	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+302|AntarcticaAquatic_READ_03155258	61204	99.3	7e-157	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+303|AntarcticaAquatic_READ_00308662	216017	89.05	2e-61	Bacteria; Chloroflexi; Unclassified; otu_1145
+304|AntarcticaAquatic_READ_03167275	10560	91.3	4e-112	Bacteria; Chloroflexi; Unclassified; otu_1145
+305|AntarcticaAquatic_READ_00766827	150632	84.94	2e-46	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+306|AntarcticaAquatic_READ_00878441	201138	90.91	2e-56	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+307|AntarcticaAquatic_READ_00103124	103462	84.82	7e-40	Bacteria; Proteobacteria; Unclassified; otu_2091
+308|AntarcticaAquatic_READ_02946041	61204	100	6e-145	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+309|AntarcticaAquatic_READ_02850902	61204	100	6e-145	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+310|AntarcticaAquatic_READ_02690204	61204	88.84	3e-69	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+311|AntarcticaAquatic_READ_03433084	159670	97.22	1e-105	Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Unclassified; otu_3510
+312|AntarcticaAquatic_READ_03176514	110455	92.13	4e-100	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Sporomusa; Unclassified; otu_1533
+313|AntarcticaAquatic_READ_02874636	61204	99.24	1e-142	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+314|AntarcticaAquatic_READ_00425360	161666	85.49	2e-53	Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina; Unclassified; otu_175
+315|NCBI_READ_1113297964032	136933	84.53	1e-66	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+316|AntarcticaAquatic_READ_00977762	226121	91.98	2e-85	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Pelodictyon; otu_1138
+317|AntarcticaAquatic_READ_00132604	200180	95	3e-104	Bacteria; Firmicutes; Clostridia; Clostridiales; Unclassified; otu_1498
+318|AntarcticaAquatic_READ_00802575	200180	89.58	1e-94	Bacteria; Firmicutes; Clostridia; Clostridiales; Unclassified; otu_1498
+319|AntarcticaAquatic_READ_00853038	210046	91.38	6e-37	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Xanthomonas; Unclassified; otu_3485
+321|AntarcticaAquatic_READ_00907024	201138	85.88	2e-36	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+322|AntarcticaAquatic_READ_02792590	61204	99.55	2e-122	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+323|AntarcticaAquatic_READ_00427397	65700	92.7	8e-49	Bacteria; Ferribacter; otu_1345
+324|AntarcticaAquatic_READ_03244477	201556	83.89	1e-35	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+325|AntarcticaAquatic_READ_02882072	58609	98.4	4e-96	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+326|AntarcticaAquatic_READ_00392033	179710	88.21	4e-57	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+329|AntarcticaAquatic_READ_00393437	82149	88.83	2e-105	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+330|AntarcticaAquatic_READ_03028278	108713	97.8	8e-91	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+331|AntarcticaAquatic_READ_00072000	222960	88.04	7e-55	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Afipia; Unclassified; otu_2140
+332|AntarcticaAquatic_READ_00020651	221262	91.07	2e-34	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+333|AntarcticaAquatic_READ_00381513	155265	87.25	7e-77	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Pseudonocardineae; Pseudonocardiaceae; Thermobispora; otu_552
+334|AntarcticaAquatic_READ_00342245	200959	94.55	5e-118	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+335|AntarcticaAquatic_READ_00514854	13720	96	4e-102	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+336|AntarcticaAquatic_READ_00462969	193893	97.98	2e-126	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+337|NCBI_READ_1112328270589	108713	90.61	3e-57	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+338|AntarcticaAquatic_READ_01063063	200959	85.77	4e-113	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+340|AntarcticaAquatic_READ_00594419	1665	96.91	1e-76	Bacteria; Lentisphaerae; Unclassified; otu_2042
+341|AntarcticaAquatic_READ_00881761	200959	90.57	9e-127	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+343|AntarcticaAquatic_READ_00898211	200020	89.94	1e-49	Bacteria; Verrucomicrobia; Spartobacteria; Candidatus Xiphinematobacter; otu_3602
+344|AntarcticaAquatic_READ_03107398	10311	99.44	3e-96	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Rahnella; Unclassified; otu_3182
+345|AntarcticaAquatic_READ_00192443	200959	89.62	9e-127	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+346|AntarcticaAquatic_READ_00428334	203106	92.96	6e-52	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+348|AntarcticaAquatic_READ_00487882	154380	92.86	3e-32	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+350|AntarcticaAquatic_READ_00687112	3447	86.81	2e-39	Eukaryota; stramenopiles; Bacillariophyta; Coscinodiscophyceae; Rhizosoleniophycidae; Rhizosoleniales; Rhizosoleniaceae; Rhizosolenia; otu_3940
+351|AntarcticaAquatic_READ_00662305	200959	82.6	3e-74	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+352|AntarcticaAquatic_READ_02914090	10978	89.85	3e-60	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+353|AntarcticaAquatic_READ_00673380	200959	84.96	9e-52	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+354|AntarcticaAquatic_READ_00809423	200959	85.33	2e-52	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+355|AntarcticaAquatic_READ_02716461	234617	96.89	5e-108	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+356|AntarcticaAquatic_READ_02681559	25807	92.43	5e-67	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Cryocola; otu_399
+357|NCBI_READ_1113298092697	108713	90.61	1e-56	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+358|AntarcticaAquatic_READ_00010383	105625	84.23	5e-40	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Zymophilus; otu_1541
+360|AntarcticaAquatic_READ_01041338	200959	89.17	3e-123	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+361|AntarcticaAquatic_READ_00458828	78204	89.47	5e-37	Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Ruminococcus; Unclassified; otu_1681
+362|AntarcticaAquatic_READ_03215529	136414	91.82	9e-54	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+363|AntarcticaAquatic_READ_02873565	10978	89.85	3e-60	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+364|AntarcticaAquatic_READ_00041761	193893	94.34	7e-89	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+366|AntarcticaAquatic_READ_02767411	108713	91.8	2e-63	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+370|AntarcticaAquatic_READ_00815904	200959	86.17	2e-109	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+371|AntarcticaAquatic_READ_02743518	105395	98.66	2e-75	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+374|AntarcticaAquatic_READ_01158621	200959	87.18	2e-111	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+375|AntarcticaAquatic_READ_03738553	10688	94.51	2e-76	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+376|AntarcticaAquatic_READ_03480867	13720	88.32	2e-51	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+379|AntarcticaAquatic_READ_00770573	213389	86.31	5e-35	Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus; otu_61
+380|AntarcticaAquatic_READ_03352857	92430	86.31	2e-35	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+381|NCBI_READ_1113315975397	112872	91.76	6e-58	Bacteria; Unclassified; otu_205
+382|AntarcticaAquatic_READ_00234983	159237	86.96	6e-36	Bacteria; Cyanobacteria; Chroococcales; Cyanothece; Unclassified; otu_1192
+383|AntarcticaAquatic_READ_02941082	234617	98.45	1e-99	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+385|AntarcticaAquatic_READ_03660947	102419	97.66	1e-60	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Marichromatium; Unclassified; otu_3073
+388|AntarcticaAquatic_READ_01363748	35504	89.94	2e-45	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Unclassified; otu_1368
+389|AntarcticaAquatic_READ_00194668	200959	87.47	9e-114	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+391|AntarcticaAquatic_READ_00706002	10538	88.75	6e-42	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfonatronumaceae; Desulfonatronum; otu_2852
+392|AntarcticaAquatic_READ_03687722	100599	98.69	2e-78	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfofaba; otu_2814
+393|AntarcticaAquatic_READ_00446825	225738	98.89	1e-42	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+394|AntarcticaAquatic_READ_01260570	138924	92.25	2e-48	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Unclassified; otu_2948
+395|AntarcticaAquatic_READ_00255433	200959	82.4	4e-48	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+397|AntarcticaAquatic_READ_03573387	137541	90.14	9e-42	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium; Unclassified; otu_79
+398|AntarcticaAquatic_READ_01424104	200959	94.66	7e-53	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+399|AntarcticaAquatic_READ_03637078	128221	92.86	2e-50	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+400|AntarcticaAquatic_READ_03652435	52379	87.29	3e-44	Bacteria; Firmicutes; Clostridia; Clostridiales; Eubacteriaceae; Eubacterium; Unclassified; otu_1640
+403|AntarcticaAquatic_READ_00903153	21	85.65	1e-44	Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina; Unclassified; otu_175
+404|AntarcticaAquatic_READ_02936672	58609	98.12	1e-79	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+405|AntarcticaAquatic_READ_00033701	201138	92.37	6e-39	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+406|AntarcticaAquatic_READ_01178769	35504	89.94	2e-45	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Unclassified; otu_1368
+407|AntarcticaAquatic_READ_00377049	54620	92.67	6e-54	Bacteria; Unclassified; otu_205
+408|AntarcticaAquatic_READ_01089496	200959	91.51	1e-134	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+409|AntarcticaAquatic_READ_03330223	100171	90.28	8e-44	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+410|NCBI_READ_1113316085841	146972	97.89	8e-44	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+413|AntarcticaAquatic_READ_01007991	193893	98.28	3e-56	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+419|AntarcticaAquatic_READ_02777922	129193	96.97	7e-44	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+421|AntarcticaAquatic_READ_00372790	151807	97.56	1e-35	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+422|AntarcticaAquatic_READ_02752994	112872	95.58	2e-47	Bacteria; Unclassified; otu_205
+423|AntarcticaAquatic_READ_03363861	136933	87.21	2e-39	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+426|AntarcticaAquatic_READ_00171556	203065	90	5e-109	Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus; otu_61
+428|AntarcticaAquatic_READ_01405901	179710	92.23	1e-33	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+429|AntarcticaAquatic_READ_03064820	193893	100	2e-56	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+430|AntarcticaAquatic_READ_02857737	146972	97.89	6e-44	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+437|AntarcticaAquatic_READ_02708487	124930	91.67	1e-45	Bacteria; Proteobacteria; Betaproteobacteria; Methylophilales; Methylophilaceae; Methylophilus; Unclassified; otu_2701
+443|AntarcticaAquatic_READ_02711232	146972	98.89	2e-43	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+445|AntarcticaAquatic_READ_00699956	200959	89.08	7e-31	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+448|AntarcticaAquatic_READ_02768154	61204	99.2	4e-64	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+449|AntarcticaAquatic_READ_00859310	200180	91.04	2e-42	Bacteria; Firmicutes; Clostridia; Clostridiales; Unclassified; otu_1498
+453|AntarcticaAquatic_READ_03249867	13720	100	1e-31	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+454|AntarcticaAquatic_READ_02807556	146972	98.81	7e-40	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+456|AntarcticaAquatic_READ_00724133	129193	100	2e-33	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+458|AntarcticaAquatic_READ_03025243	61204	100	2e-43	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+459|AntarcticaAquatic_READ_02687991	61204	100	2e-43	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+460|AntarcticaAquatic_READ_02750782	123462	97.5	4e-35	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+464|AntarcticaAquatic_READ_00300182	123462	97.5	4e-35	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+465|AntarcticaAquatic_READ_03155658	123462	97.47	2e-34	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+466|AntarcticaAquatic_READ_00896285	137124	100	5e-31	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+473|AntarcticaAquatic_READ_00800414	16854	96.91	1e-42	Bacteria; Proteobacteria; Epsilonproteobacteria; Nautiliales; Nautiliaceae; Caminibacter; otu_2967
+474|AntarcticaAquatic_READ_00280163	201138	100	1e-32	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+479|AntarcticaAquatic_READ_00951759	200959	87.04	4e-50	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+484|AntarcticaAquatic_READ_00803405	200959	94.33	7e-120	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+488|AntarcticaAquatic_READ_00822834	10908	98.72	9e-36	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+494|AntarcticaAquatic_READ_02651530	61204	98.78	5e-38	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+1|rev|NCBI_READ_1113216268902	108713	92.9	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+2|rev|NCBI_READ_1112307265090	108713	93.06	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+3|rev|NCBI_READ_1113316179445	108713	94.18	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+4|rev|NCBI_READ_1113316017112	108713	92.21	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+5|rev|NCBI_READ_1112309150985	108713	94.09	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+6|rev|NCBI_READ_1112328396085	43992	91.17	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+7|rev|NCBI_READ_1112309169806	108713	92.16	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+8|rev|NCBI_READ_1112308274057	108713	93.1	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+9|rev|NCBI_READ_1113288540798	43992	90.51	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+10|rev|NCBI_READ_1113289156177	108713	94.69	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+11|rev|NCBI_READ_1113315644219	108713	94.2	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+12|rev|NCBI_READ_1113297921198	108713	92.24	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+13|rev|NCBI_READ_1113297950527	108713	92.75	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+14|rev|NCBI_READ_1113264323698	25807	92.56	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Cryocola; otu_399
+15|rev|NCBI_READ_1113298316077	108713	93	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+16|rev|NCBI_READ_1113316621751	61204	98.55	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+17|rev|NCBI_READ_1113235573019	137054	96.85	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Bradyrhizobium; Unclassified; otu_2148
+18|rev|NCBI_READ_1113289209735	50807	96.11	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+19|rev|NCBI_READ_1113289413482	58609	92.76	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+20|rev|NCBI_READ_1113316028421	61204	99.37	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+21|rev|NCBI_READ_1113297729039	43992	90.11	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+22|rev|NCBI_READ_1112328345968	108713	91.37	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+23|rev|NCBI_READ_1113315993695	61204	98.53	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+24|rev|NCBI_READ_1113315902446	108713	92.95	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+25|rev|NCBI_READ_1113315892239	193893	96.6	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+26|rev|NCBI_READ_1113315797053	61204	98.09	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+27|rev|NCBI_READ_1112308295579	61204	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+28|rev|NCBI_READ_1113315959277	108713	92.88	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+29|rev|NCBI_READ_1112309076264	61204	97.9	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+30|rev|NCBI_READ_1113264428974	61204	99.65	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+31|rev|NCBI_READ_1113316314924	61204	99.88	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+32|rev|NCBI_READ_1113316302462	58609	92.19	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+33|rev|NCBI_READ_1112328229142	61204	97.48	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+34|rev|NCBI_READ_1113316461253	61204	98.13	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+35|rev|NCBI_READ_1112309147139	25807	92.01	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Cryocola; otu_399
+36|rev|NCBI_READ_1113264337377	61204	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+37|rev|NCBI_READ_1113297558826	108713	92.09	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+38|rev|NCBI_READ_1112309007130	105395	94.38	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+39|rev|NCBI_READ_1113297868152	43992	92.14	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+40|rev|NCBI_READ_1112328342095	108713	95.01	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+41|rev|NCBI_READ_1113298203699	61204	95.61	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+42|rev|NCBI_READ_1113264431049	137447	93.52	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Microbacterium; Unclassified; otu_417
+43|rev|NCBI_READ_1112328237413	136933	86.9	0.0	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+44|rev|AntarcticaAquatic_READ_02867326	151211	92.05	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Ectothiorhodospiraceae; Thioalkalivibrio; Unclassified; otu_3107
+45|rev|AntarcticaAquatic_READ_02774526	105395	96.3	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+46|rev|AntarcticaAquatic_READ_02677661	108713	94.03	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+47|rev|NCBI_READ_1113264326391	108713	96.54	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+48|rev|AntarcticaAquatic_READ_00399160	25807	95.33	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Cryocola; otu_399
+49|rev|AntarcticaAquatic_READ_03432582	144055	90.41	4e-175	Bacteria; Actinobacteria; Rubrobacteridae; Unclassified; otu_637
+50|rev|AntarcticaAquatic_READ_03301429	128221	94.23	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+51|rev|AntarcticaAquatic_READ_03006128	105395	93.16	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Sanguibacteraceae; Sanguibacter; otu_462
+52|rev|AntarcticaAquatic_READ_02792935	108713	94.3	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+53|rev|AntarcticaAquatic_READ_03569738	92037	95.38	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+54|rev|AntarcticaAquatic_READ_02940326	108713	91.95	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+55|rev|NCBI_READ_1112309064909	193893	97.89	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+56|rev|NCBI_READ_1113289362021	49893	91.4	2e-180	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Unclassified; otu_268
+57|rev|AntarcticaAquatic_READ_00167518	105678	95.86	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales; Legionellaceae; Legionella; Unclassified; otu_3240
+58|rev|AntarcticaAquatic_READ_02762735	108713	92.05	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+59|rev|AntarcticaAquatic_READ_03579950	113979	97.5	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+60|rev|AntarcticaAquatic_READ_03230307	110796	94.72	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Idiomarinaceae; Idiomarina; Unclassified; otu_3035
+61|rev|NCBI_READ_1112309134602	61204	99.4	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+62|rev|AntarcticaAquatic_READ_02728223	61204	99.44	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+63|rev|AntarcticaAquatic_READ_01242857	193893	98.63	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+64|rev|NCBI_READ_1113316052175	108713	91.8	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+65|rev|AntarcticaAquatic_READ_00150106	50283	92.66	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+66|rev|AntarcticaAquatic_READ_02863040	85388	92.24	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Ochrobactrum; Unclassified; otu_2163
+67|rev|AntarcticaAquatic_READ_02883257	50807	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+68|rev|AntarcticaAquatic_READ_02897917	193893	99.03	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+69|rev|AntarcticaAquatic_READ_03643829	200704	88.45	2e-133	Bacteria; Unclassified; otu_205
+70|rev|AntarcticaAquatic_READ_02925589	50807	97.96	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Brucellaceae; Pseudochrobactrum; otu_2165
+71|rev|AntarcticaAquatic_READ_00142095	11627	93.16	0.0	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Frankineae; Frankiaceae; Frankia; Unclassified; otu_294
+72|rev|AntarcticaAquatic_READ_00900629	88702	96.34	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+73|rev|AntarcticaAquatic_READ_00403336	102419	89.59	6e-165	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Marichromatium; Unclassified; otu_3073
+74|rev|AntarcticaAquatic_READ_03732606	83897	91.03	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Sphingobacteriaceae; Unclassified; otu_1017
+75|rev|AntarcticaAquatic_READ_02843699	61204	99.63	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+76|rev|AntarcticaAquatic_READ_02800938	61204	99.44	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+77|rev|AntarcticaAquatic_READ_02676028	193893	98	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+78|rev|AntarcticaAquatic_READ_00870302	102419	96.12	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Marichromatium; Unclassified; otu_3073
+79|rev|AntarcticaAquatic_READ_03256595	159438	94.32	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flammeovirgaceae; Persicobacter; otu_944
+80|rev|AntarcticaAquatic_READ_00613053	227187	88.36	5e-153	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae; Desulfuromonas; Unclassified; otu_2867
+81|rev|AntarcticaAquatic_READ_00674082	88702	96.26	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+82|rev|AntarcticaAquatic_READ_03385157	162538	90.72	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Unclassified; otu_2350
+83|rev|AntarcticaAquatic_READ_00252419	193893	97.9	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+84|rev|AntarcticaAquatic_READ_02995953	102384	94.21	0.0	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Flexibacter; Unclassified; otu_975
+85|rev|AntarcticaAquatic_READ_02831079	137054	98.38	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Bradyrhizobium; Unclassified; otu_2148
+86|rev|AntarcticaAquatic_READ_03308238	193893	99.02	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+87|rev|NCBI_READ_1113212321345	35440	92.46	9e-176	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+88|rev|AntarcticaAquatic_READ_03346930	13720	90.97	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+89|rev|AntarcticaAquatic_READ_03130838	193893	99.2	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+90|rev|AntarcticaAquatic_READ_03014807	61204	99.58	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+91|rev|AntarcticaAquatic_READ_00566056	210102	86.35	2e-124	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+92|rev|AntarcticaAquatic_READ_03355890	13720	97.09	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+93|rev|AntarcticaAquatic_READ_03746335	128221	93.75	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+94|rev|AntarcticaAquatic_READ_03524862	128221	88.28	3e-157	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+95|rev|AntarcticaAquatic_READ_00856511	151616	84.45	1e-94	Bacteria; Proteobacteria; Epsilonproteobacteria; Nitratiruptor; otu_2971
+96|rev|AntarcticaAquatic_READ_00217320	201556	83.99	7e-106	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+97|rev|AntarcticaAquatic_READ_01295097	30323	93.05	1e-180	Bacteria; Firmicutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Candidatus Phytoplasma; Candidatus Phytoplasma asteris; otu_1974
+98|rev|AntarcticaAquatic_READ_00743174	136414	86.84	3e-139	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+99|rev|AntarcticaAquatic_READ_00614189	91224	93.84	0.0	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+100|rev|AntarcticaAquatic_READ_00464625	13744	93.42	0.0	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+101|rev|AntarcticaAquatic_READ_00320006	154380	88.27	5e-150	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+102|rev|AntarcticaAquatic_READ_00220145	135161	92.95	0.0	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+103|rev|AntarcticaAquatic_READ_00236463	1663	83.37	2e-78	Bacteria; Firmicutes; Clostridia; Thermoanaerobacteriales; Thermoanaerobacteriaceae; Thermoanaerobacter; Unclassified; otu_1865
+104|rev|NCBI_READ_1113316193638	61204	99.54	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+105|rev|AntarcticaAquatic_READ_00209047	102116	86.91	2e-133	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Unclassified; otu_1368
+106|rev|AntarcticaAquatic_READ_01383097	159133	86.3	8e-121	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+107|rev|AntarcticaAquatic_READ_02819020	61204	99.78	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+108|rev|AntarcticaAquatic_READ_00504095	182398	91.44	2e-143	Bacteria; Firmicutes; Mollicutes; Acholeplasmatales; Acholeplasmataceae; Acholeplasma; Unclassified; otu_1956
+109|rev|AntarcticaAquatic_READ_00904604	114239	93.01	1e-165	Bacteria; Proteobacteria; Gammaproteobacteria; Unclassified; otu_2975
+110|rev|AntarcticaAquatic_READ_02969239	58609	91.65	6e-174	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+111|rev|AntarcticaAquatic_READ_00747849	6321	83.3	1e-95	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+112|rev|AntarcticaAquatic_READ_03421743	135161	93.17	0.0	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+113|rev|AntarcticaAquatic_READ_02981781	61204	99.53	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+114|rev|AntarcticaAquatic_READ_00525679	168994	85.01	1e-88	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Cystobacteraceae; Stigmatella; otu_2894
+115|rev|AntarcticaAquatic_READ_00353462	13720	97.86	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+116|rev|AntarcticaAquatic_READ_03523949	99057	89.06	9e-142	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophaceae; Desulfomonile; Unclassified; otu_2928
+117|rev|AntarcticaAquatic_READ_00272572	203106	94.75	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+118|rev|AntarcticaAquatic_READ_00492649	103353	92.01	1e-116	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Crenotrichaceae; Rhodothermus; otu_926
+119|rev|AntarcticaAquatic_READ_03019347	61204	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+120|rev|AntarcticaAquatic_READ_00101545	63120	92.76	5e-171	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+121|rev|AntarcticaAquatic_READ_00261649	108713	85.82	5e-94	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+122|rev|AntarcticaAquatic_READ_03242991	105625	89.76	5e-79	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Zymophilus; otu_1541
+123|rev|AntarcticaAquatic_READ_00273475	193893	99.32	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+124|rev|AntarcticaAquatic_READ_00334083	200180	92.64	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Unclassified; otu_1498
+125|rev|AntarcticaAquatic_READ_02770356	100137	95.95	3e-175	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Beijerinckiaceae; Beijerinckia; otu_2132
+126|rev|AntarcticaAquatic_READ_00727938	201138	87.12	7e-75	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+127|rev|AntarcticaAquatic_READ_02736507	61204	99.58	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+128|rev|AntarcticaAquatic_READ_00500274	179710	89.12	1e-85	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+129|rev|AntarcticaAquatic_READ_00512848	201138	85.17	1e-70	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+130|rev|AntarcticaAquatic_READ_00303600	69764	90.49	1e-169	Bacteria; Firmicutes; Lactobacillales; Lactobacillaceae; Lactobacillus; Unclassified; otu_1932
+131|rev|AntarcticaAquatic_READ_03348663	1681	90.91	1e-156	Bacteria; Unclassified; otu_205
+132|rev|AntarcticaAquatic_READ_02867550	31830	91.2	9e-145	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Pseudonocardineae; Pseudonocardiaceae; Pseudonocardia; Unclassified; otu_547
+133|rev|AntarcticaAquatic_READ_03363213	113979	98.22	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+134|rev|AntarcticaAquatic_READ_03623255	111483	92.43	5e-131	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+135|rev|AntarcticaAquatic_READ_00043264	201556	83.11	2e-84	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+136|rev|NCBI_READ_1112308330451	61204	99.74	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+137|rev|AntarcticaAquatic_READ_02893784	58609	91.55	4e-153	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+138|rev|AntarcticaAquatic_READ_00072312	155335	89.39	4e-101	Bacteria; Cyanobacteria; Unclassified; otu_1178
+139|rev|AntarcticaAquatic_READ_03665945	222960	91.11	2e-158	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Afipia; Unclassified; otu_2140
+140|rev|AntarcticaAquatic_READ_00956867	201556	90.51	3e-105	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+141|rev|AntarcticaAquatic_READ_03066482	58609	91.11	8e-164	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+142|rev|AntarcticaAquatic_READ_03251972	150632	84.64	6e-66	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+143|rev|AntarcticaAquatic_READ_00861265	91224	92.67	0.0	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+144|rev|AntarcticaAquatic_READ_03459824	100599	88.49	5e-150	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfofaba; otu_2814
+145|rev|AntarcticaAquatic_READ_00934035	201556	90.2	5e-79	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+146|rev|AntarcticaAquatic_READ_03389425	136414	86.67	2e-127	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+147|rev|AntarcticaAquatic_READ_00420812	154380	87.53	2e-133	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+148|rev|AntarcticaAquatic_READ_00200652	159237	87.24	6e-112	Bacteria; Cyanobacteria; Chroococcales; Cyanothece; Unclassified; otu_1192
+149|rev|AntarcticaAquatic_READ_00254857	201138	90.38	7e-47	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+150|rev|AntarcticaAquatic_READ_03521701	193893	98.39	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+151|rev|AntarcticaAquatic_READ_00182057	128221	94.37	5e-155	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+152|rev|AntarcticaAquatic_READ_03629368	135161	84.86	7e-90	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+153|rev|AntarcticaAquatic_READ_00706322	136645	90.62	2e-62	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Anaeromyxobacter; Unclassified; otu_2896
+154|rev|AntarcticaAquatic_READ_03224867	172948	96.08	3e-169	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+155|rev|AntarcticaAquatic_READ_00087589	159156	93.35	1e-168	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+156|rev|NCBI_READ_1113316072221	108713	90.24	4e-122	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+157|rev|AntarcticaAquatic_READ_00615592	111520	87.08	7e-118	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Agromyces; Unclassified; otu_386
+158|rev|AntarcticaAquatic_READ_01422917	135161	93.87	0.0	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+159|rev|AntarcticaAquatic_READ_02707648	193893	99.29	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+160|rev|AntarcticaAquatic_READ_03051590	58609	95.94	7e-161	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+161|rev|AntarcticaAquatic_READ_00373110	11113	85.89	1e-51	Bacteria; Unclassified; otu_205
+162|rev|AntarcticaAquatic_READ_00458239	10560	86.35	8e-121	Bacteria; Chloroflexi; Unclassified; otu_1145
+163|rev|AntarcticaAquatic_READ_02610051	35440	95.32	8e-157	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+164|rev|AntarcticaAquatic_READ_01198700	82149	92.78	0.0	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+165|rev|AntarcticaAquatic_READ_02986018	234617	98.12	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+166|rev|AntarcticaAquatic_READ_00185828	203106	88.33	3e-142	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+167|rev|AntarcticaAquatic_READ_00174359	227183	85.71	7e-93	Bacteria; Firmicutes; Unclassified; otu_1350
+168|rev|AntarcticaAquatic_READ_00715678	95350	90	1e-54	Bacteria; Planctomycetes; Planctomycetacia; Planctomycetales; Planctomycetaceae; Isosphaera; Unclassified; otu_2081
+169|rev|AntarcticaAquatic_READ_00449829	110455	84.24	6e-60	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Sporomusa; Unclassified; otu_1533
+170|rev|AntarcticaAquatic_READ_03283170	201556	85.1	3e-49	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+171|rev|AntarcticaAquatic_READ_00227505	200180	97.07	0.0	Bacteria; Firmicutes; Clostridia; Clostridiales; Unclassified; otu_1498
+172|rev|AntarcticaAquatic_READ_03204803	66927	95.06	3e-144	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophaceae; Desulfomonile; Unclassified; otu_2928
+173|rev|AntarcticaAquatic_READ_00599444	45149	88.11	6e-35	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfovibrionales; Desulfovibrionaceae; Desulfovibrio; Unclassified; otu_2856
+174|rev|AntarcticaAquatic_READ_00371689	164866	88.79	1e-60	Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Unclassified; otu_2102
+dup2rev|AntarcticaAquatic_READ_00371689	70379	93.62	3e-33	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+176|rev|AntarcticaAquatic_READ_00288145	220016	87.66	6e-106	Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Lachnospira; otu_1673
+177|rev|AntarcticaAquatic_READ_00852586	76995	85.66	5e-54	Bacteria; Actinobacteria; Coriobacteridae; Coriobacteriales; Coriobacterineae; Coriobacteriaceae; Denitrobacterium; otu_626
+178|rev|AntarcticaAquatic_READ_00370681	6321	82.9	3e-71	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+179|rev|NCBI_READ_1113316044152	119998	92.84	3e-141	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; otu_2240
+180|rev|AntarcticaAquatic_READ_00458746	193893	96.46	0.0	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+181|rev|AntarcticaAquatic_READ_01109907	102886	94.32	1e-150	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+182|rev|AntarcticaAquatic_READ_00451901	6321	95.11	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+183|rev|AntarcticaAquatic_READ_00587731	121064	93.72	7e-84	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+184|rev|NCBI_READ_1113316520766	49893	91.16	2e-114	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium; Unclassified; otu_268
+185|rev|AntarcticaAquatic_READ_00453561	150632	81.42	1e-33	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+186|rev|AntarcticaAquatic_READ_00718270	201939	84.33	6e-66	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Micrococcus; Unclassified; otu_444
+187|rev|AntarcticaAquatic_READ_00233392	223032	91.67	1e-39	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Thermodesulforhabdus; otu_2941
+dup2rev|AntarcticaAquatic_READ_00233392	70379	93.62	1e-32	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiaceae; Clostridium; Unclassified; otu_1566
+189|rev|AntarcticaAquatic_READ_00117911	224506	88.89	8e-47	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus; otu_2900
+190|rev|AntarcticaAquatic_READ_01336925	91224	94.75	3e-169	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+191|rev|AntarcticaAquatic_READ_03743159	128221	88.13	2e-105	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+192|rev|AntarcticaAquatic_READ_00190028	110455	90.16	6e-57	Bacteria; Firmicutes; Clostridia; Clostridiales; Acidaminococcaceae; Sporomusa; Unclassified; otu_1533
+193|rev|AntarcticaAquatic_READ_00933634	2840	91.45	3e-37	Bacteria; Planctomycetes; Planctomycetacia; Planctomycetales; Planctomycetaceae; Planctomyces; Unclassified; otu_2085
+194|rev|AntarcticaAquatic_READ_00861667	11113	85.89	1e-51	Bacteria; Unclassified; otu_205
+195|rev|AntarcticaAquatic_READ_00108186	135161	95.51	0.0	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+196|rev|AntarcticaAquatic_READ_03458542	200704	91.2	1e-159	Bacteria; Unclassified; otu_205
+197|rev|NCBI_READ_1112309185671	61204	95.2	5e-177	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+198|rev|AntarcticaAquatic_READ_01308674	1540	88.37	9e-117	Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales; Verrucomicrobia subdivision 3; Unclassified; otu_3616
+199|rev|AntarcticaAquatic_READ_00221609	10560	88.18	3e-120	Bacteria; Chloroflexi; Unclassified; otu_1145
+200|rev|AntarcticaAquatic_READ_00755584	179710	89.75	3e-89	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+201|rev|AntarcticaAquatic_READ_02574722	61204	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+202|rev|AntarcticaAquatic_READ_03283727	63120	93.41	4e-143	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+203|rev|NCBI_READ_1113288641425	108713	89.8	1e-109	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+204|rev|NCBI_READ_1113288766374	108713	89.77	5e-109	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+205|rev|AntarcticaAquatic_READ_00054694	154380	90.72	3e-80	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+206|rev|AntarcticaAquatic_READ_00628922	162538	89.84	6e-124	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Unclassified; otu_2350
+207|rev|AntarcticaAquatic_READ_01031101	227183	87.43	4e-94	Bacteria; Firmicutes; Unclassified; otu_1350
+208|rev|AntarcticaAquatic_READ_00388651	201939	84.21	2e-66	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Micrococcus; Unclassified; otu_444
+209|rev|AntarcticaAquatic_READ_00204024	201556	85.93	5e-73	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+210|rev|AntarcticaAquatic_READ_03092794	61204	100	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+211|rev|AntarcticaAquatic_READ_01287859	201138	87.45	4e-64	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Nostocoida type II; otu_369
+212|rev|AntarcticaAquatic_READ_02900454	108713	94.92	1e-130	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+213|rev|AntarcticaAquatic_READ_02669282	61204	99.4	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+214|rev|AntarcticaAquatic_READ_00689648	138924	90.61	7e-136	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Unclassified; otu_2948
+215|rev|AntarcticaAquatic_READ_00210376	201556	84.5	2e-87	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+216|rev|AntarcticaAquatic_READ_03406839	162538	93.38	2e-123	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Unclassified; otu_2350
+217|rev|AntarcticaAquatic_READ_03449251	162538	93.38	2e-123	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Rhodobacter; Unclassified; otu_2350
+218|rev|AntarcticaAquatic_READ_00633226	155335	88.86	2e-96	Bacteria; Cyanobacteria; Unclassified; otu_1178
+219|rev|AntarcticaAquatic_READ_00266626	111795	94.36	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+220|rev|AntarcticaAquatic_READ_00315593	200020	85.45	2e-56	Bacteria; Verrucomicrobia; Spartobacteria; Candidatus Xiphinematobacter; otu_3602
+221|rev|AntarcticaAquatic_READ_00731011	1665	87.56	3e-107	Bacteria; Lentisphaerae; Unclassified; otu_2042
+222|rev|AntarcticaAquatic_READ_00442765	95350	89.44	1e-51	Bacteria; Planctomycetes; Planctomycetacia; Planctomycetales; Planctomycetaceae; Isosphaera; Unclassified; otu_2081
+223|rev|AntarcticaAquatic_READ_02596361	108713	89.3	4e-100	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+224|rev|AntarcticaAquatic_READ_01261299	204488	85.89	2e-72	Bacteria; Deinococcus-Thermus; Deinococci; Deinococcales; Deinococcaceae; Deinococcus; Unclassified; otu_1324
+225|rev|AntarcticaAquatic_READ_00724060	111795	96.9	0.0	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+226|rev|AntarcticaAquatic_READ_01416334	221262	83.49	7e-53	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+227|rev|AntarcticaAquatic_READ_01098078	150632	87.65	7e-62	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+228|rev|AntarcticaAquatic_READ_02740335	58609	97.09	2e-154	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+229|rev|AntarcticaAquatic_READ_03712727	79360	89.27	2e-102	Bacteria; Unclassified; otu_205
+230|rev|AntarcticaAquatic_READ_00510885	200180	92.27	6e-140	Bacteria; Firmicutes; Clostridia; Clostridiales; Unclassified; otu_1498
+231|rev|AntarcticaAquatic_READ_00859850	18702	92.36	3e-55	Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Fervidobacterium; Unclassified; otu_3584
+232|rev|AntarcticaAquatic_READ_00016894	154140	90.53	1e-112	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Myxococcaceae; Myxococcus; otu_2900
+233|rev|AntarcticaAquatic_READ_02934497	35440	91.08	1e-112	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+234|rev|AntarcticaAquatic_READ_00365663	2917	88.61	3e-67	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+235|rev|AntarcticaAquatic_READ_00922805	173357	89	2e-117	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+236|rev|AntarcticaAquatic_READ_02763018	58609	96.09	7e-145	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+237|rev|AntarcticaAquatic_READ_00832674	144617	87.74	5e-84	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Geobacteraceae; Geobacter; Unclassified; otu_2876
+238|rev|AntarcticaAquatic_READ_00934153	164866	88.94	2e-56	Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Caulobacter; Unclassified; otu_2102
+240|rev|AntarcticaAquatic_READ_01026505	110696	91.71	7e-62	Bacteria; Firmicutes; Bacillales; Bacillaceae; Exiguobacterium; Unclassified; otu_1375
+241|rev|AntarcticaAquatic_READ_00376037	111795	89.24	1e-106	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+242|rev|AntarcticaAquatic_READ_01433369	150632	81.56	2e-43	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+243|rev|AntarcticaAquatic_READ_00456798	136933	86.97	5e-100	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Unclassified; otu_1116
+244|rev|AntarcticaAquatic_READ_00298705	103769	89.35	3e-88	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Cytophaga; Unclassified; otu_964
+245|rev|NCBI_READ_1112308981810	83542	94.74	5e-124	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Cytophaga; Unclassified; otu_964
+246|rev|AntarcticaAquatic_READ_03433684	35440	89.81	2e-98	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+247|rev|AntarcticaAquatic_READ_00716719	154380	85.83	1e-54	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+248|rev|AntarcticaAquatic_READ_00734381	154380	86	2e-55	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Nocardia; Unclassified; otu_274
+249|rev|AntarcticaAquatic_READ_03343063	207228	88.52	3e-49	Bacteria; Proteobacteria; Deltaproteobacteria; Bdellovibrionales; Bdellovibrionaceae; Bdellovibrio; Unclassified; otu_2793
+250|rev|AntarcticaAquatic_READ_01354767	91224	93.02	6e-93	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+251|rev|AntarcticaAquatic_READ_03701916	201556	82.37	6e-41	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+252|rev|AntarcticaAquatic_READ_00381438	128221	92.91	1e-109	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfobacteraceae; Desulfobacterium; Unclassified; otu_2806
+253|rev|NCBI_READ_1113289336855	43992	88.08	1e-81	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+254|rev|AntarcticaAquatic_READ_01191586	150632	87.5	6e-93	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+255|rev|NCBI_READ_1112309044360	2577	88.15	1e-90	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Unclassified; otu_950
+256|rev|AntarcticaAquatic_READ_02718390	61204	100	8e-157	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+257|rev|NCBI_READ_1113288641422	30376	89.64	2e-83	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Pseudonocardineae; Actinosynnemataceae; Lentzea; otu_529
+258|rev|AntarcticaAquatic_READ_00291951	135161	86.9	3e-76	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+259|rev|AntarcticaAquatic_READ_00603799	211317	82.86	2e-53	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+260|rev|AntarcticaAquatic_READ_00649846	179710	87.97	2e-105	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+261|rev|AntarcticaAquatic_READ_00477345	112352	90.43	8e-117	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Unclassified; otu_2957
+262|rev|AntarcticaAquatic_READ_02679986	43992	87.63	1e-72	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+263|rev|AntarcticaAquatic_READ_00051735	155335	88.78	2e-55	Bacteria; Cyanobacteria; Unclassified; otu_1178
+264|rev|AntarcticaAquatic_READ_02990424	10978	87.11	6e-90	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+265|rev|AntarcticaAquatic_READ_00517061	237	85.86	9e-65	Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina; Unclassified; otu_175
+266|rev|AntarcticaAquatic_READ_00040847	141197	94.96	2e-57	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+dup2rev|AntarcticaAquatic_READ_00040847	10560	90.85	2e-48	Bacteria; Chloroflexi; Unclassified; otu_1145
+268|rev|AntarcticaAquatic_READ_03212220	173672	95.67	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium; Unclassified; otu_79
+dup2rev|AntarcticaAquatic_READ_00046274	173357	88.24	1e-38	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+271|rev|AntarcticaAquatic_READ_00499820	154687	94.55	2e-92	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+272|rev|AntarcticaAquatic_READ_00461083	201556	91.49	6e-102	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+273|rev|AntarcticaAquatic_READ_02847682	43992	87.59	9e-70	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Intrasporangiaceae; Tetrasphaera; otu_379
+274|rev|AntarcticaAquatic_READ_00625884	201556	82.53	4e-45	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Corynebacteriaceae; Corynebacterium; Unclassified; otu_254
+275|rev|AntarcticaAquatic_READ_00455360	112352	89.84	4e-35	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Unclassified; otu_2957
+276|rev|AntarcticaAquatic_READ_00344789	150632	84.85	8e-52	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+277|rev|AntarcticaAquatic_READ_00500076	150632	84.85	8e-52	Bacteria; Firmicutes; Clostridia; Clostridiales; Clostridiales Family XVII. Incertae Sedis; Thermaerobacter; otu_1624
+278|rev|AntarcticaAquatic_READ_00776865	135161	86.61	2e-55	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+279|rev|NCBI_READ_1113215434049	108713	88.13	1e-75	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+280|rev|AntarcticaAquatic_READ_00795027	6321	90.95	9e-70	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+281|rev|NCBI_READ_1113216267176	2577	87.33	4e-75	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Unclassified; otu_950
+282|rev|AntarcticaAquatic_READ_00338415	150553	92.98	2e-64	Bacteria; Deinococcus-Thermus; Deinococci; Deinococcales; Deinococcaceae; Deinococcus; Unclassified; otu_1324
+283|rev|AntarcticaAquatic_READ_00884227	110696	86.74	2e-64	Bacteria; Firmicutes; Bacillales; Bacillaceae; Exiguobacterium; Unclassified; otu_1375
+284|rev|AntarcticaAquatic_READ_00901480	209414	92.67	4e-54	Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermosipho; Unclassified; otu_3591
+285|rev|AntarcticaAquatic_READ_03461885	34546	85.47	2e-58	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Cytophaga; Unclassified; otu_964
+286|rev|AntarcticaAquatic_READ_00998938	102886	97.39	1e-114	Bacteria; Proteobacteria; Deltaproteobacteria; Unclassified; otu_2787
+287|rev|AntarcticaAquatic_READ_00286443	112352	88.02	3e-51	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Unclassified; otu_2957
+289|rev|AntarcticaAquatic_READ_00930524	10560	89.88	5e-50	Bacteria; Chloroflexi; Unclassified; otu_1145
+290|rev|AntarcticaAquatic_READ_00842069	200020	87.89	3e-57	Bacteria; Verrucomicrobia; Spartobacteria; Candidatus Xiphinematobacter; otu_3602
+291|rev|AntarcticaAquatic_READ_00498761	6763	94.64	2e-95	Bacteria; Proteobacteria; Betaproteobacteria; Rhodocyclales; Rhodocyclaceae; Thauera; Unclassified; otu_2780
+292|rev|AntarcticaAquatic_READ_01194447	211317	82.18	7e-47	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+293|rev|AntarcticaAquatic_READ_03362836	65483	86.64	9e-51	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+294|rev|AntarcticaAquatic_READ_00642404	203065	93.95	0.0	Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus; otu_61
+297|rev|AntarcticaAquatic_READ_00382615	200959	86.61	5e-88	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+299|rev|AntarcticaAquatic_READ_03288869	121064	94.93	5e-56	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+300|rev|AntarcticaAquatic_READ_00734319	112352	90.53	5e-96	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Helicobacteraceae; Helicobacter; Unclassified; otu_2957
+301|rev|AntarcticaAquatic_READ_00715228	179710	85.14	7e-31	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+302|rev|AntarcticaAquatic_READ_01351229	91224	91.8	3e-94	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+303|rev|AntarcticaAquatic_READ_00035266	89521	90.48	3e-51	Bacteria; Chlamydiae; Chlamydiales; Parachlamydiaceae; Parachlamydia; Unclassified; otu_1122
+305|rev|AntarcticaAquatic_READ_00494179	151687	92.03	3e-91	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Candidatus Liberibacter; otu_2240
+306|rev|AntarcticaAquatic_READ_00713534	173357	92.77	8e-61	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Nocardiaceae; Rhodococcus; Unclassified; otu_277
+307|rev|AntarcticaAquatic_READ_00164672	151164	94.94	7e-67	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Nitrobacter; Unclassified; otu_2151
+308|rev|AntarcticaAquatic_READ_03172858	1540	97.03	6e-98	Bacteria; Verrucomicrobia; Verrucomicrobiae; Verrucomicrobiales; Verrucomicrobia subdivision 3; Unclassified; otu_3616
+309|rev|NCBI_READ_1112309200710	61204	96.88	7e-107	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+312|rev|AntarcticaAquatic_READ_00855604	200959	84.57	6e-100	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+313|rev|AntarcticaAquatic_READ_00619194	53714	89.43	5e-75	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+314|rev|AntarcticaAquatic_READ_00474180	111520	88.5	8e-54	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Agromyces; Unclassified; otu_386
+315|rev|AntarcticaAquatic_READ_00619004	159237	87.24	1e-59	Bacteria; Cyanobacteria; Chroococcales; Cyanothece; Unclassified; otu_1192
+316|rev|AntarcticaAquatic_READ_02589246	193893	99.05	5e-52	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+317|rev|AntarcticaAquatic_READ_01411105	10978	89.16	1e-46	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+318|rev|AntarcticaAquatic_READ_00682347	200959	85.09	9e-102	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+319|rev|AntarcticaAquatic_READ_00116970	111795	88.94	5e-56	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+320|rev|AntarcticaAquatic_READ_00207298	42311	86.21	7e-42	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella; Unclassified; otu_3203
+321|rev|NCBI_READ_1113298100821	108713	92.66	3e-65	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+322|rev|AntarcticaAquatic_READ_00773450	150608	89.64	3e-66	Bacteria; Fusobacteria; Fusobacterales; Fusobacteriaceae; Propionigenium; otu_2008
+323|rev|AntarcticaAquatic_READ_03033018	146972	94.77	3e-62	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Pseudoclavibacter; Unclassified; otu_427
+324|rev|AntarcticaAquatic_READ_00959846	200959	93.74	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+325|rev|AntarcticaAquatic_READ_00622151	200959	84.84	2e-52	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+326|rev|NCBI_READ_1113340572302	61204	91.01	1e-90	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+327|rev|AntarcticaAquatic_READ_00574931	91224	100	4e-50	Bacteria; Firmicutes; Bacillales; Bacillaceae; Bacillus; Bacillus cereus group; otu_1369
+328|rev|AntarcticaAquatic_READ_03690635	200959	96.39	2e-173	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+329|rev|NCBI_READ_1112309207771	61204	92.22	5e-93	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae; Rhizobium/Agrobacterium group; Rhizobium; Unclassified; otu_2248
+330|rev|AntarcticaAquatic_READ_00178676	200959	93.56	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+331|rev|AntarcticaAquatic_READ_00119389	200959	93.56	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+332|rev|AntarcticaAquatic_READ_00282089	200959	83.68	2e-84	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+333|rev|AntarcticaAquatic_READ_00858219	200959	89.22	6e-68	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+334|rev|AntarcticaAquatic_READ_00351803	200959	83.58	6e-44	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+335|rev|AntarcticaAquatic_READ_01306811	200959	83.66	6e-31	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+336|rev|AntarcticaAquatic_READ_00816543	138924	88.73	2e-36	Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter; Unclassified; otu_2948
+337|rev|AntarcticaAquatic_READ_00696972	154687	95.15	3e-71	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+338|rev|AntarcticaAquatic_READ_03092287	35440	94.94	2e-75	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+339|rev|AntarcticaAquatic_READ_00130872	200959	87.32	6e-112	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+340|rev|AntarcticaAquatic_READ_02730460	234617	98.96	4e-102	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+341|rev|AntarcticaAquatic_READ_00716509	200959	86.49	1e-94	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+342|rev|AntarcticaAquatic_READ_00496319	203106	90.61	1e-58	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+343|rev|AntarcticaAquatic_READ_00053043	193893	99.42	1e-92	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+346|rev|AntarcticaAquatic_READ_03007109	193893	96.7	2e-38	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+347|rev|AntarcticaAquatic_READ_03120479	101620	93.85	1e-71	Bacteria; Bacteroidetes; Flavobacteria; Flavobacteriales; Flavobacteriaceae; Gilvibacter; otu_835
+348|rev|AntarcticaAquatic_READ_02620967	58609	99.3	9e-75	Bacteria; Bacteroidetes; Sphingobacteria; Sphingobacteriales; Flexibacteraceae; Roseivirga; otu_996
+349|rev|AntarcticaAquatic_READ_00887462	108925	93.33	3e-36	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+350|rev|AntarcticaAquatic_READ_00117965	200959	94.36	3e-113	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+351|rev|AntarcticaAquatic_READ_00757963	35440	95.81	9e-75	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+352|rev|AntarcticaAquatic_READ_03746273	200959	95.73	0.0	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+354|rev|AntarcticaAquatic_READ_00824493	111795	95.73	3e-72	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+355|rev|AntarcticaAquatic_READ_03061250	35440	94.41	6e-57	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Curtobacterium; Unclassified; otu_400
+356|rev|AntarcticaAquatic_READ_00753835	200959	90	4e-44	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+357|rev|AntarcticaAquatic_READ_00242578	200959	86.88	8e-96	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+358|rev|AntarcticaAquatic_READ_00666334	6321	94.09	4e-74	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingopyxis; Unclassified; otu_2530
+359|rev|AntarcticaAquatic_READ_01135601	201939	86.06	2e-32	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Micrococcus; Unclassified; otu_444
+360|rev|AntarcticaAquatic_READ_02628875	176825	91.55	2e-47	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Micrococcaceae; Arthrobacter; Unclassified; otu_436
+361|rev|AntarcticaAquatic_READ_03078366	193893	97.01	3e-62	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+362|rev|AntarcticaAquatic_READ_00066412	136414	86.21	3e-44	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+363|rev|AntarcticaAquatic_READ_01365712	200959	88.49	9e-114	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+366|rev|AntarcticaAquatic_READ_03589376	221738	88.89	1e-34	Bacteria; Verrucomicrobia; Spartobacteria; Unclassified; otu_3601
+367|rev|AntarcticaAquatic_READ_00946920	200959	84.7	4e-50	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+369|rev|NCBI_READ_1113316240914	10978	87.82	5e-37	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+371|rev|AntarcticaAquatic_READ_00156551	144222	89.17	3e-31	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfobacterales; Desulfoarculaceae; Nitrospina; otu_2799
+372|rev|AntarcticaAquatic_READ_03663124	137113	88.97	3e-39	Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus; Unclassified; otu_130
+373|rev|AntarcticaAquatic_READ_03126282	129193	90.07	2e-44	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+376|rev|AntarcticaAquatic_READ_02972064	193893	98.13	6e-51	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+379|rev|AntarcticaAquatic_READ_00715443	200959	84.68	1e-46	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+380|rev|AntarcticaAquatic_READ_00453306	428	94.46	3e-150	Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Thermoplasmataceae; Thermoplasma; Unclassified; otu_196
+385|rev|AntarcticaAquatic_READ_00535726	102419	95.83	4e-51	Bacteria; Proteobacteria; Gammaproteobacteria; Chromatiales; Chromatiaceae; Marichromatium; Unclassified; otu_3073
+387|rev|AntarcticaAquatic_READ_01131283	200959	91.91	3e-47	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+391|rev|AntarcticaAquatic_READ_02823648	78365	96.36	4e-48	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophobacteraceae; Desulfoglaeba; otu_2937
+394|rev|AntarcticaAquatic_READ_00927518	89297	93.75	7e-41	Bacteria; Proteobacteria; Alphaproteobacteria; Unclassified; otu_2092
+402|rev|AntarcticaAquatic_READ_00503442	154361	94.06	2e-82	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Desulfuromonadaceae; Desulfuromonas; Unclassified; otu_2867
+403|rev|AntarcticaAquatic_READ_03159324	13720	95.31	8e-53	Bacteria; Firmicutes; Clostridia; Clostridiales; Syntrophomonadaceae; Syntrophospora; otu_1769
+406|rev|AntarcticaAquatic_READ_00622186	149878	91.59	9e-34	Bacteria; Proteobacteria; Deltaproteobacteria; Desulfuromonadales; Pelobacteraceae; Pelobacter; Unclassified; otu_2884
+410|rev|AntarcticaAquatic_READ_00571655	200959	93.02	2e-102	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+412|rev|AntarcticaAquatic_READ_00719471	101328	100	6e-37	Bacteria; Cyanobacteria; Chroococcales; Thermosynechococcus; otu_1209
+415|rev|AntarcticaAquatic_READ_00577053	200959	89.17	6e-31	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+416|rev|AntarcticaAquatic_READ_02953627	10978	89.1	9e-44	Bacteria; Nitrospirae; Nitrospirales; Nitrospiraceae; Nitrospira; Unclassified; otu_2060
+417|rev|AntarcticaAquatic_READ_02926018	108713	96.81	5e-41	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Micrococcineae; Microbacteriaceae; Unclassified; otu_382
+418|rev|AntarcticaAquatic_READ_00618456	179710	92	5e-32	Bacteria; Firmicutes; Clostridia; Clostridiales; Veillonellaceae; Selenomonas; Unclassified; otu_1797
+420|rev|AntarcticaAquatic_READ_00449260	154687	89.66	6e-32	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Streptomycineae; Streptomycetaceae; Streptomyces; Unclassified; otu_563
+422|rev|AntarcticaAquatic_READ_00978598	200959	93.02	1e-102	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+428|rev|AntarcticaAquatic_READ_03284053	66927	97.3	2e-31	Bacteria; Proteobacteria; Deltaproteobacteria; Syntrophobacterales; Syntrophaceae; Desulfomonile; Unclassified; otu_2928
+429|rev|AntarcticaAquatic_READ_00587552	193893	97.37	1e-51	Bacteria; Chlorobi; Chlorobia; Chlorobiales; Chlorobiaceae; Chlorobium/Pelodictyon group; Chlorobium; Unclassified; otu_1136
+430|rev|AntarcticaAquatic_READ_01132772	135161	97.35	3e-52	Bacteria; Cyanobacteria; Chroococcales; Synechococcus; Unclassified; otu_1205
+431|rev|AntarcticaAquatic_READ_03188698	205757	100	5e-31	Bacteria; Firmicutes; Lactobacillales; Streptococcaceae; Streptococcus; Unclassified; otu_1946
+435|rev|AntarcticaAquatic_READ_00637423	200959	87.77	4e-72	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+455|rev|AntarcticaAquatic_READ_00995850	200959	93.12	4e-74	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87
+456|rev|AntarcticaAquatic_READ_00846897	200959	88.66	5e-71	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halogeometricum; otu_87

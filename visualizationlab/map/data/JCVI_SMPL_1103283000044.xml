@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>JCVI_SMPL_1103283000044</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>2</val></count>
+		<node name="Bacteria">
+		<count><val>2</val></count>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Rhizobiales">
+					<count><val>1</val></count>
+						<node name="Xanthobacteraceae">
+						<count><val>1</val></count>
+							<node name="Azorhizobium">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Actinobacteria">
+			<count><val>1</val></count>
+				<node name="Actinobacteridae">
+				<count><val>1</val></count>
+					<node name="Actinomycetales">
+					<count><val>1</val></count>
+						<node name="Propionibacterineae">
+						<count><val>1</val></count>
+							<node name="Nocardioidaceae">
+							<count><val>1</val></count>
+								<node name="Aeromicrobium">
+								<count><val>1</val></count>
+									<node name="Unclassified">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>VIRALSTROMATOLITE_SMPL_SRX000209_RMSTROMCCMEXVIR072205</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>4</val></count>
+		<node name="Bacteria">
+		<count><val>4</val></count>
+			<node name="Unclassified">
+			<count><val>1</val></count>
+			</node>
+			<node name="Firmicutes">
+			<count><val>3</val></count>
+				<node name="Clostridia">
+				<count><val>3</val></count>
+					<node name="Clostridiales">
+					<count><val>3</val></count>
+						<node name="Clostridiaceae">
+						<count><val>3</val></count>
+							<node name="Clostridium">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

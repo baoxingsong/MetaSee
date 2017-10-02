@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Pie Char</title>
+<link href="../skin/demo.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../lib/jquery.min.js"></script>
+<script type="text/javascript">
+ var chart;
+$(document).ready(function() {
+chart = new Highcharts.Chart({
+chart: {
+renderTo: 'container',
+ plotBackgroundColor: null,
+ plotBorderWidth: null,
+	plotShadow: false
+	},title: {
+text: 'Count distribution of Acidobacteriaceae'
+},
+tooltip: {
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y;}
+},
+plotOptions: {
+pie: {
+allowPointSelect: true,
+cursor: 'pointer',
+dataLabels: {
+enabled: true,
+color: '#000000',
+connectorColor: '#000000',
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y;
+}}}},
+series: [{
+type: 'pie',
+name: 'Browser share',
+data: [
+['72-10',   741],['72-10',   741],['72-11',   1344],['72-12',   604],['72-8',   527],['72-1',   632]]
+}]
+});
+});
+</script>
+<script type="text/javascript">
+ var chart;
+$(document).ready(function() {
+chart = new Highcharts.Chart({
+chart: {
+renderTo: 'container2',
+ plotBackgroundColor: null,
+ plotBorderWidth: null,
+	plotShadow: false
+	},title: {
+text: 'Percent distribution of Acidobacteriaceae'
+},
+tooltip: {
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y*100+"%";}
+},
+plotOptions: {
+pie: {
+allowPointSelect: true,
+cursor: 'pointer',
+dataLabels: {
+enabled: true,
+color: '#000000',
+connectorColor: '#000000',
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y*100+"%";
+}}}},
+series: [{
+type: 'pie',
+name: 'Browser share',
+data: [
+['72-10',   0.39206349206349206],['72-10',   0.39206349206349206],['72-11',   0.39195100612423445],['72-12',   0.4357864357864358],['72-8',   0.4044512663085188],['72-1',   0.4328767123287671]]
+}]
+});
+});
+</script>
+</head>
+<body>
+<script type="text/javascript" src="../lib/highcharts.js"></script>
+<script type="text/javascript" src="../lib/exporting.js"></script>
+<div id="container" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<p>&nbsp;</p><hr><p>&nbsp;</p><div id="container2" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<div class="buttons">
+<a id="next-example" title="Column Chart" href="285column.html">Bar Chart</a>
+</div>
+<br /><div align="center">Taxa view:&nbsp;&nbsp;<a href="1pie.html">root</a> -- <a href="2pie.html">Bacteria</a> -- <a href="283pie.html">Acidobacteria</a> -- <a href="284pie.html">Acidobacteriales</a> -- <a href="285pie.html">Acidobacteriaceae</a><p>&nbsp;</p><p>&nbsp;</p>Go to Taxonomy Browser:&nbsp;&nbsp;<a href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Bacteria">Bacteria</a><p>&nbsp;</p><p>&nbsp;</p></body>
+</html>

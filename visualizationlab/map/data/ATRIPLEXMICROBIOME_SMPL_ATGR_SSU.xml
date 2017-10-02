@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>ATRIPLEXMICROBIOME_SMPL_ATGR_SSU</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>2</val></count>
+		<node name="Bacteria">
+		<count><val>2</val></count>
+			<node name="Firmicutes">
+			<count><val>2</val></count>
+				<node name="Lactobacillales">
+				<count><val>1</val></count>
+					<node name="Lactobacillaceae">
+					<count><val>1</val></count>
+						<node name="Lactobacillus">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Clostridia">
+				<count><val>1</val></count>
+					<node name="Clostridiales">
+					<count><val>1</val></count>
+						<node name="Acidaminococcaceae">
+						<count><val>1</val></count>
+							<node name="Papillibacter">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

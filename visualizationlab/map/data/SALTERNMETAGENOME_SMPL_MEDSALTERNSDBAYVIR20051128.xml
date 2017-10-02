@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>SALTERNMETAGENOME_SMPL_MEDSALTERNSDBAYVIR20051128</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>6</val></count>
+		<node name="Bacteria">
+		<count><val>6</val></count>
+			<node name="Proteobacteria">
+			<count><val>5</val></count>
+				<node name="Gammaproteobacteria">
+				<count><val>5</val></count>
+					<node name="Pseudomonadales">
+					<count><val>3</val></count>
+						<node name="Pseudomonadaceae">
+						<count><val>3</val></count>
+							<node name="Pseudomonas">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Enterobacteriales">
+					<count><val>2</val></count>
+						<node name="Enterobacteriaceae">
+						<count><val>2</val></count>
+							<node name="Escherichia">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Actinobacteria">
+			<count><val>1</val></count>
+				<node name="Actinobacteridae">
+				<count><val>1</val></count>
+					<node name="Actinomycetales">
+					<count><val>1</val></count>
+						<node name="Micrococcineae">
+						<count><val>1</val></count>
+							<node name="Microbacteriaceae">
+							<count><val>1</val></count>
+								<node name="Cryocola">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>PERUMARGINSEDIMENT_SMPL_MBSF_50AMPLIFIED</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>7</val></count>
+		<node name="Bacteria">
+		<count><val>1</val></count>
+			<node name="Chloroflexi">
+			<count><val>1</val></count>
+				<node name="Dehalococcoidetes">
+				<count><val>1</val></count>
+					<node name="Dehalococcoides">
+					<count><val>1</val></count>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Archaea">
+		<count><val>6</val></count>
+			<node name="Euryarchaeota">
+			<count><val>6</val></count>
+				<node name="Methanopyri">
+				<count><val>6</val></count>
+					<node name="Methanopyrales">
+					<count><val>6</val></count>
+						<node name="Methanopyraceae">
+						<count><val>6</val></count>
+							<node name="Methanopyrus">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

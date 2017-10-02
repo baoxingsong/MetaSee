@@ -1,0 +1,13 @@
+There are more count in node than dataset in datasets. Check it please. Or you can contact songbaoxing168@163.com for help!
+java.lang.IndexOutOfBoundsException: Index: 3, Size: 3
+	at java.util.ArrayList.rangeCheck(ArrayList.java:604)
+	at java.util.ArrayList.get(ArrayList.java:382)
+	at org.metasee.www.MetaSeePieChart.drawSmallPie(MetaSeePieChart.java:56)
+	at org.metasee.www.MetaSeePieChart.run(MetaSeePieChart.java:23)
+	at org.metasee.www.MetaSee.produce(MetaSee.java:132)
+	at org.metasee.www.MetaSee.main(MetaSee.java:98)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader.main(JarRsrcLoader.java:58)

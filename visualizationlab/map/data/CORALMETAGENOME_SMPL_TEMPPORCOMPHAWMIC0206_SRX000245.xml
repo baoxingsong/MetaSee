@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CORALMETAGENOME_SMPL_TEMPPORCOMPHAWMIC0206_SRX000245</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>3</val></count>
+		<node name="Bacteria">
+		<count><val>3</val></count>
+			<node name="Proteobacteria">
+			<count><val>3</val></count>
+				<node name="Deltaproteobacteria">
+				<count><val>3</val></count>
+					<node name="Desulfovibrionales">
+					<count><val>3</val></count>
+						<node name="Desulfovibrionaceae">
+						<count><val>3</val></count>
+							<node name="Desulfovibrio">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

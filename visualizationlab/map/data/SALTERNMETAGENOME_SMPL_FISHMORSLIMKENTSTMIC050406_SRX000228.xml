@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>SALTERNMETAGENOME_SMPL_FISHMORSLIMKENTSTMIC050406_SRX000228</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>104</val></count>
+		<node name="Bacteria">
+		<count><val>104</val></count>
+			<node name="Firmicutes">
+			<count><val>17</val></count>
+				<node name="Bacillales">
+				<count><val>15</val></count>
+					<node name="Paenibacillaceae">
+					<count><val>15</val></count>
+						<node name="Paenibacillus">
+						<count><val>14</val></count>
+							<node name="Unclassified">
+							<count><val>14</val></count>
+							</node>
+						</node>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+				<node name="Clostridia">
+				<count><val>2</val></count>
+					<node name="Clostridiales">
+					<count><val>2</val></count>
+						<node name="Unclassified">
+						<count><val>2</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>81</val></count>
+				<node name="Betaproteobacteria">
+				<count><val>66</val></count>
+					<node name="Unclassified">
+					<count><val>17</val></count>
+					</node>
+					<node name="Burkholderiales">
+					<count><val>48</val></count>
+						<node name="Oxalobacteraceae">
+						<count><val>28</val></count>
+							<node name="Herminiimonas">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+							<node name="Herbaspirillum">
+							<count><val>14</val></count>
+								<node name="Unclassified">
+								<count><val>14</val></count>
+								</node>
+							</node>
+							<node name="Collimonas">
+							<count><val>9</val></count>
+								<node name="Unclassified">
+								<count><val>9</val></count>
+								</node>
+							</node>
+							<node name="Janthinobacterium">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+						<node name="Burkholderiaceae">
+						<count><val>14</val></count>
+							<node name="Ralstonia">
+							<count><val>10</val></count>
+								<node name="Unclassified">
+								<count><val>10</val></count>
+								</node>
+							</node>
+							<node name="Burkholderia">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Alcaligenaceae">
+						<count><val>4</val></count>
+							<node name="Bordetella">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Rubrivivax">
+						<count><val>2</val></count>
+							<node name="Unclassified">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Methylophilales">
+					<count><val>1</val></count>
+						<node name="Methylophilaceae">
+						<count><val>1</val></count>
+							<node name="Methylobacillus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Gammaproteobacteria">
+				<count><val>15</val></count>
+					<node name="Enterobacteriales">
+					<count><val>10</val></count>
+						<node name="Enterobacteriaceae">
+						<count><val>10</val></count>
+							<node name="Citrobacter">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+							<node name="Salmonella">
+							<count><val>1</val></count>
+								<node name="Saintpaul">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Buchnera">
+							<count><val>1</val></count>
+							</node>
+							<node name="Klebsiella">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Buttiauxella">
+							<count><val>1</val></count>
+							</node>
+							<node name="Escherichia">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Serratia">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Rahnella">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Legionellales">
+					<count><val>4</val></count>
+						<node name="Coxiellaceae">
+						<count><val>4</val></count>
+							<node name="Rickettsiella">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Acidithiobacillales">
+					<count><val>1</val></count>
+						<node name="Acidithiobacillaceae">
+						<count><val>1</val></count>
+							<node name="Acidithiobacillus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>4</val></count>
+			</node>
+			<node name="Actinobacteria">
+			<count><val>2</val></count>
+				<node name="Actinobacteridae">
+				<count><val>2</val></count>
+					<node name="Actinomycetales">
+					<count><val>2</val></count>
+						<node name="Corynebacterineae">
+						<count><val>2</val></count>
+							<node name="Mycobacteriaceae">
+							<count><val>2</val></count>
+								<node name="Mycobacterium">
+								<count><val>2</val></count>
+									<node name="Unclassified">
+									<count><val>2</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

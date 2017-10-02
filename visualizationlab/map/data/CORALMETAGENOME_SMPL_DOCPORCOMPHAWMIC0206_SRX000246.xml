@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CORALMETAGENOME_SMPL_DOCPORCOMPHAWMIC0206_SRX000246</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>15</val></count>
+		<node name="Bacteria">
+		<count><val>15</val></count>
+			<node name="Bacteroidetes">
+			<count><val>12</val></count>
+				<node name="Flavobacteria">
+				<count><val>10</val></count>
+					<node name="Flavobacteriales">
+					<count><val>10</val></count>
+						<node name="Flavobacteriaceae">
+						<count><val>10</val></count>
+							<node name="Flavobacterium">
+							<count><val>8</val></count>
+								<node name="Unclassified">
+								<count><val>8</val></count>
+								</node>
+							</node>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+							<node name="Krokinobacter">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Sphingobacteria">
+				<count><val>2</val></count>
+					<node name="Sphingobacteriales">
+					<count><val>2</val></count>
+						<node name="Flexibacteraceae">
+						<count><val>2</val></count>
+							<node name="Cytophaga">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>2</val></count>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Gammaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Enterobacteriales">
+					<count><val>1</val></count>
+						<node name="Enterobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Serratia">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

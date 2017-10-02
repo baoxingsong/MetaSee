@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>PERUMARGINSEDIMENT_SMPL_MBSF_32AMPLIFIED</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>37</val></count>
+		<node name="Bacteria">
+		<count><val>21</val></count>
+			<node name="Chloroflexi">
+			<count><val>19</val></count>
+				<node name="Dehalococcoidetes">
+				<count><val>19</val></count>
+					<node name="Dehalococcoides">
+					<count><val>19</val></count>
+						<node name="Unclassified">
+						<count><val>19</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Actinobacteria">
+			<count><val>1</val></count>
+				<node name="Rubrobacteridae">
+				<count><val>1</val></count>
+					<node name="Rubrobacterales">
+					<count><val>1</val></count>
+						<node name="Rubrobacterineae">
+						<count><val>1</val></count>
+							<node name="Rubrobacterineae">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Firmicutes">
+			<count><val>1</val></count>
+				<node name="Clostridia">
+				<count><val>1</val></count>
+					<node name="Natranaerobiales">
+					<count><val>1</val></count>
+						<node name="Natranaerobiaceae">
+						<count><val>1</val></count>
+							<node name="Natranaerobius">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Archaea">
+		<count><val>16</val></count>
+			<node name="Euryarchaeota">
+			<count><val>16</val></count>
+				<node name="Methanococci">
+				<count><val>1</val></count>
+					<node name="Methanococcales">
+					<count><val>1</val></count>
+						<node name="Methanococcaceae">
+						<count><val>1</val></count>
+							<node name="Methanococcus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Archaeoglobi">
+				<count><val>7</val></count>
+					<node name="Archaeoglobales">
+					<count><val>7</val></count>
+						<node name="Archaeoglobaceae">
+						<count><val>7</val></count>
+							<node name="Archaeoglobus">
+							<count><val>7</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Methanopyri">
+				<count><val>8</val></count>
+					<node name="Methanopyrales">
+					<count><val>8</val></count>
+						<node name="Methanopyraceae">
+						<count><val>8</val></count>
+							<node name="Methanopyrus">
+							<count><val>8</val></count>
+								<node name="Unclassified">
+								<count><val>8</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

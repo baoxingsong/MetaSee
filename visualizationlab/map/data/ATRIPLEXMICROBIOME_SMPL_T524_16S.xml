@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>ATRIPLEXMICROBIOME_SMPL_T524_16S</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>6313</val></count>
+		<node name="Bacteria">
+		<count><val>5049</val></count>
+			<node name="Firmicutes">
+			<count><val>4953</val></count>
+				<node name="Bacillales">
+				<count><val>4946</val></count>
+					<node name="Staphylococcus">
+					<count><val>4946</val></count>
+						<node name="Unclassified">
+						<count><val>4946</val></count>
+						</node>
+					</node>
+				</node>
+				<node name="Clostridia">
+				<count><val>5</val></count>
+					<node name="Clostridiales">
+					<count><val>5</val></count>
+						<node name="Clostridiaceae">
+						<count><val>5</val></count>
+							<node name="Clostridium">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+							<node name="Faecalibacterium">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Lactobacillales">
+				<count><val>2</val></count>
+					<node name="Lactobacillaceae">
+					<count><val>2</val></count>
+						<node name="Lactobacillus">
+						<count><val>2</val></count>
+							<node name="Unclassified">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>86</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>82</val></count>
+					<node name="Rhizobiales">
+					<count><val>37</val></count>
+						<node name="Beijerinckiaceae">
+						<count><val>36</val></count>
+							<node name="Beijerinckia">
+							<count><val>36</val></count>
+							</node>
+						</node>
+						<node name="Xanthobacteraceae">
+						<count><val>1</val></count>
+							<node name="Azorhizobium">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Unclassified">
+					<count><val>31</val></count>
+					</node>
+					<node name="Sphingomonadales">
+					<count><val>14</val></count>
+						<node name="Erythrobacteraceae">
+						<count><val>14</val></count>
+							<node name="Erythrobacter">
+							<count><val>14</val></count>
+								<node name="Unclassified">
+								<count><val>14</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Gammaproteobacteria">
+				<count><val>4</val></count>
+					<node name="Enterobacteriales">
+					<count><val>4</val></count>
+						<node name="Enterobacteriaceae">
+						<count><val>4</val></count>
+							<node name="Salmonella">
+							<count><val>4</val></count>
+								<node name="Saintpaul">
+								<count><val>4</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Cyanobacteria">
+			<count><val>9</val></count>
+				<node name="Chroococcales">
+				<count><val>9</val></count>
+					<node name="Microcystis">
+					<count><val>9</val></count>
+						<node name="Unclassified">
+						<count><val>9</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Bacteroidetes">
+			<count><val>1</val></count>
+				<node name="Bacteroidales">
+				<count><val>1</val></count>
+					<node name="Bacteroidaceae">
+					<count><val>1</val></count>
+						<node name="Bacteroides">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="sequences">
+		<count><val>1264</val></count>
+			<node name="sequences">
+			<count><val>1264</val></count>
+				<node name="vectors">
+				<count><val>1264</val></count>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

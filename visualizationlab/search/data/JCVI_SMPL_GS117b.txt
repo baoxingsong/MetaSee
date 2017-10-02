@@ -1,0 +1,57 @@
+Sequence_id	Database_id	Percentage_identity	E-value	Classification
+1|JCVI_READ_1105333420290	78569	93.44	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Marinobacter; Unclassified; otu_3013
+2|JCVI_READ_1105333583191	101111	94.1	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; sulfur-oxidizing symbionts; Unclassified; otu_3394
+3|JCVI_READ_1105333471749	103807	95.63	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales; Methylococcaceae; Methylococcus; Unclassified; otu_3253
+4|JCVI_READ_1105333583163	92037	95.29	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+5|JCVI_READ_1105333493876	3468	94.25	0.0	Eukaryota; Haptophyceae; Prymnesiales; Chrysochromulina; otu_3739
+6|JCVI_READ_1105333471615	105331	97.84	0.0	Bacteria; Bacteroidetes; Flavobacteria; Flavobacteriales; Flavobacteriaceae; Yeosuana; otu_898
+7|JCVI_READ_1105333604338	68995	96.31	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Azospirillum; Unclassified; otu_2430
+8|JCVI_READ_1105334010998	103807	97.89	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Methylococcales; Methylococcaceae; Methylococcus; Unclassified; otu_3253
+9|JCVI_READ_1104773276615	68830	93.17	0.0	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+10|JCVI_READ_1105333651688	68830	93.49	0.0	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+11|JCVI_READ_1105333453918	68830	91.15	0.0	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+12|JCVI_READ_1105333613658	106179	90.66	0.0	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+13|JCVI_READ_1105333527435	105331	92.92	0.0	Bacteria; Bacteroidetes; Flavobacteria; Flavobacteriales; Flavobacteriaceae; Yeosuana; otu_898
+14|JCVI_READ_1105333588369	52339	88.91	1e-156	Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium; Unclassified; otu_79
+dup2JCVI_READ_1105333588369	13744	90.89	1e-144	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+16|JCVI_READ_1105333313153	68992	99.6	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Hoeflea; otu_2224
+17|JCVI_READ_1105333617267	92037	96.91	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+18|JCVI_READ_1105333340466	68830	88.14	0.0	Bacteria; Cyanobacteria; Oscillatoriales; Arthrospira; otu_1245
+19|JCVI_READ_1105333508198	92037	96.32	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+20|JCVI_READ_1105333580907	63120	90.84	4e-175	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+21|JCVI_READ_1105333376692	112246	88.55	0.0	Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus; Unclassified; otu_130
+23|JCVI_READ_1105333588325	63104	93.92	2e-154	Bacteria; Chloroflexi; Dehalococcoidetes; Dehalococcoides; Unclassified; otu_1167
+24|JCVI_READ_1105333478308	123462	92.53	2e-145	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+25|JCVI_READ_1105333456790	112246	95.52	0.0	Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus; Unclassified; otu_130
+26|JCVI_READ_1105333565820	101111	98.29	7e-154	Bacteria; Proteobacteria; Gammaproteobacteria; sulfur-oxidizing symbionts; Unclassified; otu_3394
+27|JCVI_READ_1105333421284	92037	97	8e-132	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+28|JCVI_READ_1105333569002	92037	96.2	5e-111	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+32|JCVI_READ_1105333581105	92037	99.43	8e-94	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+33|JCVI_READ_1104773298388	92037	89.76	1e-78	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+35|JCVI_READ_1105333586850	123462	89.66	8e-70	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+37|JCVI_READ_1105333553155	68992	100	3e-74	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Hoeflea; otu_2224
+1|rev|JCVI_READ_1105333480197	3468	94.71	0.0	Eukaryota; Haptophyceae; Prymnesiales; Chrysochromulina; otu_3739
+2|rev|JCVI_READ_1105333359854	92037	95.89	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+3|rev|JCVI_READ_1105333481541	92037	95.39	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+4|rev|JCVI_READ_1105333464698	92037	98.66	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+5|rev|JCVI_READ_1105333419589	92037	98.68	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+6|rev|JCVI_READ_1105333521708	92037	98.65	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+7|rev|JCVI_READ_1105333479819	123462	95.43	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+8|rev|JCVI_READ_1105333459111	92037	95.79	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+9|rev|JCVI_READ_1105333319111	92037	94.63	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+10|rev|JCVI_READ_1105333378653	92037	93	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+11|rev|JCVI_READ_1105333420335	92037	96.69	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+12|rev|JCVI_READ_1105333413625	118269	92.56	0.0	Bacteria; Bacteroidetes; Unclassified; otu_684
+13|rev|JCVI_READ_1105333336569	92037	97.22	0.0	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+14|rev|JCVI_READ_1105333615883	68994	98.79	0.0	Bacteria; Unclassified; otu_205
+15|rev|JCVI_READ_1105333409770	123462	95.42	0.0	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Roseomonas; otu_2200
+16|rev|JCVI_READ_1105333579318	95512	93.88	1e-165	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Alteromonadaceae; Microbulbifer; Unclassified; otu_3018
+17|rev|JCVI_READ_1105333586626	92037	93.4	3e-157	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+18|rev|JCVI_READ_1105334010230	160817	83.84	4e-37	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Magnetospirillum; Unclassified; otu_2438
+19|rev|JCVI_READ_1104773275131	196857	86.57	4e-64	Bacteria; Proteobacteria; Gammaproteobacteria; Unclassified; otu_2975
+22|rev|JCVI_READ_1105333560061	92037	96.99	6e-79	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+24|rev|JCVI_READ_1105333404177	92037	87.44	7e-48	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+25|rev|JCVI_READ_1105333627622	234617	99.26	1e-70	Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingomonas; Unclassified; otu_2528
+26|rev|JCVI_READ_1104773310496	101111	97.32	5e-70	Bacteria; Proteobacteria; Gammaproteobacteria; sulfur-oxidizing symbionts; Unclassified; otu_3394
+29|rev|JCVI_READ_1105333330293	92037	99.03	1e-50	Bacteria; Cyanobacteria; Prochlorales; Prochlorococcaceae; Prochlorococcus; Unclassified; otu_1291
+30|rev|JCVI_READ_1105333360392	142115	87.28	2e-39	Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina; Unclassified; otu_175

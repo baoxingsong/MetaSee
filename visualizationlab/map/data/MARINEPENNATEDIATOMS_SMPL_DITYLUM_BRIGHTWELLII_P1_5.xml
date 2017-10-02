@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>MARINEPENNATEDIATOMS_SMPL_DITYLUM_BRIGHTWELLII_P1_5</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>130</val></count>
+		<node name="Eukaryota">
+		<count><val>128</val></count>
+			<node name="stramenopiles">
+			<count><val>127</val></count>
+				<node name="Bacillariophyta">
+				<count><val>127</val></count>
+					<node name="Coscinodiscophyceae">
+					<count><val>127</val></count>
+						<node name="Thalassiosirophycidae">
+						<count><val>127</val></count>
+							<node name="Thalassiosirales">
+							<count><val>127</val></count>
+								<node name="Thalassiosiraceae">
+								<count><val>127</val></count>
+									<node name="Thalassiosira">
+									<count><val>127</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Rhodophyta">
+			<count><val>1</val></count>
+				<node name="Florideophyceae">
+				<count><val>1</val></count>
+					<node name="Palmariales">
+					<count><val>1</val></count>
+						<node name="Palmariaceae">
+						<count><val>1</val></count>
+							<node name="Palmaria">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Bacteria">
+		<count><val>2</val></count>
+			<node name="Bacteroidetes">
+			<count><val>1</val></count>
+				<node name="Flavobacteria">
+				<count><val>1</val></count>
+					<node name="Flavobacteriales">
+					<count><val>1</val></count>
+						<node name="Flavobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Rickettsiales">
+					<count><val>1</val></count>
+						<node name="Anaplasmataceae">
+						<count><val>1</val></count>
+							<node name="Ehrlichia">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

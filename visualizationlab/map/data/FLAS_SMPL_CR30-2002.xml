@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>FLAS_SMPL_CR30-2002</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>3</val></count>
+		<node name="Archaea">
+		<count><val>3</val></count>
+			<node name="Euryarchaeota">
+			<count><val>3</val></count>
+				<node name="Methanopyri">
+				<count><val>3</val></count>
+					<node name="Methanopyrales">
+					<count><val>3</val></count>
+						<node name="Methanopyraceae">
+						<count><val>3</val></count>
+							<node name="Methanopyrus">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

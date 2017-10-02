@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>MetaSee Result</title>
+<link rel="stylesheet" href="skin/jquery.treeview.css" />
+<link rel="stylesheet" href="../red-treeview.css" />
+<link rel="stylesheet" href="skin/screen.css" />
+<link rel="stylesheet" href="skin/alertbrowser.css" />
+<script src="lib/jquery.js" type="text/javascript"></script>
+<script src="lib/jquery.cookie.js" type="text/javascript"></script>
+<script src="lib/jquery.treeview.js" type="text/javascript"></script>
+<script src="lib/alertbrowser.js" type="text/javascript"></script>
+<!--[if IE]><script type="text/javascript" src="lib/excanvasbrowser.js"></script><![endif]-->
+<script type="text/javascript" src="lib/alertRowser.min.js"></script>	
+
+<script type="text/javascript">
+		$(function() {
+			$("#tree").treeview({
+				collapsed: true,
+				animated: "medium",
+				control:"#sidetreecontrol",
+				persist: "location"
+			});
+		})
+		
+	</script>
+	
+<script>
+function switchSysBar(){
+	if(switchPoint.innerText==3)
+	{
+		switchPoint.innerText=4
+		document.all("frmTitle").style.display="none"
+	}
+	else
+	{
+		switchPoint.innerText=3
+		document.all("frmTitle").style.display=""
+	}
+}
+function switchSysBarInfo(){
+	switchPoint.innerText=3
+	document.all("frmTitle").style.display=""
+}
+
+function about(){
+	window.showModalDialog("adminstyle/1/page/about.htm","ABOUT","dialogwidth:300px;dialogheight:150px;center:yes;status:no;scroll:no;help:no");
+}
+
+function over(obj){
+		if(obj.className=="flyoutLink")
+		{
+			obj.style.backgroundColor='#B5C4EC'
+			obj.style.borderColor = '#380FA6'
+		}
+		else if(obj.className=="flyoutLink1")
+		{
+		    obj.style.backgroundColor='#B5C4EC'
+			obj.style.borderColor = '#380FA6'				
+		}
+}
+function out(obj){
+		if(obj.className=="flyoutLink")
+		{
+			obj.style.backgroundColor='#C9F1FF'
+			obj.style.borderColor = 'C9F1FF'
+		}
+		else if(obj.className=="#flyoutLink1")
+		{
+		    obj.style.backgroundColor='#FBF9F9'
+			obj.style.borderColor = '#FBF9F9'				
+		}
+}
+
+function show(d){
+	if(obj=document.all(d))	obj.style.visibility="visible";
+
+}
+function hide(d){
+	if(obj=document.all(d))	obj.style.visibility="hidden";
+}
+
+function JumpToLeftMenu(url){
+	document.getElementById("left").src=url;
+}
+function JumpToMain(url){
+	document.getElementById("main").src=url;
+}
+function DoOnclickMenu(m){
+	if(m!='dosysmenu')
+	{
+		document.getElementById("dosysmenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("dosysmenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='doinfomenu')
+	{
+		document.getElementById("doinfomenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("doinfomenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='doclassmenu')
+	{
+		document.getElementById("doclassmenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("doclassmenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='dotempmenu')
+	{
+		document.getElementById("dotempmenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("dotempmenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='dousermenu')
+	{
+		document.getElementById("dousermenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("dousermenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='dotoolmenu')
+	{
+		document.getElementById("dotoolmenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("dotoolmenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='doextmenu')
+	{
+		document.getElementById("doextmenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("doextmenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='doothermenu')
+	{
+		document.getElementById("doothermenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("doothermenu").style.backgroundColor='#8CBDEF';
+	}
+	if(m!='dofastmenu')
+	{
+		document.getElementById("dofastmenu").style.backgroundColor='';
+	}
+	else
+	{
+		document.getElementById("dofastmenu").style.backgroundColor='#8CBDEF';
+	}
+	document.menuform.onclickmenu.value=m;
+}
+function SettableWidth(){
+	var docEl = document.documentElement;
+	var cw = docEl.clientWidth;
+	cw=cw-12;
+	cw=cw + "px";
+	document.getElementById("maintablewidth").style.width=cw;
+	var ch=docEl.clientHeight;
+	ch=ch-12;
+	ch=ch + "px";
+	document.getElementById("maintablewidth").style.height=ch;
+}
+</script>
+
+<!--browser check begin-->
+<SCRIPT>
+     var showDemo = function () {
+        new CanvasXpress("canvasbrowsercheck",{})
+	 }
+</SCRIPT>
+<CANVAS id=canvasbrowsercheck height="0" width="0" style="border:none; padding:0; margin:0; display:none;"></CANVAS>
+<!--browser check end-->
+
+</head>
+<body bgcolor="#C9F1FF" leftmargin="0" topmargin="0" onLoad="SettableWidth();onLoad=checkBrowser();">
+  <table width="99%" id="maintablewidth" height="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="#ff0000">
+  <tbody>
+    <tr  height="100%">     
+     <td valign="top" id="frmTitle" height="100%">	  
+<div id="sidetree">
+<div id="sidetreecontrol"><a href="?#">Collapse All</a><br/><a href="?#">Expand All</a></div>
+<ul id="tree">
+<li><a href="smallSvg/mainPie.html" target="main">Main Pie Chart</a><li>
+<li><a href="smallSvg/globleView.html" target="main">Global View</a><br/>&nbsp;<a href="smallSvg/globleView.zip" target="_blank">(Download)</a><li>
+<li><a href="smallSvg/MetaSee_krona.html" target="main">Sample view</a><li>
+<li><a href="smallSvg/phylogeneticTree.html" target="main">Phylogenetic view</a><li>
+<li><a href="smallSvg/fakephylogenetictree.newick" target="main">Phylogenetic tree file</a><li>

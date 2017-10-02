@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CAM_SMPL_SRA022197</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>65</val></count>
+		<node name="Eukaryota">
+		<count><val>43</val></count>
+			<node name="Haptophyceae">
+			<count><val>15</val></count>
+				<node name="Prymnesiales">
+				<count><val>15</val></count>
+					<node name="Chrysochromulina">
+					<count><val>15</val></count>
+					</node>
+				</node>
+			</node>
+			<node name="stramenopiles">
+			<count><val>23</val></count>
+				<node name="Bacillariophyta">
+				<count><val>23</val></count>
+					<node name="Fragilariophyceae">
+					<count><val>5</val></count>
+						<node name="Fragilariophycidae">
+						<count><val>5</val></count>
+							<node name="Rhaponeidales">
+							<count><val>4</val></count>
+								<node name="Rhaphoneidaceae">
+								<count><val>4</val></count>
+									<node name="Delphineis">
+									<count><val>4</val></count>
+									</node>
+								</node>
+							</node>
+							<node name="Fragilariales">
+							<count><val>1</val></count>
+								<node name="Fragilariaceae">
+								<count><val>1</val></count>
+									<node name="Asterionellopsis">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Coscinodiscophyceae">
+					<count><val>17</val></count>
+						<node name="Thalassiosirophycidae">
+						<count><val>17</val></count>
+							<node name="Thalassiosirales">
+							<count><val>17</val></count>
+								<node name="Thalassiosiraceae">
+								<count><val>17</val></count>
+									<node name="Thalassiosira">
+									<count><val>17</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Bacillariophyceae">
+					<count><val>1</val></count>
+						<node name="Bacillariophycidae">
+						<count><val>1</val></count>
+							<node name="Naviculales">
+							<count><val>1</val></count>
+								<node name="Phaeodactylaceae">
+								<count><val>1</val></count>
+									<node name="Phaeodactylum">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Cryptophyta">
+			<count><val>5</val></count>
+				<node name="Cryptomonadaceae">
+				<count><val>5</val></count>
+					<node name="Pyrenomonas">
+					<count><val>5</val></count>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Bacteria">
+		<count><val>21</val></count>
+			<node name="Proteobacteria">
+			<count><val>18</val></count>
+				<node name="Gammaproteobacteria">
+				<count><val>13</val></count>
+					<node name="Unclassified">
+					<count><val>1</val></count>
+					</node>
+					<node name="Alteromonadales">
+					<count><val>11</val></count>
+						<node name="Pseudoalteromonadaceae">
+						<count><val>6</val></count>
+							<node name="Pseudoalteromonas">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Alteromonadaceae">
+						<count><val>1</val></count>
+							<node name="Glaciecola">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Colwelliaceae">
+						<count><val>4</val></count>
+							<node name="Colwellia">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Oceanospirillales">
+					<count><val>1</val></count>
+						<node name="Oceanospirillum">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Alphaproteobacteria">
+				<count><val>5</val></count>
+					<node name="Rhizobiales">
+					<count><val>1</val></count>
+						<node name="Rhizobiaceae">
+						<count><val>1</val></count>
+							<node name="group">
+							<count><val>1</val></count>
+								<node name="Rhizobium">
+								<count><val>1</val></count>
+									<node name="Unclassified">
+									<count><val>1</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodobacterales">
+					<count><val>2</val></count>
+						<node name="Rhodobacteraceae">
+						<count><val>2</val></count>
+							<node name="Roseisalinus">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Sphingomonadales">
+					<count><val>2</val></count>
+						<node name="Erythrobacteraceae">
+						<count><val>1</val></count>
+							<node name="Porphyrobacter">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Sphingomonadaceae">
+						<count><val>1</val></count>
+							<node name="Sphingomonas">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Bacteroidetes">
+			<count><val>1</val></count>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+			<node name="Cyanobacteria">
+			<count><val>2</val></count>
+				<node name="Chroococcales">
+				<count><val>2</val></count>
+					<node name="Gloeothece">
+					<count><val>1</val></count>
+					</node>
+					<node name="Synechococcus">
+					<count><val>1</val></count>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Archaea">
+		<count><val>1</val></count>
+			<node name="Euryarchaeota">
+			<count><val>1</val></count>
+				<node name="Methanococci">
+				<count><val>1</val></count>
+					<node name="Methanococcales">
+					<count><val>1</val></count>
+						<node name="Methanococcaceae">
+						<count><val>1</val></count>
+							<node name="Methanococcus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

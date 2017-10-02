@@ -1,0 +1,271 @@
+<script type="text/javascript">jQueryUI.dependencies = {'ui.core.js': [],'ui.widget.js': [],'ui.mouse.js': ['ui.core.js','ui.widget.js'],'ui.position.js': [],'ui.draggable.js': ['ui.core.js','ui.widget.js','ui.mouse.js'],'ui.droppable.js': ['ui.core.js','ui.widget.js','ui.mouse.js','ui.draggable.js'],'ui.resizable.js': ['ui.core.js','ui.widget.js','ui.mouse.js','theme'],'ui.selectable.js': ['ui.core.js','ui.widget.js','ui.mouse.js','theme'],'ui.sortable.js': ['ui.core.js','ui.widget.js','ui.mouse.js'],'ui.accordion.js': ['ui.core.js','ui.widget.js','theme'],'ui.autocomplete.js': ['ui.core.js','ui.widget.js','ui.position.js','theme'],'ui.button.js': ['ui.core.js','ui.widget.js','theme'],'ui.dialog.js': ['ui.core.js','ui.widget.js','ui.position.js','theme'],'ui.slider.js': ['ui.core.js','ui.widget.js','ui.mouse.js','theme'],'ui.tabs.js': ['ui.core.js','ui.widget.js','theme'],'ui.datepicker.js': ['ui.core.js','theme'],'ui.progressbar.js': ['ui.core.js','ui.widget.js','theme'],'effects.core.js': [],'effects.blind.js': ['effects.core.js'],'effects.bounce.js': ['effects.core.js'],'effects.clip.js': ['effects.core.js'],'effects.drop.js': ['effects.core.js'],'effects.explode.js': ['effects.core.js'],'effects.fade.js': ['effects.core.js'],'effects.fold.js': ['effects.core.js'],'effects.highlight.js': ['effects.core.js'],'effects.pulsate.js': ['effects.core.js'],'effects.scale.js': ['effects.core.js'],'effects.shake.js': ['effects.core.js'],'effects.slide.js': ['effects.core.js'],'effects.transfer.js': ['effects.core.js']};;</script>
+<script type="text/javascript">var versionLegacy = "1.7.3";</script>
+
+	
+
+
+<div id="frame">
+<script>
+$(document).ready(function() {
+
+$('#newsflash .newsitem');
+	setInterval(function(){
+		$('#newsflash .newsitem').filter(':visible').fadeOut(500,function(){
+			if($(this).next('span.newsitem').size()){
+				$(this).next().fadeIn(500);
+			}
+			else{
+				$('#newsflash .newsitem').eq(0).fadeIn(500);
+			}
+		});
+	},7500);
+
+$('div.category:not(.active)').hover(function(){
+$(this).css("background-color","#ec1c24");
+$(this).children().children().css("background-color","#8b1924");
+},function(){
+$(this).css("background-color","#666");
+$(this).children().children().css("background-color","#797b80");
+});
+$('img[id^=quick-]').hover(function(){  
+if($(this).attr("src").match(/-on\./)) {
+$(this).attr("src", $(this).attr("src").replace("-on",""));
+} else {
+$(this).attr("src", $(this).attr("src").replace(".png","-on.png"));
+}
+}, 
+function(){
+if($(this).attr("src").match(/-on\./)) {
+$(this).attr("src", $(this).attr("src").replace("-on",""));
+} else {
+$(this).attr("src", $(this).attr("src").replace(".png","-on.png"));
+}
+});
+
+if( $('#menu3').length ) {
+$('#menu2 span.active').css("background-image","url(/dev/circos/gfx/redtick-dgrey.png");
+}
+
+$('img.home').mouseover(function(event){
+$(this).parent().animate({ backgroundColor: "#ec1c24" }, 100);
+$(this).animate({ backgroundColor: "#ec1c24" }, 100);
+});
+$('img.home').mouseout(function(event){
+$(this).parent().animate({ backgroundColor: "#2e3035" }, 100);
+$(this).animate({ backgroundColor: "#2e3035" }, 100);
+});
+$('#menu2 a.normal').mouseover(function(event){
+$(this).animate({ backgroundColor: "#ec1c24" }, 100);
+});
+$('#menu2 a.normal').mouseout(function(event){
+$(this).animate({ backgroundColor: "#2e3035" }, 100);
+});
+$('#menu0 a').mouseover(function(event){
+$(this).animate({ backgroundColor: "#d0d1d4", color: "#000" }, 100);
+$(this).css("border-bottom","2px solid #d0d1d4");
+});
+$('#menu0 a').mouseout(function(event){
+$(this).animate({ backgroundColor: "#ec1c24", color: "#fff" }, 100);
+$(this).css("border-bottom","none");
+});
+$('#menu1 a').mouseover(function(event){
+$(this).animate({ color: "#ec1c24" }, 100);
+});
+$('#menu1 a').mouseout(function(event){
+$(this).animate({ color: "black" }, 100);
+});
+
+// number of mastheads on this page
+var mh_total = $('div.page-masthead').length;
+
+// current masthead - initially random
+var mh_curr  =  0; //Math.floor(Math.random() * mh_total);
+
+add_debug("mh_total " + mh_total);
+add_debug("mh_curr " + mh_curr);
+
+function add_debug(message) {
+//$('#debug').append(message + " ");
+}
+
+function mh_hide(mh) {
+$('#mh-' + mh).removeClass('mh-highlight');
+$('div.page-masthead:eq(' + mh + ')').fadeOut('slow');
+add_debug("hide " + mh);
+}
+
+function mh_show(mh) {
+$('#mh-' + mh).addClass('mh-highlight');
+$('#mh-' + mh).blur();
+$('div.page-masthead:eq(' + mh + ')').fadeIn('slow');
+add_debug("show " + mh);
+}
+
+function mh_step(dir) {
+add_debug("step " + dir);
+mh_hide(mh_curr);
+mh_curr = (mh_curr+dir) % mh_total;
+if(mh_curr < 0) { mh_curr = mh_total - 1; }
+mh_show(mh_curr);
+}
+
+// hide all mastheads, and fade in current
+$('.page-masthead').hide();
+add_debug("show init");
+mh_show(mh_curr);
+
+// register callbacks for prev/next button
+
+setInterval(function(){mh_step(1)},2500);//²¥·Å¶¨Ê±Æ÷
+
+$('#mh-next-small').click(function(){mh_step(1)});
+$('#mh-prev-small').click(function(){mh_step(-1)});
+$('.mh-img').click(function(){mh_step(1)});
+$('.mh-menu').hover(function(){
+$(this).toggleClass("pointer");
+$(this).toggleClass("mh-hover");
+});
+
+// create callbacks for masthead menu items 
+
+for (i=1;i<=mh_total;i++) {
+(function(j) {
+add_debug("reg " + j);
+$('#mh-' + j).click(function(){ 
+mh_hide(mh_curr);
+mh_show(j);
+mh_curr = j;
+});
+})(i-1);
+}
+
+$('#mh-1').click(function(){ mh_show(1); });
+$('#mh-2').click(function(){ mh_show(2); });
+
+$('img').each(function() {
+$(this).attr('title', $(this).attr('alt') || "Circular genome visualization and data visualization with Circos");
+});
+
+});
+
+</script>
+
+
+
+<div id="page-masthead-container">
+
+<div class="page-masthead" style="display: block; ">
+<div class="image"><img class="mh-img" src="skin/images/circos-metagenome.jpg" title="MetaSee introduction"></div>
+<blockquote><div class="background"></div><div class="copy">
+<h1>
+MetaSee intruction
+</h1>
+<p>
+
+</p><p>MetaSee is an online toolbox for metagenome data visualization. It can take metagenomic datasets (community structure) in various formats as input, provide a lot of beautiful and interactive visualization effects for the metagenomic dataset in different angles, and smoothly shift among different visualization effects.
+
+</p>
+
+
+<p></p>
+<div class="annot">// MetaSee intruction</div>
+</div></blockquote>
+</div> <!-- page-masthead -->
+<div class="page-masthead" style="display: none; ">
+<div class="image"><img class="mh-img" src="skin/images/flash2_tools.jpg"></div>
+<blockquote><div class="background"></div><div class="copy">
+<h1>
+MetaSee -- tools
+</h1>
+<p>
+
+</p><p>To provides a facility for metagenome analysing. We provide several data visualization tools. They are easy use, and can make beautiful and publication-quality charts from the input data. They are so easy to use, and may even not need the document here.
+</p>
+
+
+<p></p>
+<div class="annot">// <a href="/tools.jsp">MetaSee -- tools</a></div>
+</div></blockquote>
+</div> <!-- page-masthead -->
+<div class="page-masthead" style="display: none; ">
+<div class="image"><img class="mh-img" src="skin/images/flash3_laboratory.jpg"></div>
+<blockquote><div class="background"></div><div class="copy">
+<h1>
+MetaSee -- Visualization laboratory
+</h1>
+<p>
+</p>
+<p> Data visualization tools provided here are not so easy use and under development, and there maybe some bugs. If developed, we will move them to the tools section.</p>
+
+<p></p>
+<div class="annot">// <a href="/laboratory.jsp">Visualization laboratory</a></div>
+</div></blockquote>
+</div> <!-- page-masthead -->
+<div class="page-masthead" style="display:none;">
+<div class="image"><img class="mh-img" src="skin/images/flash4_digatalmouth.jpg"></div>
+<blockquote><div class="background"></div><div class="copy">
+<h1>
+MetaSee -- Digital Mouth
+</h1>
+<p>
+
+</p>
+<p>
+With a 3D model of mouth, we provided a vividly tool to compare the different metagenome of mouth.  
+</p>
+
+<p></p>
+<div class="annot">// <a href="/visualizationlab/mouth/">Digital Mouth</a></div>
+</div></blockquote>
+</div> <!-- page-masthead -->
+
+<div class="page-masthead" style="display:none;">
+<div class="image"><img class="mh-img" src="skin/images/flash5_map.jpg"></div>
+<blockquote><div class="background"></div><div class="copy">
+<h1>
+MetaSee -- Metagenome global survey
+</h1>
+<p>
+</p>
+<p>
+With the Google Maps API, we provide a visualization tool to compare the different metagenmic sample from global.
+</p>
+
+<p></p>
+<div class="annot">//  <a href="/visualizationlab/map/">Metagenome global survey</a></div>
+</div></blockquote>
+</div> <!-- page-masthead -->
+
+
+
+
+
+
+<select name="theme" id="theme"style="display:none"></select>
+<div id="page-masthead-menu-bg"></div>
+<div id="page-masthead-menu">
+
+<span class="mh-menu" id="mh-prev-small"><img src="skin/images/mh-prev-small.png" title="Circular genome visualization and data visualization with Circos"></span>
+
+<span class="mh-menu mh-highlight" id="mh-0">1</span>
+<span class="mh-menu" id="mh-1">2</span>
+<span class="mh-menu" id="mh-2">3</span>
+<span class="mh-menu" id="mh-3">4</span>
+<span class="mh-menu" id="mh-4">5</span>
+<!--
+<span class="mh-menu" id="mh-5">6</span>
+<span class="mh-menu" id="mh-6">7</span>
+<span class="mh-menu" id="mh-7">8</span>
+<span class="mh-menu" id="mh-8">9</span>
+<span class="mh-menu" id="mh-9">10</span>
+<span class="mh-menu" id="mh-10">11</span>
+<span class="mh-menu" id="mh-11">12</span>
+<span class="mh-menu" id="mh-12">13</span>-->
+
+<span class="mh-menu" id="mh-next-small"><img src="skin/images/mh-next-small.png"></span>
+
+</div>
+
+
+</div> <!-- page-container -->
+</div>

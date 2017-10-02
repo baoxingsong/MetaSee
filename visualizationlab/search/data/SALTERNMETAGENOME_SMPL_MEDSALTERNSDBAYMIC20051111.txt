@@ -1,0 +1,27 @@
+Sequence_id	Database_id	Percentage_identity	E-value	Classification
+1|SalternMetagenome_READ_00560506	161507	99.06	6e-53	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryopsida; Funariidae; Funariales; Funariaceae; Physcomitrella; otu_4012
+2|SalternMetagenome_READ_00539973	161507	99.06	6e-53	Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryopsida; Funariidae; Funariales; Funariaceae; Physcomitrella; otu_4012
+3|SalternMetagenome_READ_00560825	233613	98.95	8e-46	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+4|SalternMetagenome_READ_00540350	233613	97.89	2e-43	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+5|SalternMetagenome_READ_00550648	233613	97.89	2e-43	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+6|SalternMetagenome_READ_00546850	233613	96.84	2e-40	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+7|SalternMetagenome_READ_00545945	233613	96.88	5e-41	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+8|SalternMetagenome_READ_00558869	233613	94.85	3e-36	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Unclassified; otu_3370
+9|NCBI_NT_173646858	29154	100	3e-58	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Propionibacterineae; Propionibacteriaceae; Propionibacterium; Unclassified; otu_519
+10|SalternMetagenome_READ_00560727	169691	93.33	8e-37	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+11|SalternMetagenome_READ_00549798	54099	97.67	1e-38	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+13|SalternMetagenome_READ_00557040	169691	98.7	3e-35	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+14|SalternMetagenome_READ_00542428	54099	94.12	1e-38	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+17|SalternMetagenome_READ_00540080	74464	94.34	2e-40	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+1|rev|NCBI_NT_173338484	171306	100	5e-50	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; Unclassified; otu_3153
+dup2rev|NCBI_NT_173625606	23149	98.85	4e-41	Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Actinomycineae; Actinomycetaceae; Actinomyces; Unclassified; otu_242
+4|rev|SalternMetagenome_READ_00543658	104638	94.96	2e-47	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodobacterales; Rhodobacteraceae; Roseovarius; Unclassified; otu_2363
+5|rev|SalternMetagenome_READ_00560538	133395	100	4e-44	Bacteria; Bacteroidetes; Flavobacteria; Flavobacteriales; Flavobacteriaceae; Unclassified; otu_782
+6|rev|SalternMetagenome_READ_00546161	37026	98.86	1e-41	Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Rhodospirillaceae; Rhodocista; Unclassified; otu_2442
+7|rev|SalternMetagenome_READ_00560871	61960	96.59	2e-37	Bacteria; Proteobacteria; Gammaproteobacteria; Thiotrichales; Piscirickettsiaceae; Methylophaga; Unclassified; otu_3407
+8|rev|SalternMetagenome_READ_00552387	5655	95.28	3e-42	Bacteria; Unclassified; otu_205
+9|rev|NCBI_NT_173221821	131988	100	4e-31	Bacteria; Proteobacteria; Gammaproteobacteria; Alteromonadales; Colwelliaceae; Colwellia; Unclassified; otu_3024
+11|rev|SalternMetagenome_READ_00553750	11319	98.96	2e-46	Bacteria; Fusobacteria; Fusobacterales; Fusobacteriaceae; Fusobacterium; Unclassified; otu_2003
+13|rev|SalternMetagenome_READ_00540592	54099	93.07	1e-35	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+14|rev|SalternMetagenome_READ_00544389	54099	92.23	2e-34	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177
+15|rev|SalternMetagenome_READ_00553036	156943	100	4e-38	Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus; Unclassified; otu_177

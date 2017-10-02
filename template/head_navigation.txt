@@ -1,0 +1,69 @@
+<!--browser check begin-->
+
+<SCRIPT>
+     var showDemo = function () {
+        new CanvasXpress("canvasbrowsercheck")
+	 }
+</SCRIPT>
+<p id=canvasbrowsercheck style="border:none; padding:0; margin:0; display:none;height:0px;width:0px;"></p>
+<!--browser check end-->
+<!--[if IE 5]><div id="ie5" class="ie"><![endif]-->
+<!--[if IE 6]><div id="ie6" class="ie"><![endif]-->
+<!--[if IE 7]><div id="ie7" class="ie"><![endif]-->
+<div id="wrapper">
+	<div id="banner">
+		<h1 class="logo">
+			<a href="index.jsp" title="MetaSee"><span>MetaSee</span></a>
+		</h1>
+		<div id="dock">
+			<div class="left"></div>
+			<ul>
+				<li class="selected">
+					<a href="/visualizationlab/map/">Metagenome global survey</a>
+				</li>
+				<li class="selected" style="padding-right: 12px;">
+					<a href="/visualizationlab/mouth/">Digital Mouth</a>
+				</li>
+			<li class="selected" style="padding-right: 12px;">
+					<a href="/visualizationlab/search/">Database Search</a>
+				</li>
+				<li style="padding-left: 12px;">
+					<div style="background: #555; width: 1px; height: 24px; position: absolute; left: 0px;"></div>
+					<a href="http://groups.google.com/group/metasee">Discussion</a>
+				</li>
+				<li>
+					<a href="/about.jsp">About</a>
+				</li>
+				<li>
+					<a href="/acknowledge.jsp">Acknowledge</a>
+				</li>
+			</ul>
+			<div class="right"></div>
+		</div>
+        
+        
+		<div id="navigation">
+			<div class="left"></div>
+			<ul>
+				<li class="selected">
+					<a href="/index.jsp">Home</a>
+				</li>
+				<li >
+					<a href="/upload.jsp">Upload Your Data</a>
+				</li>
+				<li >
+					<a href="/tools.jsp">Tools</a>
+				</li>
+				<li >
+					<a href="/laboratory.jsp">Laboratory</a>
+				</li>
+				<li >
+					<a href="/download.jsp">Download</a>
+				</li>
+				<li class="last">
+					<a href="/document.jsp">Document</a>
+				</li>
+			</ul>
+			<div class="right"></div>
+		</div>
+	</div>

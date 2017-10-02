@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>SALTERNMETAGENOME_SMPL_FISHMORSLIMKENTSTVIR050406_SRX000232</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>32</val></count>
+		<node name="Bacteria">
+		<count><val>32</val></count>
+			<node name="Proteobacteria">
+			<count><val>22</val></count>
+				<node name="Gammaproteobacteria">
+				<count><val>11</val></count>
+					<node name="Enterobacteriales">
+					<count><val>11</val></count>
+						<node name="Enterobacteriaceae">
+						<count><val>11</val></count>
+							<node name="Buttiauxella">
+							<count><val>2</val></count>
+							</node>
+							<node name="Escherichia">
+							<count><val>6</val></count>
+								<node name="Unclassified">
+								<count><val>6</val></count>
+								</node>
+							</node>
+							<node name="Photorhabdus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Serratia">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Betaproteobacteria">
+				<count><val>11</val></count>
+					<node name="Burkholderiales">
+					<count><val>6</val></count>
+						<node name="Burkholderiaceae">
+						<count><val>2</val></count>
+							<node name="Ralstonia">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+						</node>
+						<node name="Oxalobacteraceae">
+						<count><val>4</val></count>
+							<node name="Collimonas">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Janthinobacterium">
+							<count><val>2</val></count>
+								<node name="Unclassified">
+								<count><val>2</val></count>
+								</node>
+							</node>
+							<node name="Herbaspirillum">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Unclassified">
+					<count><val>2</val></count>
+					</node>
+					<node name="Methylophilales">
+					<count><val>3</val></count>
+						<node name="Methylophilaceae">
+						<count><val>3</val></count>
+							<node name="Methylobacillus">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Firmicutes">
+			<count><val>7</val></count>
+				<node name="Bacillales">
+				<count><val>6</val></count>
+					<node name="Paenibacillaceae">
+					<count><val>6</val></count>
+						<node name="Paenibacillus">
+						<count><val>6</val></count>
+							<node name="Unclassified">
+							<count><val>6</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Clostridia">
+				<count><val>1</val></count>
+					<node name="Clostridiales">
+					<count><val>1</val></count>
+						<node name="Lachnospiraceae">
+						<count><val>1</val></count>
+							<node name="Lachnobacterium">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>2</val></count>
+			</node>
+			<node name="Bacteroidetes">
+			<count><val>1</val></count>
+				<node name="Unclassified">
+				<count><val>1</val></count>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>SCUMS_SMPL_GOM</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>56</val></count>
+		<node name="Bacteria">
+		<count><val>56</val></count>
+			<node name="Proteobacteria">
+			<count><val>56</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>56</val></count>
+					<node name="Rhizobiales">
+					<count><val>8</val></count>
+						<node name="Phyllobacteriaceae">
+						<count><val>8</val></count>
+							<node name="Mesorhizobium">
+							<count><val>8</val></count>
+								<node name="Unclassified">
+								<count><val>8</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Sphingomonadales">
+					<count><val>28</val></count>
+						<node name="Sphingomonadaceae">
+						<count><val>28</val></count>
+							<node name="Sphingomonas">
+							<count><val>28</val></count>
+								<node name="Unclassified">
+								<count><val>28</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodospirillales">
+					<count><val>4</val></count>
+						<node name="Rhodospirillaceae">
+						<count><val>4</val></count>
+							<node name="Magnetospirillum">
+							<count><val>4</val></count>
+								<node name="Unclassified">
+								<count><val>4</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodobacterales">
+					<count><val>16</val></count>
+						<node name="Hyphomonadaceae">
+						<count><val>8</val></count>
+							<node name="Maricaulis">
+							<count><val>8</val></count>
+							</node>
+						</node>
+						<node name="Rhodobacteraceae">
+						<count><val>8</val></count>
+							<node name="Rhodobacter">
+							<count><val>8</val></count>
+								<node name="Unclassified">
+								<count><val>8</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

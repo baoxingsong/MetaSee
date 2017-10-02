@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CORALMETAGENOME_SMPL_PHPORCOMPHAWMIC0206_SRX000247</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>1</val></count>
+		<node name="Bacteria">
+		<count><val>1</val></count>
+			<node name="Bacteroidetes">
+			<count><val>1</val></count>
+				<node name="Flavobacteria">
+				<count><val>1</val></count>
+					<node name="Flavobacteriales">
+					<count><val>1</val></count>
+						<node name="Flavobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Unclassified">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

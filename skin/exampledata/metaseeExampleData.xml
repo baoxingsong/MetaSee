@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>M3 skin day 0</dataset>
+		<dataset>M3 skin day 1</dataset>
+		<dataset>M3 skin day 2</dataset>
+		<dataset>M3 skin day 3</dataset>
+	</datasets>
+	<node name="Archaea">
+		<count><val>8</val><val>10</val><val>9</val><val>29</val></count>
+			<node name="Crenarchaeota">
+			<count><val>1</val><val>5</val><val>2</val><val>7</val></count>
+				<node name="Thermoprotei">
+				<count><val>1</val><val>5</val><val>2</val><val>7</val></count>
+					<node name="Sulfolobales">
+					<count><val>1</val></count>
+						<node name="Sulfolobaceae">
+						<count><val>1</val></count>
+							<node name="Sulfurisphaera">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Thermoproteales">
+					<count><val></val><val>3</val><val>1</val><val>3</val></count>
+						<node name="Thermofilaceae">
+						<count><val></val><val></val><val></val><val>3</val></count>
+							<node name="Thermofilum">
+							<count><val></val><val></val><val></val><val>3</val></count>
+							</node>
+						</node>
+						<node name="Thermoproteaceae">
+						<count><val></val><val>3</val><val>1</val></count>
+							<node name="Thermocladium">
+							<count><val></val><val>3</val><val>1</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Desulfurococcales">
+					<count><val></val><val>2</val><val>1</val><val>4</val></count>
+						<node name="Desulfurococcaceae">
+						<count><val></val><val>2</val><val>1</val><val>4</val></count>
+							<node name="Staphylothermus">
+							<count><val></val><val>1</val><val>1</val><val>1</val></count>
+							</node>
+							<node name="Ignisphaera">
+							<count><val></val><val>1</val><val></val><val>2</val></count>
+							</node>
+							<node name="Desulfurococcus">
+							<count><val></val><val></val><val></val><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		<node name="Euryarchaeota">
+		<count><val>7</val><val>5</val><val>7</val><val>22</val></count>
+			<node name="Methanomicrobia">
+			<count><val>1</val></count>
+				<node name="Methanomicrobiales">
+				<count><val>1</val></count>
+					<node name="Methanomicrobiaceae">
+					<count><val>1</val></count>
+						<node name="Methanomicrobium">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Halobacteria">
+			<count><val>6</val><val>2</val><val>7</val><val>15</val></count>
+				<node name="Halobacteriales">
+				<count><val>6</val><val>2</val><val>7</val><val>15</val></count>
+					<node name="Halobacteriaceae">
+					<count><val>6</val><val>2</val><val>7</val><val>15</val></count>
+						<node name="Natronomonas">
+						<count><val>2</val><val></val><val></val><val>2</val></count>
+						</node>
+						<node name="Natronobacterium">
+						<count><val></val><val></val><val>1</val></count>
+						</node>
+						<node name="Haladaptatus">
+						<count><val>2</val><val>2</val><val>6</val><val>13</val></count>
+						</node>
+						<node name="Halobacterium">
+						<count><val>2</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Methanobacteria">
+			<count><val></val><val></val><val></val><val>5</val></count>
+				<node name="Methanobacteriales">
+				<count><val></val><val></val><val></val><val>5</val></count>
+					<node name="Methanobacteriaceae">
+					<count><val></val><val></val><val></val><val>5</val></count>
+						<node name="Methanosphaera">
+						<count><val></val><val></val><val></val><val>5</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Archaeoglobi">
+			<count><val></val><val>1</val></count>
+				<node name="Archaeoglobales">
+				<count><val></val><val>1</val></count>
+					<node name="Archaeoglobaceae">
+					<count><val></val><val>1</val></count>
+						<node name="Geoglobus">
+						<count><val></val><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Methanopyri">
+			<count><val></val><val>1</val><val></val><val>2</val></count>
+				<node name="Methanopyrales">
+				<count><val></val><val>1</val><val></val><val>2</val></count>
+					<node name="Methanopyraceae">
+					<count><val></val><val>1</val><val></val><val>2</val></count>
+						<node name="Methanopyrus">
+						<count><val></val><val>1</val><val></val><val>2</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Thermoplasmata">
+			<count><val></val><val>1</val></count>
+				<node name="Thermoplasmatales">
+				<count><val></val><val>1</val></count>
+					<node name="Thermoplasmatales_incertae_sedis">
+					<count><val></val><val>1</val></count>
+						<node name="Thermogymnomonas">
+						<count><val></val><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

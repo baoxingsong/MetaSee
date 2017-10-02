@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>SALTERNMETAGENOME_SMPL_FISHMORGUTKENTSTVIR050406_SRX000230</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>5</val></count>
+		<node name="Bacteria">
+		<count><val>5</val></count>
+			<node name="Proteobacteria">
+			<count><val>4</val></count>
+				<node name="Gammaproteobacteria">
+				<count><val>4</val></count>
+					<node name="Enterobacteriales">
+					<count><val>4</val></count>
+						<node name="Enterobacteriaceae">
+						<count><val>4</val></count>
+							<node name="Serratia">
+							<count><val>3</val></count>
+								<node name="Unclassified">
+								<count><val>3</val></count>
+								</node>
+							</node>
+							<node name="Klebsiella">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>1</val></count>
+			</node>
+		</node>
+	</node>
+</metasee>

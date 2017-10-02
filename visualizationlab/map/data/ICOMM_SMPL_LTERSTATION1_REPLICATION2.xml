@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>ICOMM_SMPL_LTERSTATION1_REPLICATION2</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>43</val></count>
+		<node name="Archaea">
+		<count><val>34</val></count>
+			<node name="Euryarchaeota">
+			<count><val>34</val></count>
+				<node name="Methanopyri">
+				<count><val>33</val></count>
+					<node name="Methanopyrales">
+					<count><val>33</val></count>
+						<node name="Methanopyraceae">
+						<count><val>33</val></count>
+							<node name="Methanopyrus">
+							<count><val>33</val></count>
+								<node name="Unclassified">
+								<count><val>33</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Thermoplasmata">
+				<count><val>1</val></count>
+					<node name="Thermoplasmatales">
+					<count><val>1</val></count>
+						<node name="Thermoplasmataceae">
+						<count><val>1</val></count>
+							<node name="Thermoplasma">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Bacteria">
+		<count><val>9</val></count>
+			<node name="Proteobacteria">
+			<count><val>9</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>8</val></count>
+					<node name="Rhizobiales">
+					<count><val>6</val></count>
+						<node name="Rhizobiaceae">
+						<count><val>5</val></count>
+							<node name="group">
+							<count><val>5</val></count>
+								<node name="Rhizobium">
+								<count><val>5</val></count>
+									<node name="Unclassified">
+									<count><val>5</val></count>
+									</node>
+								</node>
+							</node>
+						</node>
+						<node name="Phyllobacteriaceae">
+						<count><val>1</val></count>
+							<node name="Mesorhizobium">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+					<node name="Rhodobacterales">
+					<count><val>2</val></count>
+						<node name="Rhodobacteraceae">
+						<count><val>2</val></count>
+							<node name="Roseobacter">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+							<node name="Sulfitobacter">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Gammaproteobacteria">
+				<count><val>1</val></count>
+					<node name="symbionts">
+					<count><val>1</val></count>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>JGI_AMD_5WAY_IRNMTN_SMPL_20020301</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>216</val></count>
+		<node name="Bacteria">
+		<count><val>78</val></count>
+			<node name="Nitrospirae">
+			<count><val>41</val></count>
+				<node name="Nitrospirales">
+				<count><val>41</val></count>
+					<node name="Nitrospiraceae">
+					<count><val>41</val></count>
+						<node name="Leptospirillum">
+						<count><val>41</val></count>
+							<node name="Unclassified">
+							<count><val>41</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Unclassified">
+			<count><val>22</val></count>
+			</node>
+			<node name="Firmicutes">
+			<count><val>13</val></count>
+				<node name="Bacillales">
+				<count><val>13</val></count>
+					<node name="Bacillaceae">
+					<count><val>8</val></count>
+						<node name="Geobacillus">
+						<count><val>8</val></count>
+							<node name="Unclassified">
+							<count><val>8</val></count>
+							</node>
+						</node>
+					</node>
+					<node name="Paenibacillaceae">
+					<count><val>5</val></count>
+						<node name="Paenibacillus">
+						<count><val>5</val></count>
+							<node name="Unclassified">
+							<count><val>5</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>2</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>2</val></count>
+					<node name="Rhodospirillales">
+					<count><val>2</val></count>
+						<node name="Acetobacteraceae">
+						<count><val>2</val></count>
+							<node name="Acetobacteraceae">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+		<node name="Archaea">
+		<count><val>138</val></count>
+			<node name="Euryarchaeota">
+			<count><val>138</val></count>
+				<node name="Methanopyri">
+				<count><val>110</val></count>
+					<node name="Methanopyrales">
+					<count><val>110</val></count>
+						<node name="Methanopyraceae">
+						<count><val>110</val></count>
+							<node name="Methanopyrus">
+							<count><val>110</val></count>
+								<node name="Unclassified">
+								<count><val>110</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Halobacteria">
+				<count><val>25</val></count>
+					<node name="Halobacteriales">
+					<count><val>25</val></count>
+						<node name="Halobacteriaceae">
+						<count><val>25</val></count>
+							<node name="Halobacterium">
+							<count><val>25</val></count>
+								<node name="Unclassified">
+								<count><val>25</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Thermoplasmata">
+				<count><val>1</val></count>
+					<node name="Thermoplasmatales">
+					<count><val>1</val></count>
+						<node name="Picrophilaceae">
+						<count><val>1</val></count>
+							<node name="Picrophilus">
+							<count><val>1</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Methanococci">
+				<count><val>1</val></count>
+					<node name="Methanococcales">
+					<count><val>1</val></count>
+						<node name="Methanococcaceae">
+						<count><val>1</val></count>
+							<node name="Methanococcus">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+				<node name="Methanomicrobia">
+				<count><val>1</val></count>
+					<node name="Methanosarcinales">
+					<count><val>1</val></count>
+						<node name="Methanosarcinaceae">
+						<count><val>1</val></count>
+							<node name="Methanosarcina">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

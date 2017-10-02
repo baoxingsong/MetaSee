@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>SALTERNMETAGENOME_SMPL_HIGHSALTERNSDBAYVIR20051128</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>2</val></count>
+		<node name="Bacteria">
+		<count><val>2</val></count>
+			<node name="Firmicutes">
+			<count><val>2</val></count>
+				<node name="Bacillales">
+				<count><val>2</val></count>
+					<node name="Bacillaceae">
+					<count><val>2</val></count>
+						<node name="Bacillus">
+						<count><val>1</val></count>
+							<node name="group">
+							<count><val>1</val></count>
+							</node>
+						</node>
+						<node name="Oceanobacillus">
+						<count><val>1</val></count>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>

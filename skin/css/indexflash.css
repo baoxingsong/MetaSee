@@ -1,0 +1,163 @@
+#frame {
+position: relative;
+width:    961px;
+margin:   0 auto;
+padding:  0px;
+}
+
+
+#page-masthead-container {
+position:   relative;
+background: #000;
+max-height: 350px;
+height:     350px;
+padding:    0;
+margin:     0;
+}
+
+#page-masthead-menu-bg {
+position:   absolute;
+bottom:     10px;
+right:      8px;
+width:      400px;
+background: #000;
+height:     20px;
+opacity:    0.5;
+filter:alpha(opacity=50);
+z-index:    15;
+}
+
+#page-masthead-menu {
+position:   absolute;
+bottom:     12px;
+right:      8px;
+width:      400px;
+font-size:  12px;
+text-align: center;
+background: #000
+color:      #fff;
+z-index:    20;
+padding:    0;
+margin:     0;
+}
+
+#page-masthead-menu a {
+font-family:     arial, sans-serif;
+text-decoration: none;
+color:           #eee;
+padding:         3px 5px;
+}
+
+.mh-menu {
+color: #eee;
+padding: 0 6px 1px 5px;
+}
+
+#mh-prev-small, #mh-next-small {
+height: 20px;
+}
+
+.mh-highlight {
+background: #797b80;
+-moz-border-radius: 5px;
+}
+.mh-hover {
+background: #3d3d40;
+-moz-border-radius: 5px;
+}
+
+.page-masthead {
+position: absolute;
+top:  0;
+left: 0;
+background-image:  url(/gfx/page-strip.jpg);
+background-repeat: repeat-x;
+background-color:  #f0f1f3;
+z-index:           0;
+overflow:          hidden;
+max-height:        350px;
+width: 100%;
+}
+
+.page-masthead a {
+color: #ccc;
+}
+
+.page-masthead .menu {
+position: absolute;
+padding: 10px;
+bottom: 30px;
+}
+.page-masthead .menu a {
+font-weight: bold;
+text-decoration: none;
+color: #fff;
+border: 1px solid #aaa;
+padding: 3px 5px;
+margin-left: 5px;
+}
+
+.page-masthead blockquote {
+position: relative;
+float:    right;
+width:    400px;
+height:   330px;
+padding:  0;
+margin:   9px 8px 0 0;
+}
+
+.page-masthead blockquote .background {
+position:   absolute;
+width:      100%;
+height:     100%;
+background: #000;
+opacity:    0.7;
+filter:alpha(opacity=70);
+}
+
+.page-masthead blockquote .copy {
+position: relative;
+opacity:  1.0;
+filter:   alpha(opacity=100);
+color:    #fff;
+margin:   5px 5px 15px 15px;
+}
+
+.page-masthead blockquote .copy p {
+font-family: "Open Sans", helvetica, arial, sans-serif;
+font-size:   85%;
+margin:      0 0 0.5em 0;
+line-height: 120%;
+padding:     0;
+}
+
+.page-masthead blockquote .copy h1 {
+font-size: 12px;
+padding:   0;
+margin:    0 0 0.25em 0;
+}
+.page-masthead blockquote .copy * a:hover {
+background: #797b80;
+}
+.page-masthead blockquote .copy * a {
+color: #88baff;
+}
+
+.page-masthead > .image {
+position:     relative;
+float:        left;
+margin-right: -1000px;
+z-index:      -5;
+}
+
+.page-masthead > .copy {
+padding: 15px;
+}
+
+.page-masthead > .copy h1 {
+text-size: 18px;
+padding: 0;
+margin: 5px 0;
+}
+
+

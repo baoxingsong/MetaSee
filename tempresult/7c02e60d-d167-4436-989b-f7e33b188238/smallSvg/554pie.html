@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Pie Char</title>
+<link href="../skin/demo.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../lib/jquery.min.js"></script>
+<script type="text/javascript">
+ var chart;
+$(document).ready(function() {
+chart = new Highcharts.Chart({
+chart: {
+renderTo: 'container',
+ plotBackgroundColor: null,
+ plotBorderWidth: null,
+	plotShadow: false
+	},title: {
+text: 'Count distribution of Pelotomaculum'
+},
+tooltip: {
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y;}
+},
+plotOptions: {
+pie: {
+allowPointSelect: true,
+cursor: 'pointer',
+dataLabels: {
+enabled: true,
+color: '#000000',
+connectorColor: '#000000',
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y;
+}}}},
+series: [{
+type: 'pie',
+name: 'Browser share',
+data: [
+['Decayed Saliva Sample 1',   52],['Decayed Saliva Sample 2',   75],['Healthy Saliva Sample 1',   6],['Healthy Saliva Sample 2',   4]]
+}]
+});
+});
+</script>
+<script type="text/javascript">
+ var chart;
+$(document).ready(function() {
+chart = new Highcharts.Chart({
+chart: {
+renderTo: 'container2',
+ plotBackgroundColor: null,
+ plotBorderWidth: null,
+	plotShadow: false
+	},title: {
+text: 'Percent distribution of Pelotomaculum'
+},
+tooltip: {
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y*100+"%";}
+},
+plotOptions: {
+pie: {
+allowPointSelect: true,
+cursor: 'pointer',
+dataLabels: {
+enabled: true,
+color: '#000000',
+connectorColor: '#000000',
+formatter: function() {
+return '<b>'+ this.point.name +'</b>: '+ this.y*100+"%";
+}}}},
+series: [{
+type: 'pie',
+name: 'Browser share',
+data: [
+['Decayed Saliva Sample 1',   0.0030396913544163207],['Decayed Saliva Sample 2',   0.011597340343281274],['Healthy Saliva Sample 1',   0.0024937655860349127],['Healthy Saliva Sample 2',   0.0018885741265344666]]
+}]
+});
+});
+</script>
+</head>
+<body>
+<script type="text/javascript" src="../lib/highcharts.js"></script>
+<script type="text/javascript" src="../lib/exporting.js"></script>
+<div id="container" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<p>&nbsp;</p><hr><p>&nbsp;</p><div id="container2" style="width: 800px; height: 400px; margin: 0 auto"></div>
+<div class="buttons">
+<a id="next-example" title="Column Chart" href="554column.html">Bar Chart</a>
+</div>
+<br /><div align="center">Taxa view:&nbsp;&nbsp;<a href="1pie.html">root</a> -- <a href="2pie.html">Bacteria</a> -- <a href="431pie.html">Firmicutes</a> -- <a href="502pie.html">Clostridia</a> -- <a href="503pie.html">Clostridiales</a> -- <a href="553pie.html">Peptococcaceae</a> -- <a href="554pie.html">Pelotomaculum</a><p>&nbsp;</p><p>&nbsp;</p>Go to Taxonomy Browser:&nbsp;&nbsp;<a href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Bacteria">Bacteria</a><p>&nbsp;</p><p>&nbsp;</p></body>
+</html>

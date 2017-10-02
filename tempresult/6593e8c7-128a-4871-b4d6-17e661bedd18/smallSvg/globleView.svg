@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+ <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" width="1480" height="1200.0" id="svg2" version="1.1" sodipodi:docname="newdocument"> <script xlink:href="../lib/SVGPan.js"/> <defs id="defs4"></defs> <metadata id="metadata7"> <rdf:RDF> <cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work> </rdf:RDF></metadata><g id="layer1" transform="translate(0,0)"><rect x="1180" y="100" width="250" height="120" fill = "none" stroke="black"/><text x="1275" y="120" font-family="Verdana" font-size="16" style="fill:rgb(0,0,0)">Legend</text><a xlink:href="MetaSee_krona.html?dataset=0"><rect x="1220" y="134" width="8" height="16" style="fill:rgb(255,0,0)"/><text transform="matrix(1.0 0 0 1 1230 150)" font-family="Verdana" font-size="16" style="fill:rgb(255,0,0)">M3 skin day 0</text></a><a xlink:href="MetaSee_krona.html?dataset=1"><rect x="1220" y="164" width="8" height="16" style="fill:rgb(0,255,0)"/><text transform="matrix(1.0 0 0 1 1230 180)" font-family="Verdana" font-size="16" style="fill:rgb(0,255,0)">M3 skin day 1</text></a><a xlink:href="MetaSee_krona.html?dataset=2"><rect x="1220" y="194" width="8" height="16" style="fill:rgb(0,0,255)"/><text transform="matrix(1.0 0 0 1 1230 210)" font-family="Verdana" font-size="16" style="fill:rgb(0,0,255)">M3 skin day 2</text></a><defs><g id="1" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="1pie.html">
+<use xlink:href="#1" x="297.0" y="238.0" transform="rotate(270,297.0,238.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Archaea"><text transform="matrix(1.0 0 0 1 175.0 238.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Archaea</text></a><line x1="315.0" y1="235.0" x2="320.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="320.0" y1="371.0" x2="320.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="319.25" y1="99.0" x2="330.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="2" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="7.5" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="13.333333333333332" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="14.482758620689657" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="2pie.html">
+<use xlink:href="#2" x="457.0" y="102.0" transform="rotate(270,457.0,102.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Crenarchaeota"><text transform="matrix(1.0769230769230769 0 0 1 335.0 102.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Crenarchaeota</text></a><line x1="480.0" y1="99.0" x2="485.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="485.0" y1="99.0" x2="490.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="3" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="7.5" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="13.333333333333332" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="14.482758620689657" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="3pie.html">
+<use xlink:href="#3" x="617.0" y="102.0" transform="rotate(270,617.0,102.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermoprotei"><text transform="matrix(1.0 0 0 1 495.0 102.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermoprotei</text></a><line x1="635.0" y1="99.0" x2="640.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="640.0" y1="167.0" x2="640.0" y2="31.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="639.25" y1="31.0" x2="650.0" y2="31.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="4" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="4pie.html">
+<use xlink:href="#4" x="777.0" y="34.0" transform="rotate(270,777.0,34.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Sulfolobales"><text transform="matrix(1.0 0 0 1 655.0 34.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Sulfolobales</text></a><line x1="800.0" y1="31.0" x2="805.0" y2="31.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="31.0" x2="810.0" y2="31.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="5" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="5pie.html">
+<use xlink:href="#5" x="937.0" y="34.0" transform="rotate(270,937.0,34.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Sulfolobaceae"><text transform="matrix(1.0769230769230769 0 0 1 815.0 34.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Sulfolobaceae</text></a><line x1="639.25" y1="82.0" x2="650.0" y2="82.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="6" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="11.11111111111111" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="10.344827586206897" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="6pie.html">
+<use xlink:href="#6" x="777.0" y="85.0" transform="rotate(270,777.0,85.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermoproteales"><text transform="matrix(0.9333333333333333 0 0 1 655.0 85.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermoproteales</text></a><line x1="795.0" y1="82.0" x2="800.0" y2="82.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="800.0" y1="99.0" x2="800.0" y2="65.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="799.25" y1="65.0" x2="810.0" y2="65.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="7" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="7pie.html">
+<use xlink:href="#7" x="937.0" y="68.0" transform="rotate(270,937.0,68.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermofilaceae"><text transform="matrix(1.0 0 0 1 815.0 68.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermofilaceae</text></a><line x1="960.0" y1="65.0" x2="965.0" y2="65.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="65.0" x2="970.0" y2="65.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="8" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="8pie.html">
+<use xlink:href="#8" x="1097.0" y="68.0" transform="rotate(270,1097.0,68.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermofilum"><text transform="matrix(1.0 0 0 1 975.0 68.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermofilum</text></a><line x1="799.25" y1="99.0" x2="810.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="9" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="11.11111111111111" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="9pie.html">
+<use xlink:href="#9" x="937.0" y="102.0" transform="rotate(270,937.0,102.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermoproteaceae"><text transform="matrix(0.875 0 0 1 815.0 102.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermoproteaceae</text></a><line x1="960.0" y1="99.0" x2="965.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="99.0" x2="970.0" y2="99.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="10" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="11.11111111111111" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="10pie.html">
+<use xlink:href="#10" x="1097.0" y="102.0" transform="rotate(270,1097.0,102.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermocladium"><text transform="matrix(1.0769230769230769 0 0 1 975.0 102.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermocladium</text></a><line x1="639.25" y1="167.0" x2="650.0" y2="167.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="11" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="16.666666666666664" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="11pie.html">
+<use xlink:href="#11" x="777.0" y="170.0" transform="rotate(270,777.0,170.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Desulfurococcales"><text transform="matrix(0.8235294117647058 0 0 1 655.0 170.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Desulfurococcales</text></a><line x1="800.0" y1="167.0" x2="805.0" y2="167.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="167.0" x2="810.0" y2="167.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="12" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="16.666666666666664" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="12pie.html">
+<use xlink:href="#12" x="937.0" y="170.0" transform="rotate(270,937.0,170.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Desulfurococcaceae"><text transform="matrix(0.7777777777777778 0 0 1 815.0 170.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Desulfurococcaceae</text></a><line x1="955.0" y1="167.0" x2="960.0" y2="167.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="960.0" y1="201.0" x2="960.0" y2="133.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="959.25" y1="133.0" x2="970.0" y2="133.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="13" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="27.000000000000004" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="9.310344827586206" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="13pie.html">
+<use xlink:href="#13" x="1097.0" y="136.0" transform="rotate(270,1097.0,136.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Staphylothermus"><text transform="matrix(0.9333333333333333 0 0 1 975.0 136.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Staphylothermus</text></a><line x1="959.25" y1="167.0" x2="970.0" y2="167.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="14" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="14pie.html">
+<use xlink:href="#14" x="1097.0" y="170.0" transform="rotate(270,1097.0,170.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Ignisphaera"><text transform="matrix(1.0 0 0 1 975.0 170.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Ignisphaera</text></a><line x1="959.25" y1="201.0" x2="970.0" y2="201.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="15" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="15pie.html">
+<use xlink:href="#15" x="1097.0" y="204.0" transform="rotate(270,1097.0,204.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Desulfurococcus"><text transform="matrix(0.9333333333333333 0 0 1 975.0 204.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Desulfurococcus</text></a><line x1="319.25" y1="371.0" x2="330.0" y2="371.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="16" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="17.142857142857142" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="26.666666666666668" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="26.009852216748765" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="16pie.html">
+<use xlink:href="#16" x="457.0" y="374.0" transform="rotate(270,457.0,374.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Euryarchaeota"><text transform="matrix(1.0769230769230769 0 0 1 335.0 374.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Euryarchaeota</text></a><line x1="475.0" y1="371.0" x2="480.0" y2="371.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="480.0" y1="507.0" x2="480.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="479.25" y1="235.0" x2="490.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="17" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="17pie.html">
+<use xlink:href="#17" x="617.0" y="238.0" transform="rotate(270,617.0,238.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanomicrobia"><text transform="matrix(0.9333333333333333 0 0 1 495.0 238.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanomicrobia</text></a><line x1="640.0" y1="235.0" x2="645.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="645.0" y1="235.0" x2="650.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="18" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="18pie.html">
+<use xlink:href="#18" x="777.0" y="238.0" transform="rotate(270,777.0,238.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanomicrobiales"><text transform="matrix(0.7777777777777778 0 0 1 655.0 238.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanomicrobiales</text></a><line x1="800.0" y1="235.0" x2="805.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="235.0" x2="810.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="19" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="19pie.html">
+<use xlink:href="#19" x="937.0" y="238.0" transform="rotate(270,937.0,238.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanomicrobiaceae"><text transform="matrix(0.7368421052631579 0 0 1 815.0 238.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanomicrobiaceae</text></a><line x1="960.0" y1="235.0" x2="965.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="235.0" x2="970.0" y2="235.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="20" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="20pie.html">
+<use xlink:href="#20" x="1097.0" y="238.0" transform="rotate(270,1097.0,238.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanomicrobium"><text transform="matrix(0.875 0 0 1 975.0 238.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanomicrobium</text></a><line x1="479.25" y1="320.0" x2="490.0" y2="320.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="21" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="28.92857142857143" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="7.714285714285715" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="19.95073891625616" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="21pie.html">
+<use xlink:href="#21" x="617.0" y="323.0" transform="rotate(270,617.0,323.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Halobacteria"><text transform="matrix(1.0 0 0 1 495.0 323.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Halobacteria</text></a><line x1="640.0" y1="320.0" x2="645.0" y2="320.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="645.0" y1="320.0" x2="650.0" y2="320.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="22" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="28.92857142857143" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="7.714285714285715" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="19.95073891625616" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="22pie.html">
+<use xlink:href="#22" x="777.0" y="323.0" transform="rotate(270,777.0,323.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Halobacteriales"><text transform="matrix(0.9333333333333333 0 0 1 655.0 323.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Halobacteriales</text></a><line x1="800.0" y1="320.0" x2="805.0" y2="320.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="320.0" x2="810.0" y2="320.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="23" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="28.92857142857143" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="7.714285714285715" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="19.95073891625616" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="23pie.html">
+<use xlink:href="#23" x="937.0" y="323.0" transform="rotate(270,937.0,323.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Halobacteriaceae"><text transform="matrix(0.875 0 0 1 815.0 323.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Halobacteriaceae</text></a><line x1="955.0" y1="320.0" x2="960.0" y2="320.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="960.0" y1="371.0" x2="960.0" y2="269.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="959.25" y1="269.0" x2="970.0" y2="269.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="24" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="8.275862068965518" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="24pie.html">
+<use xlink:href="#24" x="1097.0" y="272.0" transform="rotate(270,1097.0,272.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Natronomonas"><text transform="matrix(1.0 0 0 1 975.0 272.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Natronomonas</text></a><line x1="959.25" y1="303.0" x2="970.0" y2="303.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="25" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="25pie.html">
+<use xlink:href="#25" x="1097.0" y="306.0" transform="rotate(270,1097.0,306.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Natronobacterium"><text transform="matrix(0.875 0 0 1 975.0 306.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Natronobacterium</text></a><line x1="959.25" y1="337.0" x2="970.0" y2="337.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="26" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="11.25" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="9.000000000000002" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="30.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.17241379310345" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="26pie.html">
+<use xlink:href="#26" x="1097.0" y="340.0" transform="rotate(270,1097.0,340.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Haladaptatus"><text transform="matrix(1.0 0 0 1 975.0 340.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Haladaptatus</text></a><line x1="959.25" y1="371.0" x2="970.0" y2="371.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="27" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="30.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="27pie.html">
+<use xlink:href="#27" x="1097.0" y="374.0" transform="rotate(270,1097.0,374.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Halobacterium"><text transform="matrix(1.0769230769230769 0 0 1 975.0 374.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Halobacterium</text></a><line x1="479.25" y1="405.0" x2="490.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="28" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="28pie.html">
+<use xlink:href="#28" x="617.0" y="408.0" transform="rotate(270,617.0,408.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanobacteria"><text transform="matrix(0.9333333333333333 0 0 1 495.0 408.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanobacteria</text></a><line x1="640.0" y1="405.0" x2="645.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="645.0" y1="405.0" x2="650.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="29" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="29pie.html">
+<use xlink:href="#29" x="777.0" y="408.0" transform="rotate(270,777.0,408.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanobacteriales"><text transform="matrix(0.7777777777777778 0 0 1 655.0 408.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanobacteriales</text></a><line x1="800.0" y1="405.0" x2="805.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="405.0" x2="810.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="30" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="30pie.html">
+<use xlink:href="#30" x="937.0" y="408.0" transform="rotate(270,937.0,408.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanobacteriaceae"><text transform="matrix(0.7368421052631579 0 0 1 815.0 408.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanobacteriaceae</text></a><line x1="960.0" y1="405.0" x2="965.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="405.0" x2="970.0" y2="405.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="31" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="0.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="30.0" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="31pie.html">
+<use xlink:href="#31" x="1097.0" y="408.0" transform="rotate(270,1097.0,408.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanosphaera"><text transform="matrix(1.0 0 0 1 975.0 408.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanosphaera</text></a><line x1="479.25" y1="439.0" x2="490.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="32" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="32pie.html">
+<use xlink:href="#32" x="617.0" y="442.0" transform="rotate(270,617.0,442.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Archaeoglobi"><text transform="matrix(1.0 0 0 1 495.0 442.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Archaeoglobi</text></a><line x1="640.0" y1="439.0" x2="645.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="645.0" y1="439.0" x2="650.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="33" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="33pie.html">
+<use xlink:href="#33" x="777.0" y="442.0" transform="rotate(270,777.0,442.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Archaeoglobales"><text transform="matrix(0.9333333333333333 0 0 1 655.0 442.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Archaeoglobales</text></a><line x1="800.0" y1="439.0" x2="805.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="439.0" x2="810.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="34" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="34pie.html">
+<use xlink:href="#34" x="937.0" y="442.0" transform="rotate(270,937.0,442.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Archaeoglobaceae"><text transform="matrix(0.875 0 0 1 815.0 442.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Archaeoglobaceae</text></a><line x1="960.0" y1="439.0" x2="965.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="439.0" x2="970.0" y2="439.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="35" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="35pie.html">
+<use xlink:href="#35" x="1097.0" y="442.0" transform="rotate(270,1097.0,442.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Geoglobus"><text transform="matrix(1.0 0 0 1 975.0 442.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Geoglobus</text></a><line x1="479.25" y1="473.0" x2="490.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="36" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="36pie.html">
+<use xlink:href="#36" x="617.0" y="476.0" transform="rotate(270,617.0,476.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanopyri"><text transform="matrix(1.0 0 0 1 495.0 476.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanopyri</text></a><line x1="640.0" y1="473.0" x2="645.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="645.0" y1="473.0" x2="650.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="37" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="37pie.html">
+<use xlink:href="#37" x="777.0" y="476.0" transform="rotate(270,777.0,476.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanopyrales"><text transform="matrix(1.0 0 0 1 655.0 476.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanopyrales</text></a><line x1="800.0" y1="473.0" x2="805.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="473.0" x2="810.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="38" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="38pie.html">
+<use xlink:href="#38" x="937.0" y="476.0" transform="rotate(270,937.0,476.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanopyraceae"><text transform="matrix(0.9333333333333333 0 0 1 815.0 476.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanopyraceae</text></a><line x1="960.0" y1="473.0" x2="965.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="473.0" x2="970.0" y2="473.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="39" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="15" width="20.68965517241379" height="5" style="fill:rgb(151,173,172);"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="20" x2="2" y2="20" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="39pie.html">
+<use xlink:href="#39" x="1097.0" y="476.0" transform="rotate(270,1097.0,476.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Methanopyrus"><text transform="matrix(1.0 0 0 1 975.0 476.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Methanopyrus</text></a><line x1="479.25" y1="507.0" x2="490.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="40" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="40pie.html">
+<use xlink:href="#40" x="617.0" y="510.0" transform="rotate(270,617.0,510.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermoplasmata"><text transform="matrix(1.0 0 0 1 495.0 510.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermoplasmata</text></a><line x1="640.0" y1="507.0" x2="645.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="645.0" y1="507.0" x2="650.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="41" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="41pie.html">
+<use xlink:href="#41" x="777.0" y="510.0" transform="rotate(270,777.0,510.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermoplasmatales"><text transform="matrix(0.8235294117647058 0 0 1 655.0 510.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermoplasmatales</text></a><line x1="800.0" y1="507.0" x2="805.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="805.0" y1="507.0" x2="810.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="42" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="42pie.html">
+<use xlink:href="#42" x="937.0" y="510.0" transform="rotate(270,937.0,510.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermoplasmatales_incertae_sedis"><text transform="matrix(0.4375 0 0 1 815.0 510.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermoplasmatales_incertae_sedis</text></a><line x1="960.0" y1="507.0" x2="965.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/><line x1="965.0" y1="507.0" x2="970.0" y2="507.0" style="stroke:rgb(0,0,0);stroke-width:1.5"/>
+<defs><g id="43" width="34.0" height="160" patternTransform="rotate(270)" patternUnits="userSpaceOnUse"  stroke="none">
+<rect x="-1" y="0" width="0.0" height="5" style="fill:rgb(255,0,0);"/>
+<line x1="-1" y1="0" x2="2" y2="0" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="5" width="30.0" height="5" style="fill:rgb(0,255,0);"/>
+<line x1="-1" y1="5" x2="2" y2="5" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<rect x="-1" y="10" width="0.0" height="5" style="fill:rgb(0,0,255);"/>
+<line x1="-1" y1="10" x2="2" y2="10" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="-1" y1="15" x2="2" y2="15" style="stroke:rgb(0,0,0);stroke-width:1"/><line x1="-1" y1="-0.5" x2="-1" y2="15.5" style="stroke:rgb(0,0,0);stroke-width:1"/></g></defs>
+<a xlink:href="43pie.html">
+<use xlink:href="#43" x="1097.0" y="510.0" transform="rotate(270,1097.0,510.0)"/></a><a xlink:href="http://www.computationalbioenergy.org/web_service/parallel-meta_developing/visualization_redirect.cgi?target=Thermogymnomonas"><text transform="matrix(0.875 0 0 1 975.0 510.0)" font-family="Verdana" font-size="12" style="fill:rgb(0,0,0)">Thermogymnomonas</text></a></g></svg>

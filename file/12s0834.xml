@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>2000</dataset>
+		<dataset>2001</dataset>
+		<dataset>2002</dataset>
+		<dataset>2003</dataset>
+		<dataset>2004</dataset>
+		<dataset>2005</dataset>
+		<dataset>2006</dataset>
+		<dataset>2007</dataset>
+		<dataset>2008</dataset>
+		<dataset>2009</dataset>
+		<dataset>2010</dataset>
+	</datasets>
+	<node name="Genetically Engineered Crops">
+		<count><val>140</val><val>163</val><val>180</val><val>194</val><val>208</val><val>218</val><val>233</val><val>251</val><val>258</val><val>264</val><val>272</val></count>
+		<node name="Corn">
+		<count><val>25</val><val>26</val><val>34</val><val>40</val><val>47</val><val>52</val><val>61</val><val>73</val><val>80</val><val>85</val><val>86</val></count>
+			<node name="Insectresistant">
+			<count><val>18</val><val>18</val><val>22</val><val>25</val><val>27</val><val>26</val><val>25</val><val>21</val><val>17</val><val>17</val><val>16</val></count>
+			</node>
+			<node name="Herbicideresistant">
+			<count><val>6</val><val>7</val><val>9</val><val>11</val><val>14</val><val>17</val><val>21</val><val>24</val><val>23</val><val>22</val><val>23</val></count>
+			</node>
+			<node name="Stackedgene">
+			<count><val>1</val><val>1</val><val>2</val><val>4</val><val>6</val><val>9</val><val>15</val><val>28</val><val>40</val><val>46</val><val>47</val></count>
+			</node>
+		</node>
+		<node name="Cotton">
+		<count><val>61</val><val>69</val><val>71</val><val>73</val><val>76</val><val>79</val><val>83</val><val>87</val><val>86</val><val>88</val><val>93</val></count>
+			<node name="Insectresistant">
+			<count><val>15</val><val>13</val><val>13</val><val>14</val><val>16</val><val>18</val><val>18</val><val>17</val><val>18</val><val>17</val><val>15</val></count>
+			</node>
+			<node name="Herbicideresistant">
+			<count><val>26</val><val>32</val><val>36</val><val>32</val><val>30</val><val>27</val><val>26</val><val>28</val><val>23</val><val>23</val><val>20</val></count>
+			</node>
+			<node name="Stackedgene">
+			<count><val>20</val><val>24</val><val>22</val><val>27</val><val>30</val><val>34</val><val>39</val><val>42</val><val>45</val><val>48</val><val>58</val></count>
+			</node>
+		</node>
+		<node name="Soybean">
+		<count><val>54</val><val>68</val><val>75</val><val>81</val><val>85</val><val>87</val><val>89</val><val>91</val><val>92</val><val>91</val><val>93</val></count>
+			<node name="Insectresistant">
+			<count><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val></count>
+			</node>
+			<node name="Herbicideresistant">
+			<count><val>54</val><val>68</val><val>75</val><val>81</val><val>85</val><val>87</val><val>89</val><val>91</val><val>92</val><val>91</val><val>93</val></count>
+			</node>
+			<node name="Stackedgene">
+			<count><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val><val>0</val></count>
+			</node>
+		</node>
+	</node>
+</metasee>

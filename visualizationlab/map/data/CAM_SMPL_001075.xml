@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metasee>
+	<datasets>
+		<dataset>CAM_SMPL_001075</dataset>
+	</datasets>
+	<node name="root">
+	<count><val>4</val></count>
+		<node name="Bacteria">
+		<count><val>4</val></count>
+			<node name="Firmicutes">
+			<count><val>3</val></count>
+				<node name="Bacillales">
+				<count><val>3</val></count>
+					<node name="Staphylococcus">
+					<count><val>1</val></count>
+						<node name="Unclassified">
+						<count><val>1</val></count>
+						</node>
+					</node>
+					<node name="Bacillaceae">
+					<count><val>2</val></count>
+						<node name="Bacillus">
+						<count><val>2</val></count>
+							<node name="Unclassified">
+							<count><val>2</val></count>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+			<node name="Proteobacteria">
+			<count><val>1</val></count>
+				<node name="Alphaproteobacteria">
+				<count><val>1</val></count>
+					<node name="Rhizobiales">
+					<count><val>1</val></count>
+						<node name="Hyphomicrobiaceae">
+						<count><val>1</val></count>
+							<node name="Rhodoplanes">
+							<count><val>1</val></count>
+								<node name="Unclassified">
+								<count><val>1</val></count>
+								</node>
+							</node>
+						</node>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</metasee>
